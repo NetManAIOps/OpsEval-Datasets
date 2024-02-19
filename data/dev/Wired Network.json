@@ -1,0 +1,90 @@
+[
+    {
+        "id": "Wired Network-0",
+        "type": 1,
+        "question": "One of your coworkers has purchased an external Bluetooth trackpad to use with their tablet. They've turned to you, the company IT person, to install and configure it for them. What actions will you need to take? (Choose two.)",
+        "choices": [
+            "Plug the device into a USB port.",
+            "Install drivers.",
+            "Put the device in pairing mode and open Bluetooth settings on the tablet, then tap the trackpad.",
+            "Go to Settings to configure speed and scrolling features."
+        ],
+        "answer": "C,D",
+        "solution": "Analyzing each choice:\n\nA: Plug the device into a USB port - This is incorrect. Bluetooth devices do not need to be plugged into a USB port as they connect wirelessly.\n\nB: Install drivers - This may or may not be necessary. Some devices will require drivers to be installed, but many modern devices and operating systems will automatically handle this.\n\nC: Put the device in pairing mode and open Bluetooth settings on the tablet, then tap the trackpad - This is correct. To connect a Bluetooth device, you typically need to put it in pairing mode and then connect to it from the device you want to use it with.\n\nD: Go to Settings to configure speed and scrolling features - This is also correct. Once the device is connected, you may need to adjust settings like speed and scrolling to suit the user's preferences.",
+        "topic": [
+            "Mobile Devices"
+        ],
+        "source": "9781119862642/c01.xhtml",
+        "original_solution": "Configuring a new Bluetooth trackpad is a fairly simple procedure. You first need to pair the device with the tablet, then configure it for speed and clicking and such. The CompTIA A+ objectives list the steps for connecting Bluetooth devices as follows: \n\n  1. Enable Bluetooth.\n  2. Enable pairing.\n  3. Find a device for pairing.\n  4. Enter the appropriate PIN code.\n  5. Test connectivity"
+    },
+    {
+        "id": "Wired Network-1",
+        "type": 1,
+        "question": "What types of networking will smart cameras often have built into them? (Choose two.)",
+        "choices": [
+            "Bluetooth",
+            "IrDA",
+            "RJ-45",
+            "Wi-Fi"
+        ],
+        "answer": "A,D",
+        "solution": "A: Bluetooth - This is a possible answer. Bluetooth is a wireless technology that enables data exchange over short distances. It is commonly used in many devices, including smart cameras, for sharing data.\n\nB: IrDA - This is not a likely answer. IrDA stands for Infrared Data Association, a group of device manufacturers that developed a standard for transmitting data via infrared light waves. While it was popular in the past, it has largely been replaced by Wi-Fi and Bluetooth in most modern devices, including smart cameras.\n\nC: RJ-45 - This is not a likely answer. RJ-45 is a type of connector commonly used for Ethernet networking. While it's possible for a smart camera to have an RJ-45 port for wired networking, it's not as common as wireless options like Wi-Fi and Bluetooth, especially considering the flexibility and convenience of wireless connections.\n\nD: Wi-Fi - This is a possible answer. Wi-Fi is a wireless networking technology that uses radio waves to provide wireless high-speed Internet and network connections. It is commonly built into smart cameras to allow them to connect to home networks and the internet.",
+        "topic": [
+            "Mobile Devices"
+        ],
+        "source": "9781119862642/c01.xhtml",
+        "original_solution": "Smart cameras have built-in wireless network connectivity for easy picture and video transfers. Many will include Wi-Fi, Bluetooth, and NFC (Near-field Communication). IrDA uses infrared light for communication and is not popular, and RJ-45 is a type of networking connector"
+    },
+    {
+        "id": "Wired Network-2",
+        "type": 1,
+        "question": "Which of the following statements about single-mode fiber-optic cable are true? (Choose all that apply.)",
+        "choices": [
+            "Single-mode cables use an LED light source, whereas multimode cables use a laser.",
+            "Single-mode cables can span longer distances than multimode cables.",
+            "Single-mode cables have a smaller core filament than multimode cables.",
+            "Single-mode cables have a smaller bend radius than multimode, making them easier to install.",
+            "Single-mode fiber-optic cables require a ground, whereas multimode cables do not."
+        ],
+        "answer": "B,C",
+        "solution": "Single-mode cables have a smaller core filament and can span longer distances than multimode cables. Single-mode cables also use a laser light source, have a larger bend radius, and do not require a ground",
+        "topic": [
+            "Networking Fundamentals"
+        ],
+        "source": "9781119807308/c01.xhtml"
+    },
+    {
+        "id": "Wired Network-3",
+        "type": 1,
+        "question": "Which of the following are modes of SXP peers? (Choose two.)",
+        "choices": [
+            "Speaker",
+            "SGT-Reflector",
+            "Listener",
+            "SGT-Sender"
+        ],
+        "answer": "A,C",
+        "solution": "**Explanation:** Every SXP peer session has a speaker and a listener. A speaker sends the mappings of IP addresses to SGTs. The listener receives those updates and records them. A peer can be configured to be both a speaker and a listener for the same peer if both support it. It may have numerous peers as well",
+        "topic": [
+            "TrustSec and MACsec"
+        ],
+        "source": "9780136677710/ch17.xhtml"
+    },
+    {
+        "id": "Wired Network-4",
+        "type": 1,
+        "question": "Router R1 currently supports IPv4, routing packets in and out all its interfaces. R1’s configuration needs to be migrated to support dual-stack operation, routing both IPv4 and IPv6. Which of the following tasks must be performed before the router can also support routing IPv6 packets? (Choose two answers.)",
+        "choices": [
+            "Enable IPv6 on each interface using an [ipv6 address](vol1_gloss.xhtml#gloss_243) interface subcommand.",
+            "Enable support for both versions with the ip versions 4 6 global command.",
+            "Additionally enable IPv6 routing using the ipv6 unicast-routing global command.",
+            "Migrate to dual-stack routing using the ip routing dual-stack global command."
+        ],
+        "answer": "A,C",
+        "solution": "Of the four answers, the two correct answers show the minimal required configuration to support IPv6 on a Cisco router: enabling IPv6 routing ( **ipv6 unicast-routing** ) and enabling IPv6 on each interface, typically by adding a unicast address to each interface ( **ipv6 address…** ). The two incorrect answers list nonexistent commands",
+        "topic": [
+            "Implementing IPv6 Addressing on Routers"
+        ],
+        "source": "9780136755562/vol1_ch24.xhtml"
+    }
+]
