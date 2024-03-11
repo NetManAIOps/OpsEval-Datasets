@@ -1,3 +1,17 @@
+---
+languages:
+- English
+- Chinese
+pretty_name: OpsEval
+tags:
+- AIOps
+- LLM
+- Operations
+- Benchmark
+- Dataset
+license: apache-2.0
+---
+
 # OpsEval Dataset
 
 [Website](https://opseval.cstcloud.cn/content/home) | [Reporting Issues](https://github.com/NetManAIOps/OpsEval-Datasets/issues/new)
