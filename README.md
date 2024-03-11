@@ -1,5 +1,5 @@
 ---
-languages:
+language:
 - English
 - Chinese
 pretty_name: OpsEval
