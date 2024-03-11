@@ -1,0 +1,27 @@
+[
+    {
+        "question": "日志样例：<182>Dec 3 13:42:12 BH_GD1 info logger: [ssl_acc] 127.0.0.1 - - [03/Dec/2017:13:42:12 +0800] \"/iControl/iControlPortal.cgi\" 200 769，如何通过正则表达式解析出时间字段time”Dec 3 13:42:12“、访问状态字段status“200”？",
+        "id": "Log Analysis-0",
+        "answer": "<\\d+>(?<time>\\w+\\s+\\d+\\s+\\d+:\\d+:\\d+).*\\s+(?<status>\\d+)\\s+\\d+"
+    },
+    {
+        "question": "常见的日志等级有哪些？",
+        "id": "Log Analysis-1",
+        "answer": "EMERG（紧急）、ALERT（警告）、CRIT（严重）、ERR（错误）、WARNING（提醒）、NOTICE（注意）、INFO（信息）、DEBUG（调试）"
+    },
+    {
+        "question": "用正则提取这条日志的字段\n2023-11-25 13:52:33,493 DEBUG yotta-frontend-actor-system-akka.actor.default-dispatcher-12 dbcp2.PoolableConnectionFactory: Failed to validate a poolable connection.\ncom.mysql.jdbc.exceptions.jdbc4.CommunicationsException: The last packet successfully received from the server was 248,702,880 milliseconds ago.  The last packet sent successfully to the server was 248,702,880 milliseconds ago. is longer than the server configured value of 'wait_timeout'. You should consider either expiring and/or testing connection validity before use in your application, increasing the server configured values for client timeouts, or using the Connector/J connection property 'autoReconnect=true' to avoid this problem.",
+        "id": "Log Analysis-2",
+        "answer": "\n(?<timestamp>\\d+-\\d+-\\d+ \\d+:\\d+:\\d+,\\d+)\\s+(?<loglevel>\\S+)\\s+(?<thread>\\S+)\\s+(?<class>[^:]+)[\\s\\S]*?\\s+(?<exception_class>\\S+Exception)"
+    },
+    {
+        "question": "如何开始业务系统日志分析",
+        "id": "Log Analysis-3",
+        "answer": "首先需要了解该业务系统主要功能，以及相应的业务运行逻辑架构，其次从业务运维人员处获得运维知识库，找到常见问题，以及梳理告警关键字，并建立错误关键字告警和反应业务健康度的黄金指标如饱和度（满没满），延时（耗时）和并发负载等内容。最后将该系统涉及的数据库、中间件、主机或容器等应用一并形成监控指标体系。"
+    },
+    {
+        "question": "在日志解析中，多行日志是什么？如何处理？",
+        "id": "Log Analysis-4",
+        "answer": "多行日志指的是跨越多行的日志条目，解析时需要将其组合成单个条目以便于处理和分析。"
+    }
+]

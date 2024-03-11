@@ -1,0 +1,65 @@
+[
+    {
+        "id": "5G Communication-0",
+        "question": "5G AN 和 AMF 之间最上层协议是：（）\n\nA: GTP-U\nB: GTP-C\nC: NG-AP.\nD: S1AP",
+        "choices": [
+            "GTP-U",
+            "GTP-C",
+            "NG-AP.",
+            "S1AP"
+        ],
+        "qtype": 0,
+        "answer": "C",
+        "solution": ""
+    },
+    {
+        "id": "5G Communication-1",
+        "question": "PCF通知哪个网元创建语音专有QoS Flow\nA: SMF\nB: AMF\nC: UPF\nD: sbc",
+        "choices": [
+            "SMF",
+            "AMF",
+            "UPF",
+            "sbc"
+        ],
+        "qtype": 0,
+        "answer": "A",
+        "solution": ""
+    },
+    {
+        "id": "5G Communication-2",
+        "question": "和EPC接口Sgi功能类似的5GC接口是？\nA: N1\nB: N2\nC: N3\nD: N6",
+        "choices": [
+            "N1",
+            "N2",
+            "N3",
+            "N6"
+        ],
+        "qtype": 0,
+        "answer": "D",
+        "solution": ""
+    },
+    {
+        "id": "5G Communication-3",
+        "question": "option3 的控制面是通过gnodeb传递的\nA: 正确\nB: 错误",
+        "choices": [
+            "正确",
+            "错误"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": ""
+    },
+    {
+        "id": "5G Communication-4",
+        "question": "为了减少混乱的方位角带来的网络干扰不确定性，应尽量保证各扇区天线的夹角为120度，最低要求不能小于（）度\nA: 70\nB: 80\nC: 90\nD: 100",
+        "choices": [
+            "70",
+            "80",
+            "90",
+            "100"
+        ],
+        "qtype": 0,
+        "answer": "C",
+        "solution": ""
+    }
+]

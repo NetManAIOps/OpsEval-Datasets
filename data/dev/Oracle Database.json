@@ -1,0 +1,32 @@
+[
+    {
+        "question": "Evalute these conmands which execate sucestully\nCREATE SEQUENCE ord_seq\nINCREMENT BY 1\nSTART WITH 1\nMAXVALUE 100000\nCYCLE\nCACHE 5000;\nWhich two statements are true atout the ORD_ITEMS table and the ORD_SEQ sequence?\nA.  Any user inserting rows into table ORD_ITEMS must have been granted access to sequence \nORD_SEQ.\nB.  Colunn ORD_NO gets the next number from squence ORD_SEQ whenever a row is inserted into \nORD_ITEMS and no explict value is given for ORD_NO.\nC.  Sepuence ORD_SEQ cycles back to 1 after every 5000 numbers and can cycle 20 times\nD.  IF sequence ORD_SEQ is dropped then the default value for column ORD_NO will be NULL for\nrows inserted into ORD_ITEMS.\nE.  Sequence ORD_SEQ is guaranteed not to genenate duplicate numbers.",
+        "answer": "A,B",
+        "solution": "",
+        "id": "Oracle Database-0"
+    },
+    {
+        "question": "Which three statements are true about the Oracle join and ANSI Join syntax?\nA.  The SQL:1999 compliant ANSI Join syntax supports creation of a Cartesian product of two tables.\nB.  The Orade join syntax performs less well than the SQL:1999 compliant ANST join syntax.\nC.  The SQL:1999 compliant ANSI join syntax supports natural Joins.\nD.  The Orade join syntax perfoms better than the SQL:1999 compliant ANSI join syntax.\nE.  The Orade join syntax supports creation of a Cartesian product of two tables.\nF.  The Oracle join syntax suports natural joins.\nG.  The Orade join syntax only supports right outer joins.",
+        "answer": "C,D,E",
+        "solution": "",
+        "id": "Oracle Database-1"
+    },
+    {
+        "question": "52、Which three are true about a whole database backup?\nA.  It can be created only by using RMAN\nB.  It is the only possible backup type for a database in NOARCHIVELOG mode\nC.  It can be consistent.\nD.  It can consist of either backup sets or image copies.\nE.  It can be inconsistent\nF.  It always includes all data files, the current control file, the server parameter file, and archived \nredo logs.\n",
+        "answer": "C,D,E",
+        "solution": "",
+        "id": "Oracle Database-2"
+    },
+    {
+        "question": "5、You plan to perform cross-platform PDB transport using XTTS.\nWhich two are true?\nA. A backup of the PDB must exist, taken using the BACKUP command with the ro PLATFORM \nclause\nB.  The source PDB can be in MOUNT or OPEN state\nC. The source PDB must be in MOUNT statE.\nD.  The source PDB must not be an application root.\nE.  Automatic conversion of endianess occurs.\nF.  The source and target platforms must have the same endianess",
+        "answer": "A,F",
+        "solution": "",
+        "id": "Oracle Database-3"
+    },
+    {
+        "question": "Which three statements are true about an ORDER BY clause?\nA.  By default an ORDER BY clause sorts rows in descending order.\nB.  An ORDER BY clause can perform a linguistic sort.\nC.  An ORDER BY clause can perform a binary sort.\nD.  By default an ORDER BY clause sorts rows in ascending order.\nE.  An ORDER BY clause will always precede a HAVING clause if both are used in the same top-level \nquery.\nF.  An ORDER BY clause always sorts NULL values last.",
+        "answer": "B,C,D",
+        "solution": "",
+        "id": "Oracle Database-4"
+    }
+]
