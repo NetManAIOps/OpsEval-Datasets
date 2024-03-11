@@ -1,7 +1,7 @@
 ---
 language:
-- English
-- Chinese
+- en
+- zh
 pretty_name: OpsEval
 tags:
 - AIOps
