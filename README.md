@@ -10,6 +10,10 @@ tags:
 - Benchmark
 - Dataset
 license: apache-2.0
+task_categories:
+- question-answering
+size_categories:
+- 1K<n<10K
 ---
 
 # OpsEval Dataset
@@ -87,4 +91,3 @@ Please use the following citation when referencing the OpsEval dataset in your r
       primaryClass={cs.AI}
 }
 ```
-
