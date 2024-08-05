@@ -4171,5 +4171,325 @@
         "qtype": 0,
         "answer": "C",
         "solution": ""
+    },
+    {
+        "question": "在5GS中，用于鉴权方式选择的核心网节点是？",
+        "choices": [
+            "AMF",
+            "SMF",
+            "UDM",
+            "AUSF"
+        ],
+        "answer": "C",
+        "solution": "",
+        "id": "huaweicloud-0",
+        "A": "AMF",
+        "B": "SMF",
+        "C": "UDM",
+        "D": "AUSF"
+    },
+    {
+        "question": "SMF通过TAI选()的UPF，SMF通过DNN选()的UPF。",
+        "choices": [
+            "数据服务;N3",
+            "N3;数据服务",
+            "N9;数据服务",
+            "N9;N3"
+        ],
+        "A": "数据服务;N3",
+        "B": "N3;数据服务",
+        "C": "N9;数据服务",
+        "D": "N9;N3",
+        "answer": "B",
+        "solution": "",
+        "id": "huaweicloud-1"
+    },
+    {
+        "question": "UDM不支持如下功能特性",
+        "choices": [
+            "生成AKA鉴权秘钥",
+            "合法监听",
+            "SMS业务支持",
+            "支持3GPP接入和非3GPP接入鉴权"
+        ],
+        "answer": "D",
+        "solution": "",
+        "id": "huaweicloud-2",
+        "A": "生成AKA鉴权秘钥",
+        "B": "合法监听",
+        "C": "SMS业务支持",
+        "D": "支持3GPP接入和非3GPP接入鉴权"
+    },
+    {
+        "question": "5G SA归属地接入需要新增",
+        "choices": [
+            "SGW、PGW分离部署",
+            "I-SMF、I-UPF",
+            "特殊切片",
+            "特殊配置"
+        ],
+        "A": "SGW、PGW分离部署",
+        "B": "I-SMF、I-UPF",
+        "C": "特殊切片",
+        "D": "特殊配置",
+        "answer": "B",
+        "solution": "",
+        "id": "huaweicloud-3"
+    },
+    {
+        "question": "关于Fullmesh约束说法不正确的是",
+        "choices": [
+            "Fullmesh部署时要求配置为U面分配F-TEIDU",
+            "20.0Fullmesh部署下主推U面分配UEIP地址",
+            "Fullmesh部署场景下，SMF间/UPF间用户支持无损的备份关系",
+            "Fullmesh部署时最多支持32个SMF，256个UPF互联"
+        ],
+        "A": "Fullmesh部署时要求配置为U面分配F-TEIDU",
+        "B": "20.0Fullmesh部署下主推U面分配UEIP地址",
+        "C": "Fullmesh部署场景下，SMF间/UPF间用户支持无损的备份关系",
+        "D": "Fullmesh部署时最多支持32个SMF，256个UPF互联",
+        "answer": "C",
+        "solution": "",
+        "id": "huaweicloud-4"
+    },
+    {
+        "question": "PDU会话建立过程中，SMF通过查询哪个参数查找AMF？",
+        "choices": [
+            "amfRegionId",
+            "amfSetId",
+            "nfInstanceId",
+            "nfservice"
+        ],
+        "answer": "C",
+        "solution": "",
+        "id": "huaweicloud-5",
+        "A": "amfRegionId",
+        "B": "amfSetId",
+        "C": "nfInstanceId",
+        "D": "nfservice"
+    },
+    {
+        "question": "5G初始注册场景下，AMF发送给gNB的InitialContextSetupRequest消息中不包含如下哪个信元",
+        "choices": [
+            "GUAMI",
+            "AllowedNSSAI",
+            "SecurityKey",
+            "ConfiguredNSSAI"
+        ],
+        "answer": "D",
+        "solution": "",
+        "id": "huaweicloud-6",
+        "A": "GUAMI",
+        "B": "AllowedNSSAI",
+        "C": "SecurityKey",
+        "D": "ConfiguredNSSAI"
+    },
+    {
+        "question": "下述哪个标识符是由AMF分配的？",
+        "choices": [
+            "GPSI",
+            "SUPI",
+            "5G-GUTI",
+            "SUCI"
+        ],
+        "answer": "C",
+        "solution": "",
+        "id": "huaweicloud-7",
+        "A": "GPSI",
+        "B": "SUPI",
+        "C": "5G-GUTI",
+        "D": "SUCI"
+    },
+    {
+        "question": "NSA场景中，S1-mme接口上特征信令流程是？",
+        "choices": [
+            "PathSwitch",
+            "e-RABSetup",
+            "Iurelease",
+            "e-RABModification"
+        ],
+        "answer": "D",
+        "solution": "",
+        "id": "huaweicloud-8",
+        "A": "PathSwitch",
+        "B": "e-RABSetup",
+        "C": "Iurelease",
+        "D": "e-RABModification"
+    },
+    {
+        "question": "5GNSA单模终端，从5GSA网络漫入5GSA网络（不支持NSA），享受什么服务？",
+        "choices": [
+            "5GNSA",
+            "5GSA",
+            "4G",
+            "4G或5GNSA"
+        ],
+        "answer": "C",
+        "solution": "",
+        "id": "huaweicloud-9",
+        "A": "5GNSA",
+        "B": "5GSA",
+        "C": "4G",
+        "D": "4G或5GNSA"
+    },
+    {
+        "question": "SMF和UPF的接口是？",
+        "choices": [
+            "N1",
+            "N2",
+            "N3",
+            "N4"
+        ],
+        "answer": "D",
+        "solution": "",
+        "id": "huaweicloud-10",
+        "A": "N1",
+        "B": "N2",
+        "C": "N3",
+        "D": "N4"
+    },
+    {
+        "question": "下面那个容灾技术是5G特有的",
+        "choices": [
+            "POOL",
+            "NFSET容灾",
+            "1+1主备",
+            "跨DC容灾"
+        ],
+        "answer": "B",
+        "solution": "",
+        "id": "huaweicloud-11",
+        "A": "POOL",
+        "B": "NFSET容灾",
+        "C": "1+1主备",
+        "D": "跨DC容灾"
+    },
+    {
+        "question": "5G中用于和非3GPP互连的网关是？",
+        "choices": [
+            "TWAG",
+            "ePDG",
+            "N3IWF",
+            "AP/AC"
+        ],
+        "answer": "C",
+        "solution": "",
+        "id": "huaweicloud-12",
+        "A": "TWAG",
+        "B": "ePDG",
+        "C": "N3IWF",
+        "D": "AP/AC"
+    },
+    {
+        "question": "注册流程中，AMF查询切片信息时会向哪个NF去请求切片鉴权信息？",
+        "choices": [
+            "PCF",
+            "UDM",
+            "NSSF",
+            "NRF"
+        ],
+        "answer": "B",
+        "solution": "",
+        "id": "huaweicloud-13",
+        "A": "PCF",
+        "B": "UDM",
+        "C": "NSSF",
+        "D": "NRF"
+    },
+    {
+        "question": "4G/5GMME和AMF之间的互操作接口是？",
+        "choices": [
+            "N24",
+            "N25",
+            "N26",
+            "N27"
+        ],
+        "answer": "C",
+        "solution": "",
+        "id": "huaweicloud-14",
+        "A": "N24",
+        "B": "N25",
+        "C": "N26",
+        "D": "N27"
+    },
+    {
+        "question": "以下场景适用于非竞争随机接入的有",
+        "choices": [
+            "UE初始接入",
+            "UE重建",
+            "UE有上行数据发送，但上行失步",
+            "切换"
+        ],
+        "answer": "D",
+        "solution": "",
+        "id": "huaweicloud-15",
+        "A": "UE初始接入",
+        "B": "UE重建",
+        "C": "UE有上行数据发送，但上行失步",
+        "D": "切换"
+    },
+    {
+        "question": "5G-QOS模型不涉及",
+        "choices": [
+            "5QI",
+            "QCI",
+            "ARP",
+            "QOSFlow"
+        ],
+        "answer": "B",
+        "solution": "",
+        "id": "huaweicloud-16",
+        "A": "5QI",
+        "B": "QCI",
+        "C": "ARP",
+        "D": "QOSFlow"
+    },
+    {
+        "question": "做为对5G寻呼的响应，UE应发起servicerequest流程，此时的servicetype取值应是？",
+        "choices": [
+            "signaling",
+            "data",
+            "emergency",
+            "mobileterminatedservices"
+        ],
+        "answer": "D",
+        "solution": "",
+        "id": "huaweicloud-17",
+        "A": "signaling",
+        "B": "data",
+        "C": "emergency",
+        "D": "mobileterminatedservices"
+    },
+    {
+        "question": "AMF基于什么信息判断是否在寻呼消息中包含寻呼优先级指示",
+        "choices": [
+            "PCF传递的ARP值",
+            "SMF传递的ARP值",
+            "PCF传递的5QI参数",
+            "SMF传递的5QI参数"
+        ],
+        "answer": "B",
+        "solution": "",
+        "id": "huaweicloud-18",
+        "A": "PCF传递的ARP值",
+        "B": "SMF传递的ARP值",
+        "C": "PCF传递的5QI参数",
+        "D": "SMF传递的5QI参数"
+    },
+    {
+        "question": "通过如下RegistrationRequest中的哪个信元来判断UE侧是否存在待唤醒的会话",
+        "choices": [
+            "Follow-onrequest",
+            "PDUsessionstatus",
+            "AllowedPDUsessionstatus",
+            "Uplinkdatastatus"
+        ],
+        "answer": "D",
+        "solution": "",
+        "id": "huaweicloud-19",
+        "A": "Follow-onrequest",
+        "B": "PDUsessionstatus",
+        "C": "AllowedPDUsessionstatus",
+        "D": "Uplinkdatastatus"
     }
 ]

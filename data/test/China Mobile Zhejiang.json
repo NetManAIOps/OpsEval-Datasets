@@ -1,0 +1,1682 @@
+[
+    {
+        "id": "zjyd运维能力-知识召回05",
+        "question": "在处理系统故障时，运维人员最先应该查看的是什么？",
+        "A": "用户手册",
+        "B": "系统日志",
+        "C": "网络配置",
+        "D": "硬件状态",
+        "answer": "B",
+        "solution": "",
+        "choices": [
+            "用户手册",
+            "系统日志",
+            "网络配置",
+            "硬件状态"
+        ]
+    },
+    {
+        "id": "zjyd运维能力-知识召回06",
+        "question": "以下哪项是运维工作中“容量规划”的主要考虑因素？",
+        "A": "用户数量",
+        "B": "系统架构",
+        "C": "网络安全",
+        "D": "硬件设备",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "用户数量",
+            "系统架构",
+            "网络安全",
+            "硬件设备"
+        ]
+    },
+    {
+        "id": "zjyd运维能力-知识召回07",
+        "question": "以下哪项是运维工作中“高可用性”的关键要素？",
+        "A": "数据备份",
+        "B": "系统速度",
+        "C": "用户界面",
+        "D": "网络带宽",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "数据备份",
+            "系统速度",
+            "用户界面",
+            "网络带宽"
+        ]
+    },
+    {
+        "id": "zjyd运维能力-知识召回08",
+        "question": "在运维工作中，以下哪项不是“性能优化”的常见方法？",
+        "A": "调整系统参数",
+        "B": "增加硬件资源",
+        "C": "减少用户数量",
+        "D": "优化代码逻辑",
+        "answer": "C",
+        "solution": "",
+        "choices": [
+            "调整系统参数",
+            "增加硬件资源",
+            "减少用户数量",
+            "优化代码逻辑"
+        ]
+    },
+    {
+        "id": "zjyd运维能力-知识召回09",
+        "question": "在运维工作中，以下哪项措施对于提高系统安全性最有效？",
+        "A": "增加系统用户数",
+        "B": "定期更新安全补丁",
+        "C": "忽略安全警告",
+        "D": "随意配置防火墙",
+        "answer": "B",
+        "solution": "",
+        "choices": [
+            "增加系统用户数",
+            "定期更新安全补丁",
+            "忽略安全警告",
+            "随意配置防火墙"
+        ]
+    },
+    {
+        "id": "zjyd运维能力-知识召回10",
+        "question": "在运维工作中，以下哪项是“容量规划”的主要目标？",
+        "A": "提高系统性能",
+        "B": "确保系统安全",
+        "C": "满足未来需求",
+        "D": "减少维护成本",
+        "answer": "C",
+        "solution": "",
+        "choices": [
+            "提高系统性能",
+            "确保系统安全",
+            "满足未来需求",
+            "减少维护成本"
+        ]
+    },
+    {
+        "id": "zjyd运维能力-知识召回11",
+        "question": "以下哪项不是运维工作中“故障预防”的常见措施？",
+        "A": "定期维护",
+        "B": "监控和日志分析",
+        "C": "频繁重启服务器",
+        "D": "安全漏洞扫描",
+        "answer": "C",
+        "solution": "",
+        "choices": [
+            "定期维护",
+            "监控和日志分析",
+            "频繁重启服务器",
+            "安全漏洞扫描"
+        ]
+    },
+    {
+        "id": "zjyd运维能力-实际应用02",
+        "question": "在处理系统安全事件时，以下哪项措施是最先应该采取的？",
+        "A": "重启服务器",
+        "B": "分析日志文件",
+        "C": "通知所有用户",
+        "D": "隔离受影响的系统",
+        "answer": "D",
+        "solution": "",
+        "choices": [
+            "重启服务器",
+            "分析日志文件",
+            "通知所有用户",
+            "隔离受影响的系统"
+        ]
+    },
+    {
+        "id": "zjyd运维能力-实际应用03",
+        "question": "在进行数据库备份时，以下哪种备份策略通常不被推荐？",
+        "A": "全量备份",
+        "B": "增量备份",
+        "C": "差分备份",
+        "D": "仅备份最近一周的数据",
+        "answer": "D",
+        "solution": "",
+        "choices": [
+            "全量备份",
+            "增量备份",
+            "差分备份",
+            "仅备份最近一周的数据"
+        ]
+    },
+    {
+        "id": "zjyd运维能力-实际应用04",
+        "question": "监控系统发现CPU使用率持续高位，以下哪种措施最有可能是错误的？",
+        "A": "检查运行的进程",
+        "B": "增加CPU核心数",
+        "C": "优化代码",
+        "D": "检查硬件故障",
+        "answer": "B",
+        "solution": "",
+        "choices": [
+            "检查运行的进程",
+            "增加CPU核心数",
+            "优化代码",
+            "检查硬件故障"
+        ]
+    },
+    {
+        "id": "zjyd运维能力-实际应用05",
+        "question": "在进行网络故障排查时，以下哪项操作是最不可能找到问题根源的？",
+        "A": "检查网络设备的配置",
+        "B": "使用ping命令测试网络连通性",
+        "C": "随意更换网络设备",
+        "D": "分析网络流量数据",
+        "answer": "C",
+        "solution": "",
+        "choices": [
+            "检查网络设备的配置",
+            "使用ping命令测试网络连通性",
+            "随意更换网络设备",
+            "分析网络流量数据"
+        ]
+    },
+    {
+        "id": "zjyd运维能力-实际应用06",
+        "question": "在处理服务器硬件故障时，以下哪种做法是不推荐的？",
+        "A": "立即关闭服务器",
+        "B": "使用备用硬件替换故障部件",
+        "C": "联系硬件供应商技术支持",
+        "D": "忽略故障并继续运行服务器",
+        "answer": "D",
+        "solution": "",
+        "choices": [
+            "立即关闭服务器",
+            "使用备用硬件替换故障部件",
+            "联系硬件供应商技术支持",
+            "忽略故障并继续运行服务器"
+        ]
+    },
+    {
+        "id": "zjyd运维能力-实际应用07",
+        "question": "在进行数据库恢复时，以下哪项操作是最关键的？",
+        "A": "选择正确的备份文件",
+        "B": "设置数据库连接参数",
+        "C": "配置恢复环境",
+        "D": "执行恢复操作",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "选择正确的备份文件",
+            "设置数据库连接参数",
+            "配置恢复环境",
+            "执行恢复操作"
+        ]
+    },
+    {
+        "id": "zjyd运维能力-实际应用08",
+        "question": "在处理系统性能瓶颈时，以下哪种方法通常不是首选？",
+        "A": "分析系统资源使用情况",
+        "B": "增加硬件资源",
+        "C": "减少用户访问量",
+        "D": "优化软件配置",
+        "answer": "C",
+        "solution": "",
+        "choices": [
+            "分析系统资源使用情况",
+            "增加硬件资源",
+            "减少用户访问量",
+            "优化软件配置"
+        ]
+    },
+    {
+        "id": "zjyd运维能力-分析思考02",
+        "question": "在处理一起服务器宕机事件时，你发现服务器日志中有多条内存溢出错误。接下来，你应该如何分析并解决问题？",
+        "A": "立即重启服务器",
+        "B": "增加服务器内存",
+        "C": "检查运行的应用程序",
+        "D": "调整操作系统的内存管理设置",
+        "answer": "C",
+        "solution": "",
+        "choices": [
+            "立即重启服务器",
+            "增加服务器内存",
+            "检查运行的应用程序",
+            "调整操作系统的内存管理设置"
+        ]
+    },
+    {
+        "id": "zjyd运维能力-分析思考03",
+        "question": "在监控网络流量时，你发现某个时间段的流量异常高。你应该如何分析并确定原因？",
+        "A": "检查所有服务器的日志",
+        "B": "分析流量数据的来源和目的地",
+        "C": "增加网络带宽",
+        "D": "关闭不必要的网络服务",
+        "answer": "B",
+        "solution": "",
+        "choices": [
+            "检查所有服务器的日志",
+            "分析流量数据的来源和目的地",
+            "增加网络带宽",
+            "关闭不必要的网络服务"
+        ]
+    },
+    {
+        "id": "zjyd运维能力-分析思考04",
+        "question": "在进行故障排查时，你发现多个系统日志中都有相同的错误消息。你应该如何进一步分析？",
+        "A": "忽略这些错误消息",
+        "B": "检查相关的系统配置",
+        "C": "立即更换所有相关硬件",
+        "D": "重启所有相关服务",
+        "answer": "B",
+        "solution": "",
+        "choices": [
+            "忽略这些错误消息",
+            "检查相关的系统配置",
+            "立即更换所有相关硬件",
+            "重启所有相关服务"
+        ]
+    },
+    {
+        "id": "zjyd运维能力-分析思考05",
+        "question": "你负责维护一个复杂的分布式系统，最近发现性能下降。你应该如何开始分析性能问题？",
+        "A": "检查所有节点的硬件资源使用情况",
+        "B": "增加所有节点的硬件资源",
+        "C": "重新部署整个系统",
+        "D": "审查最近的系统更改和更新",
+        "answer": "D",
+        "solution": "",
+        "choices": [
+            "检查所有节点的硬件资源使用情况",
+            "增加所有节点的硬件资源",
+            "重新部署整个系统",
+            "审查最近的系统更改和更新"
+        ]
+    },
+    {
+        "id": "zjyd运维能力-分析思考06",
+        "question": "在处理一起用户报告的系统延迟问题时，你首先应该如何收集信息？",
+        "A": "询问用户他们是否使用了最新版本的系统",
+        "B": "检查系统的日志文件",
+        "C": "增加服务器的内存",
+        "D": "联系网络管理员",
+        "answer": "B",
+        "solution": "",
+        "choices": [
+            "询问用户他们是否使用了最新版本的系统",
+            "检查系统的日志文件",
+            "增加服务器的内存",
+            "联系网络管理员"
+        ]
+    },
+    {
+        "id": "zjyd运维能力-分析思考07",
+        "question": "在处理一起系统安全事件时，你发现多个日志文件显示有未经授权的访问尝试。你应该如何分析和应对这种情况？",
+        "A": "立即封锁所有外部访问",
+        "B": "仅关注最近一次的未授权访问尝试",
+        "C": "分析访问模式以确定攻击者的目的",
+        "D": "忽略这些尝试，因为它们可能是误报",
+        "answer": "C",
+        "solution": "",
+        "choices": [
+            "立即封锁所有外部访问",
+            "仅关注最近一次的未授权访问尝试",
+            "分析访问模式以确定攻击者的目的",
+            "忽略这些尝试，因为它们可能是误报"
+        ]
+    },
+    {
+        "id": "zjyd运维能力-分析思考08",
+        "question": "你负责一个大型企业的IT基础设施，最近发现有一些服务器的磁盘空间使用率异常高。你应该如何分析和解决这个问题？",
+        "A": "增加所有服务器的磁盘空间",
+        "B": "删除一些不必要的文件以释放空间",
+        "C": "分析各个服务器的磁盘使用情况，找出占用空间最大的文件或目录",
+        "D": "重装所有服务器的操作系统",
+        "answer": "C",
+        "solution": "",
+        "choices": [
+            "增加所有服务器的磁盘空间",
+            "删除一些不必要的文件以释放空间",
+            "分析各个服务器的磁盘使用情况，找出占用空间最大的文件或目录",
+            "重装所有服务器的操作系统"
+        ]
+    },
+    {
+        "id": "zjyd运维能力-分析思考09",
+        "question": "在监控系统性能时，你发现CPU使用率持续较高。你应该如何分析和解决这个问题？",
+        "A": "增加CPU的核心数",
+        "B": "降低系统负载",
+        "C": "分析CPU使用率高的进程和应用程序",
+        "D": "调整操作系统的任务调度策略",
+        "answer": "C",
+        "solution": "",
+        "choices": [
+            "增加CPU的核心数",
+            "降低系统负载",
+            "分析CPU使用率高的进程和应用程序",
+            "调整操作系统的任务调度策略"
+        ]
+    },
+    {
+        "id": "zjyd运维能力-分析思考10",
+        "question": "在处理一起网络故障时，你发现网络延迟异常高。你应该如何分析和解决这个问题？",
+        "A": "更换所有的网络设备",
+        "B": "增加网络带宽",
+        "C": "分析网络流量和延迟数据，找出瓶颈或异常行为",
+        "D": "忽略延迟，因为它可能只是暂时的",
+        "answer": "C",
+        "solution": "",
+        "choices": [
+            "更换所有的网络设备",
+            "增加网络带宽",
+            "分析网络流量和延迟数据，找出瓶颈或异常行为",
+            "忽略延迟，因为它可能只是暂时的"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-自动化脚本02",
+        "question": "Bash 脚本中，哪个符号用于注释？",
+        "A": "#",
+        "B": "//",
+        "C": "/* */",
+        "D": "--",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "#",
+            "//",
+            "/* */",
+            "--"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-自动化脚本03",
+        "question": "自动化脚本在运维中的主要优势是什么？",
+        "A": "提高效率",
+        "B": "减少错误",
+        "C": "替代人工",
+        "D": "提高安全性",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "提高效率",
+            "减少错误",
+            "替代人工",
+            "提高安全性"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-自动化脚本04",
+        "question": "在Bash自动化脚本中，如何执行外部命令并获取其输出？",
+        "A": "exec()",
+        "B": "system()",
+        "C": "command",
+        "D": "&command",
+        "answer": "C",
+        "solution": "",
+        "choices": [
+            "exec()",
+            "system()",
+            "command",
+            "&command"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-自动化脚本05",
+        "question": "Python 中，哪个模块用于处理文件和目录路径？",
+        "A": "os",
+        "B": "sys",
+        "C": "pathlib",
+        "D": "shutil",
+        "answer": "C",
+        "solution": "",
+        "choices": [
+            "os",
+            "sys",
+            "pathlib",
+            "shutil"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-自动化脚本06",
+        "question": "在Bash自动化脚本中，如何捕获命令的执行状态（成功或失败）？",
+        "A": "$?",
+        "B": "$#",
+        "C": "$*",
+        "D": "$@",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "$?",
+            "$#",
+            "$*",
+            "$@"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-自动化脚本07",
+        "question": "在Bash自动化脚本中，哪个命令用于循环遍历目录中的文件？",
+        "A": "for",
+        "B": "while",
+        "C": "if",
+        "D": "case",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "for",
+            "while",
+            "if",
+            "case"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-自动化脚本08",
+        "question": "在Linux运维中，以下哪个Python库通常用于执行系统命令？",
+        "A": "os",
+        "B": "subprocess",
+        "C": "shutil",
+        "D": "glob",
+        "answer": "B",
+        "solution": "",
+        "choices": [
+            "os",
+            "subprocess",
+            "shutil",
+            "glob"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-自动化脚本09",
+        "question": "在Python自动化脚本中，以下哪个模块通常用于解析配置文件（如INI文件）？",
+        "A": "json",
+        "B": "configparser",
+        "C": "xml.etree.ElementTree",
+        "D": "pickle",
+        "answer": "B",
+        "solution": "",
+        "choices": [
+            "json",
+            "configparser",
+            "xml.etree.ElementTree",
+            "pickle"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-自动化脚本10",
+        "question": "在Python自动化运维脚本中，以下哪个函数可以用于获取当前工作目录的完整路径？",
+        "A": "os.getcwd()",
+        "B": "os.path.abspath()",
+        "C": "os.path.dirname()",
+        "D": "os.listdir()",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "os.getcwd()",
+            "os.path.abspath()",
+            "os.path.dirname()",
+            "os.listdir()"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-自动化脚本11",
+        "question": "在Python中，以下哪个方法可以用于在文件中逐行读取内容？",
+        "A": "open(file, 'r').readlines()",
+        "B": "open(file, 'r').read()",
+        "C": "open(file, 'r').write()",
+        "D": "open(file, 'r').close()",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "open(file, 'r').readlines()",
+            "open(file, 'r').read()",
+            "open(file, 'r').write()",
+            "open(file, 'r').close()"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-自动化脚本12",
+        "question": "在Python自动化运维脚本中，以下哪个库通常用于发送邮件？",
+        "A": "smtplib",
+        "B": "email",
+        "C": "imaplib",
+        "D": "poplib",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "smtplib",
+            "email",
+            "imaplib",
+            "poplib"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-监控告警02",
+        "question": "Linux系统中，用于监控系统资源使用情况的命令是？",
+        "A": "top",
+        "B": "vmstat",
+        "C": "netstat",
+        "D": "lsof",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "top",
+            "vmstat",
+            "netstat",
+            "lsof"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-监控告警03",
+        "question": "在Linux中，哪个工具通常用于性能监控和告警？",
+        "A": "Zabbix",
+        "B": "Ansible",
+        "C": "Docker",
+        "D": "Kubernetes",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "Zabbix",
+            "Ansible",
+            "Docker",
+            "Kubernetes"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-监控告警04",
+        "question": "以下哪个不是Linux系统性能监控工具？",
+        "A": "sar",
+        "B": "iostat",
+        "C": "ps",
+        "D": "vmstat",
+        "answer": "C",
+        "solution": "",
+        "choices": [
+            "sar",
+            "iostat",
+            "ps",
+            "vmstat"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-监控告警05",
+        "question": "在Linux中，用于监控磁盘空间使用情况的命令是？",
+        "A": "df",
+        "B": "du",
+        "C": "fdisk",
+        "D": "lsblk",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "df",
+            "du",
+            "fdisk",
+            "lsblk"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-监控告警06",
+        "question": "以下哪个工具不是用于Linux系统监控的？",
+        "A": "Nagios",
+        "B": "Zabbix",
+        "C": "Puppet",
+        "D": "Prometheus",
+        "answer": "C",
+        "solution": "",
+        "choices": [
+            "Nagios",
+            "Zabbix",
+            "Puppet",
+            "Prometheus"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-监控告警07",
+        "question": "在Linux中，用于监控网络接口的命令是？",
+        "A": "netstat",
+        "B": "ifconfig",
+        "C": "ip",
+        "D": "nmap",
+        "answer": "C",
+        "solution": "",
+        "choices": [
+            "netstat",
+            "ifconfig",
+            "ip",
+            "nmap"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-监控告警08",
+        "question": "以下哪个不是Linux系统监控告警的常用方式？",
+        "A": "邮件通知",
+        "B": "短信通知",
+        "C": "社交媒体通知",
+        "D": "Web界面展示",
+        "answer": "C",
+        "solution": "",
+        "choices": [
+            "邮件通知",
+            "短信通知",
+            "社交媒体通知",
+            "Web界面展示"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-监控告警09",
+        "question": "在Linux系统中，syslog通常用于？",
+        "A": "系统日志记录",
+        "B": "网络性能监控",
+        "C": "磁盘空间监控",
+        "D": "用户行为监控",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "系统日志记录",
+            "网络性能监控",
+            "磁盘空间监控",
+            "用户行为监控"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-监控告警10",
+        "question": "以下哪个工具可以用于Linux系统的图形化监控？",
+        "A": "htop",
+        "B": "glances",
+        "C": "nmon",
+        "D": "top",
+        "answer": "B",
+        "solution": "",
+        "choices": [
+            "htop",
+            "glances",
+            "nmon",
+            "top"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-监控告警11",
+        "question": "在Linux中，哪个命令用于查看系统负载情况？",
+        "A": "uptime",
+        "B": "last",
+        "C": "who",
+        "D": "w",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "uptime",
+            "last",
+            "who",
+            "w"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-监控告警12",
+        "question": "Linux系统中，哪个文件通常用于记录系统错误日志？",
+        "A": "/var/log/messages",
+        "B": "/var/log/secure",
+        "C": "/var/log/syslog",
+        "D": "/var/log/errors",
+        "answer": "C",
+        "solution": "",
+        "choices": [
+            "/var/log/messages",
+            "/var/log/secure",
+            "/var/log/syslog",
+            "/var/log/errors"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-性能优化01",
+        "question": "在Linux系统中，哪个命令可以用来查看系统的CPU使用情况？",
+        "A": "top",
+        "B": "df",
+        "C": "du",
+        "D": "ls",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "top",
+            "df",
+            "du",
+            "ls"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-性能优化02",
+        "question": "为了提升Linux文件系统的性能，我们通常会使用哪种类型的文件系统？",
+        "A": "EXT2",
+        "B": "EXT3",
+        "C": "EXT4",
+        "D": "XFS",
+        "answer": "D",
+        "solution": "",
+        "choices": [
+            "EXT2",
+            "EXT3",
+            "EXT4",
+            "XFS"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-性能优化03",
+        "question": "在Linux中，调整哪个参数可以优化网络性能？",
+        "A": "net.core.rmem_default",
+        "B": "vm.swappiness",
+        "C": "fs.file-max",
+        "D": "kernel.pid_max",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "net.core.rmem_default",
+            "vm.swappiness",
+            "fs.file-max",
+            "kernel.pid_max"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-性能优化04",
+        "question": "如何查看Linux系统的内存使用情况？",
+        "A": "free -m",
+        "B": "df -h",
+        "C": "du -sh",
+        "D": "vmstat",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "free -m",
+            "df -h",
+            "du -sh",
+            "vmstat"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-性能优化05",
+        "question": "在Linux系统中，哪个工具可以用来分析磁盘I/O性能？",
+        "A": "iostat",
+        "B": "netstat",
+        "C": "vmstat",
+        "D": "top",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "iostat",
+            "netstat",
+            "vmstat",
+            "top"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-性能优化06",
+        "question": "以下哪种方式可以有效地优化数据库的性能？",
+        "A": "增加CPU核心数",
+        "B": "使用更快的硬盘",
+        "C": "增加内存大小",
+        "D": "减少数据库连接数",
+        "answer": "C",
+        "solution": "",
+        "choices": [
+            "增加CPU核心数",
+            "使用更快的硬盘",
+            "增加内存大小",
+            "减少数据库连接数"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-性能优化07",
+        "question": "以下哪个参数可以用来调整Linux系统的文件描述符上限？",
+        "A": "ulimit -n",
+        "B": "ulimit -u",
+        "C": "ulimit -t",
+        "D": "ulimit -s",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "ulimit -n",
+            "ulimit -u",
+            "ulimit -t",
+            "ulimit -s"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-性能优化08",
+        "question": "在Linux系统中，如何优化文件系统的I/O性能？",
+        "A": "增加CPU核心数",
+        "B": "使用SSD硬盘",
+        "C": "禁用SELinux",
+        "D": "频繁进行磁盘碎片整理",
+        "answer": "B",
+        "solution": "",
+        "choices": [
+            "增加CPU核心数",
+            "使用SSD硬盘",
+            "禁用SELinux",
+            "频繁进行磁盘碎片整理"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-性能优化09",
+        "question": "以下哪个工具可以用来分析系统的整体性能瓶颈？",
+        "A": "top",
+        "B": "htop",
+        "C": "perf",
+        "D": "iostat",
+        "answer": "C",
+        "solution": "",
+        "choices": [
+            "top",
+            "htop",
+            "perf",
+            "iostat"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-性能优化10",
+        "question": "在Linux系统中，调整文件系统的挂载选项可以优化I/O性能。以下哪个挂载选项通常用于提高磁盘读写的性能？",
+        "A": "noatime",
+        "B": "relatime",
+        "C": "async",
+        "D": "sync",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "noatime",
+            "relatime",
+            "async",
+            "sync"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-性能优化11",
+        "question": "在Linux中，当系统内存不足时，以下哪种策略可以提高系统的性能？",
+        "A": "增加交换空间（Swap Space）",
+        "B": "禁用不必要的服务",
+        "C": "频繁地执行磁盘碎片整理",
+        "D": "增大文件系统的inode大小",
+        "answer": "B",
+        "solution": "",
+        "choices": [
+            "增加交换空间（Swap Space）",
+            "禁用不必要的服务",
+            "频繁地执行磁盘碎片整理",
+            "增大文件系统的inode大小"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-性能优化12",
+        "question": "Linux系统中，哪个工具可以用来监控系统的资源使用情况，包括CPU、内存、磁盘和网络等？",
+        "A": "sar",
+        "B": "iostat",
+        "C": "vmstat",
+        "D": "sysstat",
+        "answer": "D",
+        "solution": "",
+        "choices": [
+            "sar",
+            "iostat",
+            "vmstat",
+            "sysstat"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-软件部署01",
+        "question": "在Linux中，使用哪个命令来安装软件包（基于RPM的包管理系统）？",
+        "A": "apt-get install",
+        "B": "yum install",
+        "C": "dnf install",
+        "D": "pacman -S",
+        "answer": "B",
+        "solution": "",
+        "choices": [
+            "apt-get install",
+            "yum install",
+            "dnf install",
+            "pacman -S"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-软件部署02",
+        "question": "在部署Web应用时，通常将网站的配置文件放在哪个目录下？",
+        "A": "/var/www",
+        "B": "/etc/httpd",
+        "C": "/var/log/httpd",
+        "D": "/usr/share/nginx",
+        "answer": "B",
+        "solution": "",
+        "choices": [
+            "/var/www",
+            "/etc/httpd",
+            "/var/log/httpd",
+            "/usr/share/nginx"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-软件部署03",
+        "question": "如何查看Linux系统中已安装的所有软件包（基于APT的包管理系统）？",
+        "A": "apt-get list",
+        "B": "dpkg -l",
+        "C": "apt list",
+        "D": "apt-cache search",
+        "answer": "C",
+        "solution": "",
+        "choices": [
+            "apt-get list",
+            "dpkg -l",
+            "apt list",
+            "apt-cache search"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-软件部署04",
+        "question": "如何在Linux中压缩文件为.tar.gz格式？",
+        "A": "tar -czvf filename.tar.gz",
+        "B": "gzip filename",
+        "C": "zip filename.zip",
+        "D": "rar filename.rar",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "tar -czvf filename.tar.gz",
+            "gzip filename",
+            "zip filename.zip",
+            "rar filename.rar"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-软件部署05",
+        "question": "如何将前台进程转移到后台运行？",
+        "A": "&",
+        "B": "ctrl+z",
+        "C": "bg",
+        "D": "fg",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "&",
+            "ctrl+z",
+            "bg",
+            "fg"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-软件部署06",
+        "question": "在Linux中，哪个命令用于安装本地源的RPM包？",
+        "A": "yum localinstall",
+        "B": "rpm -e",
+        "C": "rpm -qa",
+        "D": "yum remove",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "yum localinstall",
+            "rpm -e",
+            "rpm -qa",
+            "yum remove"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-软件部署07",
+        "question": "如何使用yum命令更新所有的软件包？",
+        "A": "yum update",
+        "B": "yum upgrade",
+        "C": "yum dist-upgrade",
+        "D": "yum refresh",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "yum update",
+            "yum upgrade",
+            "yum dist-upgrade",
+            "yum refresh"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-软件部署08",
+        "question": "如何使用apt命令安装一个软件包？",
+        "A": "apt-get install package-name",
+        "B": "apt install package-name",
+        "C": "apt-get package-name",
+        "D": "apt package-name",
+        "answer": "B",
+        "solution": "",
+        "choices": [
+            "apt-get install package-name",
+            "apt install package-name",
+            "apt-get package-name",
+            "apt package-name"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-软件部署09",
+        "question": "在Linux中，如何设置开机启动项？",
+        "A": "chkconfig",
+        "B": "systemctl enable",
+        "C": "update-rc.d",
+        "D": "ntsysv",
+        "answer": "B",
+        "solution": "",
+        "choices": [
+            "chkconfig",
+            "systemctl enable",
+            "update-rc.d",
+            "ntsysv"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-软件部署10",
+        "question": "如何查看Linux系统中某个进程的PID？",
+        "A": "ps -ef | grep process-name",
+        "B": "top -p process-name",
+        "C": "pidof process-name",
+        "D": "kill process-name",
+        "answer": "C",
+        "solution": "",
+        "choices": [
+            "ps -ef | grep process-name",
+            "top -p process-name",
+            "pidof process-name",
+            "kill process-name"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-软件部署11",
+        "question": "如何查看Linux系统中所有已启动的服务？",
+        "A": "systemctl status",
+        "B": "service --status-all",
+        "C": "chkconfig --list",
+        "D": "ps aux | grep service",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "systemctl status",
+            "service --status-all",
+            "chkconfig --list",
+            "ps aux | grep service"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-软件部署12",
+        "question": "如何将文件从本地复制到远程服务器？",
+        "A": "scp local-file remote-user@remote-host:remote-directory",
+        "B": "rsync local-file remote-user@remote-host:remote-directory",
+        "C": "ftp remote-host put local-file remote-directory",
+        "D": "cp local-file remote-user@remote-host:remote-directory",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "scp local-file remote-user@remote-host:remote-directory",
+            "rsync local-file remote-user@remote-host:remote-directory",
+            "ftp remote-host put local-file remote-directory",
+            "cp local-file remote-user@remote-host:remote-directory"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-故障分析与诊断01",
+        "question": "在Linux系统中，当你怀疑某个服务没有正常启动时，你应该首先查看哪个目录来确认服务状态？",
+        "A": "/etc/init.d",
+        "B": "/var/log/",
+        "C": "/usr/sbin/",
+        "D": "/proc/",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "/etc/init.d",
+            "/var/log/",
+            "/usr/sbin/",
+            "/proc/"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-故障分析与诊断02",
+        "question": "如果你想查看Linux系统的网络配置信息，你应该查看哪个文件？",
+        "A": "/etc/resolv.conf",
+        "B": "/etc/network/interfaces",
+        "C": "/etc/fstab",
+        "D": "/etc/hosts",
+        "answer": "B",
+        "solution": "",
+        "choices": [
+            "/etc/resolv.conf",
+            "/etc/network/interfaces",
+            "/etc/fstab",
+            "/etc/hosts"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-故障分析与诊断03",
+        "question": "在Linux中，如果你想要查找并杀死某个进程，你应该使用哪个命令？",
+        "A": "kill",
+        "B": "ps",
+        "C": "grep",
+        "D": "find",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "kill",
+            "ps",
+            "grep",
+            "find"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-故障分析与诊断04",
+        "question": "在Linux中，查看系统日志的常用命令是？",
+        "A": "dmesg",
+        "B": "tail",
+        "C": "cat",
+        "D": "less",
+        "answer": "D",
+        "solution": "",
+        "choices": [
+            "dmesg",
+            "tail",
+            "cat",
+            "less"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-故障分析与诊断05",
+        "question": "当Linux系统启动失败时，你应该查看哪个日志文件来获取错误信息？",
+        "A": "/var/log/messages",
+        "B": "/var/log/syslog",
+        "C": "/var/log/boot.log",
+        "D": "/var/log/dmesg",
+        "answer": "D",
+        "solution": "",
+        "choices": [
+            "/var/log/messages",
+            "/var/log/syslog",
+            "/var/log/boot.log",
+            "/var/log/dmesg"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-故障分析与诊断06",
+        "question": "在Linux中，哪个命令可以帮助你查找文件中包含特定字符串的行？",
+        "A": "grep",
+        "B": "find",
+        "C": "locate",
+        "D": "cat",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "grep",
+            "find",
+            "locate",
+            "cat"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-故障分析与诊断07",
+        "question": "当你怀疑Linux系统中的某个服务配置有问题时，你应该首先查看哪个目录？",
+        "A": "/etc/",
+        "B": "/var/log/",
+        "C": "/usr/local/",
+        "D": "/home/",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "/etc/",
+            "/var/log/",
+            "/usr/local/",
+            "/home/"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-故障分析与诊断08",
+        "question": "当Linux系统出现性能问题时，你首先会考虑检查哪个资源的使用情况？",
+        "A": "CPU",
+        "B": "内存",
+        "C": "磁盘I/O",
+        "D": "网络带宽",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "CPU",
+            "内存",
+            "磁盘I/O",
+            "网络带宽"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-故障分析与诊断09",
+        "question": "Linux系统中，netstat命令的哪个选项可以显示所有活动的网络连接？",
+        "A": "#NAME?",
+        "B": "#NAME?",
+        "C": "#NAME?",
+        "D": "#NAME?",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "#NAME?",
+            "#NAME?",
+            "#NAME?",
+            "#NAME?"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-故障分析与诊断10",
+        "question": "当你怀疑Linux系统的某个硬件设备出现问题时，你应该首先查看哪个目录？",
+        "A": "/dev/",
+        "B": "/proc/",
+        "C": "/sys/",
+        "D": "/var/log/",
+        "answer": "B",
+        "solution": "",
+        "choices": [
+            "/dev/",
+            "/proc/",
+            "/sys/",
+            "/var/log/"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-故障分析与诊断11",
+        "question": "在Linux中，lsof命令用于查看什么信息？",
+        "A": "当前登录的用户",
+        "B": "系统中运行的进程",
+        "C": "打开的文件和进程",
+        "D": "磁盘使用情况",
+        "answer": "C",
+        "solution": "",
+        "choices": [
+            "当前登录的用户",
+            "系统中运行的进程",
+            "打开的文件和进程",
+            "磁盘使用情况"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-故障分析与诊断12",
+        "question": "在Linux中，journalctl命令通常用于查看哪个服务的日志？",
+        "A": "Systemd",
+        "B": "Syslog",
+        "C": "Cron",
+        "D": "Init",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "Systemd",
+            "Syslog",
+            "Cron",
+            "Init"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-网络配置01",
+        "question": "Linux系统中，用于查看网络接口配置信息的命令是？",
+        "A": "netstat",
+        "B": "ifconfig",
+        "C": "ipconfig",
+        "D": "route",
+        "answer": "B",
+        "solution": "",
+        "choices": [
+            "netstat",
+            "ifconfig",
+            "ipconfig",
+            "route"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-网络配置02",
+        "question": "在Linux中，要临时修改网络接口的IP地址，应使用哪个命令？",
+        "A": "ip addr",
+        "B": "ifconfig",
+        "C": "netconfig",
+        "D": "route add",
+        "answer": "B",
+        "solution": "",
+        "choices": [
+            "ip addr",
+            "ifconfig",
+            "netconfig",
+            "route add"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-网络配置03",
+        "question": "哪个文件通常用于在Linux中配置静态IP地址？",
+        "A": "/etc/network/interfaces",
+        "B": "/etc/resolv.conf",
+        "C": "/etc/hosts",
+        "D": "/etc/sysconfig/network",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "/etc/network/interfaces",
+            "/etc/resolv.conf",
+            "/etc/hosts",
+            "/etc/sysconfig/network"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-网络配置04",
+        "question": "Linux系统中，不是查看路由表的命令是？",
+        "A": "route -n",
+        "B": "netstat -rn",
+        "C": "ifconfig -a",
+        "D": "ip route show",
+        "answer": "C",
+        "solution": "",
+        "choices": [
+            "route -n",
+            "netstat -rn",
+            "ifconfig -a",
+            "ip route show"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-网络配置05",
+        "question": "在Linux中，要配置DNS服务器，应修改哪个文件？",
+        "A": "/etc/resolv.conf",
+        "B": "/etc/hosts",
+        "C": "/etc/network/interfaces",
+        "D": "/etc/networkd",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "/etc/resolv.conf",
+            "/etc/hosts",
+            "/etc/network/interfaces",
+            "/etc/networkd"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-网络配置06",
+        "question": "Linux系统中，要启用或禁用网络接口，应使用哪个命令？",
+        "A": "ifconfig <interface> up 或 ifconfig <interface> down",
+        "B": "netconfig <interface> on 或 netconfig <interface> off",
+        "C": "ipconfig <interface> enable 或 ipconfig <interface> disable",
+        "D": "networkctl <interface> start 或 networkctl <interface> off",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "ifconfig <interface> up 或 ifconfig <interface> down",
+            "netconfig <interface> on 或 netconfig <interface> off",
+            "ipconfig <interface> enable 或 ipconfig <interface> disable",
+            "networkctl <interface> start 或 networkctl <interface> off"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-网络配置07",
+        "question": "在Linux中，哪个命令用于显示网络接口的统计信息？",
+        "A": "netstat -i",
+        "B": "ifconfig -s",
+        "C": "ip -s link",
+        "D": "netconfig -s",
+        "answer": "C",
+        "solution": "",
+        "choices": [
+            "netstat -i",
+            "ifconfig -s",
+            "ip -s link",
+            "netconfig -s"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-网络配置09",
+        "question": "在Linux中，哪个命令用于查看正在监听的网络端口？",
+        "A": "netstat -tuln",
+        "B": "ifconfig -a",
+        "C": "route -n",
+        "D": "ip addr",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "netstat -tuln",
+            "ifconfig -a",
+            "route -n",
+            "ip addr"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-通用领域知识01",
+        "question": "在Linux系统中，哪个命令用于查看当前工作目录的完整路径？",
+        "A": "pwd",
+        "B": "cd",
+        "C": "ls",
+        "D": "echo",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "pwd",
+            "cd",
+            "ls",
+            "echo"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-通用领域知识02",
+        "question": "哪个命令可以用来在Linux系统中查找文件？",
+        "A": "find",
+        "B": "grep",
+        "C": "locate",
+        "D": "all of the above",
+        "answer": "D",
+        "solution": "",
+        "choices": [
+            "find",
+            "grep",
+            "locate",
+            "all of the above"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-通用领域知识03",
+        "question": "在Linux中，哪个命令用于创建空文件？",
+        "A": "touch",
+        "B": "new",
+        "C": "create",
+        "D": "mkfile",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "touch",
+            "new",
+            "create",
+            "mkfile"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-通用领域知识04",
+        "question": "哪个命令可以用来在Linux中压缩文件？",
+        "A": "gzip",
+        "B": "tar",
+        "C": "unzip",
+        "D": "compress",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "gzip",
+            "tar",
+            "unzip",
+            "compress"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-通用领域知识05",
+        "question": "在Linux中，哪个命令用于列出当前目录下的所有文件和文件夹？",
+        "A": "list",
+        "B": "ll",
+        "C": "ls",
+        "D": "dir",
+        "answer": "C",
+        "solution": "",
+        "choices": [
+            "list",
+            "ll",
+            "ls",
+            "dir"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-通用领域知识06",
+        "question": "在Linux中，哪个命令用于创建新目录？",
+        "A": "mkdir",
+        "B": "rmdir",
+        "C": "cd",
+        "D": "pwd",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "mkdir",
+            "rmdir",
+            "cd",
+            "pwd"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-通用领域知识07",
+        "question": "在Linux中，哪个命令用于删除文件或目录？",
+        "A": "rm",
+        "B": "del",
+        "C": "erase",
+        "D": "remove",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "rm",
+            "del",
+            "erase",
+            "remove"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-通用领域知识08",
+        "question": "在Linux中，哪个命令用于移动或重命名文件或目录？",
+        "A": "mv",
+        "B": "cp",
+        "C": "rename",
+        "D": "shift",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "mv",
+            "cp",
+            "rename",
+            "shift"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-通用领域知识09",
+        "question": "在Linux中，哪个命令用于复制文件或目录？",
+        "A": "cp",
+        "B": "mv",
+        "C": "dup",
+        "D": "clone",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "cp",
+            "mv",
+            "dup",
+            "clone"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-通用领域知识10",
+        "question": "在Linux中，哪个命令用于查看系统内存使用情况？",
+        "A": "free",
+        "B": "df",
+        "C": "du",
+        "D": "vmstat",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "free",
+            "df",
+            "du",
+            "vmstat"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-通用领域知识11",
+        "question": "在Linux中，哪个命令用于查看当前登录的用户？",
+        "A": "who",
+        "B": "w",
+        "C": "users",
+        "D": "all of the above",
+        "answer": "D",
+        "solution": "",
+        "choices": [
+            "who",
+            "w",
+            "users",
+            "all of the above"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-通用领域知识12",
+        "question": "如何在Linux中查看磁盘的使用情况？",
+        "A": "df",
+        "B": "du",
+        "C": "fdisk",
+        "D": "free",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "df",
+            "du",
+            "fdisk",
+            "free"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-混合型任务01",
+        "question": "在Linux系统中，如果你想要同时执行多个命令，你应该使用什么符号来分隔它们？",
+        "A": ";",
+        "B": "&",
+        "C": "|",
+        "D": "&&",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            ";",
+            "&",
+            "|",
+            "&&"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-混合型任务02",
+        "question": "哪个命令不可以将标准输出和标准错误重定向到同一个文件？",
+        "A": "command > file 2>&1",
+        "B": "command >> file 2>&1",
+        "C": "command &> file",
+        "D": "command | tee file",
+        "answer": "D",
+        "solution": "",
+        "choices": [
+            "command > file 2>&1",
+            "command >> file 2>&1",
+            "command &> file",
+            "command | tee file"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-混合型任务03",
+        "question": "在Linux中，要查找文件并同时列出匹配的文件和行号，你应该使用什么命令？",
+        "A": "grep -n",
+        "B": "find -n",
+        "C": "locate -n",
+        "D": "cat -n",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "grep -n",
+            "find -n",
+            "locate -n",
+            "cat -n"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-混合型任务04",
+        "question": "在Linux系统中，要将一个命令的输出作为另一个命令的输入，你应该使用什么符号？",
+        "A": "|",
+        "B": "&",
+        "C": ";",
+        "D": ">>",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "|",
+            "&",
+            ";",
+            ">>"
+        ]
+    }
+]

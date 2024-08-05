@@ -1,0 +1,944 @@
+[
+    {
+        "question": "Zabbix跨地域、跨网段的分布式监控通过什么组件实现？",
+        "answer": "B",
+        "solution": "",
+        "id": "zabbix-6",
+        "choices": [
+            "Zabbix Server",
+            "Zabbix Proxy",
+            "Zabbix Agent",
+            "以上都不是"
+        ],
+        "A": "Zabbix Server",
+        "B": "Zabbix Proxy",
+        "C": "Zabbix Agent",
+        "D": "以上都不是"
+    },
+    {
+        "question": "Zabbix前端页面是由以下哪种语言开发的？",
+        "answer": "C",
+        "solution": "",
+        "id": "zabbix-10",
+        "choices": [
+            "ASP",
+            "JSP",
+            "PHP",
+            "ASP.NET"
+        ],
+        "A": "ASP",
+        "B": "JSP",
+        "C": "PHP",
+        "D": "ASP.NET"
+    },
+    {
+        "question": "Zabbix Server是由以下哪种语言开发的？",
+        "answer": "B",
+        "solution": "",
+        "id": "zabbix-11",
+        "choices": [
+            "Shell",
+            "C Language",
+            "Python",
+            "Java"
+        ],
+        "A": "Shell",
+        "B": "C Language",
+        "C": "Python",
+        "D": "Java"
+    },
+    {
+        "question": "1台Zabbix Server可以使用多个Java Gateway吗？",
+        "answer": "C",
+        "solution": "",
+        "id": "zabbix-12",
+        "choices": [
+            "是的，Java Gateway可以使用不同的端口",
+            "是的，都在Zabbix Server配置文件的“Java Gateway”参数中定义",
+            "是的，可以使用多个Zabbix Proxy支持"
+        ],
+        "A": "是的，Java Gateway可以使用不同的端口",
+        "B": "是的，都在Zabbix Server配置文件的“Java Gateway”参数中定义",
+        "C": "是的，可以使用多个Zabbix Proxy支持"
+    },
+    {
+        "question": "单个Zabbix Server实例上支持的Proxy最大数量是多少？",
+        "answer": "D",
+        "solution": "",
+        "id": "zabbix-13",
+        "choices": [
+            "256",
+            "5",
+            "100",
+            "无限制",
+            "65535"
+        ],
+        "A": "256",
+        "B": "5",
+        "C": "100",
+        "D": "无限制",
+        "E": "65535"
+    },
+    {
+        "question": "Zabbix Server能兼容最早期的Agent版本是什么？",
+        "answer": "B",
+        "solution": "",
+        "id": "zabbix-14",
+        "choices": [
+            "Agent 2.0",
+            "Agent 1.4",
+            "Agent 2.2",
+            "Agent 3.0"
+        ],
+        "A": "Agent 2.0",
+        "B": "Agent 1.4",
+        "C": "Agent 2.2",
+        "D": "Agent 3.0"
+    },
+    {
+        "question": "关于Zabbix版本升级描述正确的是？",
+        "answer": "B",
+        "solution": "",
+        "id": "zabbix-15",
+        "choices": [
+            "Zabbix任何版本升级都会更新数据结构",
+            "Zabbix只有大版本升级才会更新数据结构",
+            "Zabbix只有小版本升级才会更新数据结构",
+            "以上都不是"
+        ],
+        "A": "Zabbix任何版本升级都会更新数据结构",
+        "B": "Zabbix只有大版本升级才会更新数据结构",
+        "C": "Zabbix只有小版本升级才会更新数据结构",
+        "D": "以上都不是"
+    },
+    {
+        "question": "Zabbix对log的监控需要启用Agent的哪种模式？",
+        "answer": "A",
+        "solution": "",
+        "id": "zabbix-16",
+        "choices": [
+            "Agent主动模式",
+            "Agent被动模式",
+            "都可以"
+        ],
+        "A": "Agent主动模式",
+        "B": "Agent被动模式",
+        "C": "都可以"
+    },
+    {
+        "question": "Zabbix监控系统中Ping监控是通过以下哪个组件实现的？",
+        "answer": "C",
+        "solution": "",
+        "id": "zabbix-18",
+        "choices": [
+            "Zabbix Agent",
+            "Zabbix Java Gateway",
+            "Fping",
+            "Zabbix_get"
+        ],
+        "A": "Zabbix Agent",
+        "B": "Zabbix Java Gateway",
+        "C": "Fping",
+        "D": "Zabbix_get"
+    },
+    {
+        "question": "Zabbix能支持Agent-less的监控方式吗？",
+        "answer": "D",
+        "solution": "",
+        "id": "zabbix-20",
+        "choices": [
+            "不能，只能定制化脚本",
+            "能，只能使用Zabbix Proxy的时候才能支持",
+            "能，需要使用Zabbix_get命令",
+            "能，Agent-less是Zabbix开箱即用的功能"
+        ],
+        "A": "不能，只能定制化脚本",
+        "B": "能，只能使用Zabbix Proxy的时候才能支持",
+        "C": "能，需要使用Zabbix_get命令",
+        "D": "能，Agent-less是Zabbix开箱即用的功能"
+    },
+    {
+        "question": "Zabbix监控项最小数据采集频率是多久？",
+        "answer": "C",
+        "solution": "",
+        "id": "zabbix-21",
+        "choices": [
+            "每小时",
+            "每分钟",
+            "每秒钟",
+            "每天"
+        ],
+        "A": "每小时",
+        "B": "每分钟",
+        "C": "每秒钟",
+        "D": "每天"
+    },
+    {
+        "question": "Zabbix采集到的监控数据怎么保存？",
+        "answer": "A",
+        "solution": "",
+        "id": "zabbix-22",
+        "choices": [
+            "在关系型数据库中保存：MySQL、PostgreSQL或者Oracle",
+            "在Zabbix Frontend中保存，用于数据图形化展示",
+            "在Zabbix Proxy中保存，用于分散数据存储的压力",
+            "在Zabbix Server中保存，用于监控数据处理"
+        ],
+        "A": "在关系型数据库中保存：MySQL、PostgreSQL或者Oracle",
+        "B": "在Zabbix Frontend中保存，用于数据图形化展示",
+        "C": "在Zabbix Proxy中保存，用于分散数据存储的压力",
+        "D": "在Zabbix Server中保存，用于监控数据处理"
+    },
+    {
+        "question": "Zabbix_sender命令能实现什么功能？",
+        "answer": "D",
+        "solution": "",
+        "id": "zabbix-23",
+        "choices": [
+            "发送数据给Zabbix Agent",
+            "发送数据给Zabbix Frontend",
+            "发送告警给用户",
+            "发送数据给Zabbix Server或者Proxy"
+        ],
+        "A": "发送数据给Zabbix Agent",
+        "B": "发送数据给Zabbix Frontend",
+        "C": "发送告警给用户",
+        "D": "发送数据给Zabbix Server或者Proxy"
+    },
+    {
+        "question": "Zabbix如何监控VMware虚拟化平台？",
+        "answer": "B",
+        "solution": "",
+        "id": "zabbix-25",
+        "choices": [
+            "通过Zabbix Java Gateway监控",
+            "通过VMware虚拟化平台API监控",
+            "通过Zabbix内置的特殊脚本监控",
+            "通过SSH远程连接的方式监控"
+        ],
+        "A": "通过Zabbix Java Gateway监控",
+        "B": "通过VMware虚拟化平台API监控",
+        "C": "通过Zabbix内置的特殊脚本监控",
+        "D": "通过SSH远程连接的方式监控"
+    },
+    {
+        "question": "当触发器产生一个事件提示Zabbix Poller进程繁忙程度超过75%，如何降低这些进程的负荷？",
+        "answer": "C",
+        "solution": "",
+        "id": "zabbix-27",
+        "choices": [
+            "更改Unix环境变量以增加内核限制",
+            "增加数据库连接数",
+            "增加启动的Poller进程参数数量",
+            "重新启动Zabbix Server以释放一些Poller进程"
+        ],
+        "A": "更改Unix环境变量以增加内核限制",
+        "B": "增加数据库连接数",
+        "C": "增加启动的Poller进程参数数量",
+        "D": "重新启动Zabbix Server以释放一些Poller进程"
+    },
+    {
+        "question": "Zabbix中ODBC监控功能描述正确的是？",
+        "answer": "A",
+        "solution": "",
+        "id": "zabbix-28",
+        "choices": [
+            "一种在远程数据库服务器上执行SQL查询并将结果返回给Zabbix的方法",
+            "Zabbix Agent内置的检查功能，验证ODBC是否可用",
+            "远程数据库可能使用ODBC主动将数据推送到Zabbix"
+        ],
+        "A": "一种在远程数据库服务器上执行SQL查询并将结果返回给Zabbix的方法",
+        "B": "Zabbix Agent内置的检查功能，验证ODBC是否可用",
+        "C": "远程数据库可能使用ODBC主动将数据推送到Zabbix"
+    },
+    {
+        "question": "告警消息模板包含以下行：“{EVENT.TIME}发生问题”，{EVENT.TIME} 是？",
+        "answer": "A",
+        "solution": "",
+        "id": "zabbix-29",
+        "choices": [
+            "内置宏",
+            "监控项Key值",
+            "触发器表达式",
+            "事件标签",
+            "用户宏"
+        ],
+        "A": "内置宏",
+        "B": "监控项Key值",
+        "C": "触发器表达式",
+        "D": "事件标签",
+        "E": "用户宏"
+    },
+    {
+        "question": "关于”zabbix_server -R housekeeper_execute”命令描述正确的是？",
+        "answer": "C",
+        "solution": "",
+        "id": "zabbix-31",
+        "choices": [
+            "重启Zabbix Housekeepr数据裁剪服务",
+            "Zabbix Housekeepr数据裁剪周期延后1小时",
+            "立即执行历史数据裁剪",
+            "关闭Zabbix Housekeepr数据裁剪服务"
+        ],
+        "A": "重启Zabbix Housekeepr数据裁剪服务",
+        "B": "Zabbix Housekeepr数据裁剪周期延后1小时",
+        "C": "立即执行历史数据裁剪",
+        "D": "关闭Zabbix Housekeepr数据裁剪服务"
+    },
+    {
+        "question": "Zabbix Agent默认监听的端口是哪个？",
+        "answer": "B",
+        "solution": "",
+        "id": "zabbix-32",
+        "choices": [
+            "80",
+            "10050",
+            "10051",
+            "10052"
+        ],
+        "A": "80",
+        "B": "10050",
+        "C": "10051",
+        "D": "10052"
+    },
+    {
+        "question": "Zabbix Web Service组件的功能是什么？",
+        "answer": "C",
+        "solution": "",
+        "id": "zabbix-33",
+        "choices": [
+            "Web页面可用性监控",
+            "SLA监控",
+            "定时导出PDF格式报告",
+            "邮件告警通知发送"
+        ],
+        "A": "Web页面可用性监控",
+        "B": "SLA监控",
+        "C": "定时导出PDF格式报告",
+        "D": "邮件告警通知发送"
+    },
+    {
+        "question": "Zabbix Agent的哪种模式支持数据缓存？",
+        "answer": "B",
+        "solution": "",
+        "id": "zabbix-34",
+        "choices": [
+            "Agent被动模式",
+            "Agent主动模式",
+            "两者都支持"
+        ],
+        "A": "Agent被动模式",
+        "B": "Agent主动模式",
+        "C": "两者都支持"
+    },
+    {
+        "question": "Zabbix Agent配置文件中，利用以下哪个参数来自定义Key？",
+        "answer": "B",
+        "solution": "",
+        "id": "zabbix-35",
+        "choices": [
+            "StartAgents",
+            "UserParameter",
+            "ServerActive",
+            "LoadModule"
+        ],
+        "A": "StartAgents",
+        "B": "UserParameter",
+        "C": "ServerActive",
+        "D": "LoadModule"
+    },
+    {
+        "question": "Zabbix监控系统中，以下哪个功能是用于删除过期历史数据？",
+        "answer": "D",
+        "solution": "",
+        "id": "zabbix-36",
+        "choices": [
+            "Actions",
+            "Maintenance",
+            "Working time",
+            "Housekeeping"
+        ],
+        "A": "Actions",
+        "B": "Maintenance",
+        "C": "Working time",
+        "D": "Housekeeping"
+    },
+    {
+        "question": "Zabbix触发器中last(5m)表示什么意思？",
+        "answer": "D",
+        "solution": "",
+        "id": "zabbix-38",
+        "choices": [
+            "最近五分钟的平均值",
+            "最近五分钟的最大值",
+            "最近五分钟的最小值",
+            "等同于last()，获取最新的值"
+        ],
+        "A": "最近五分钟的平均值",
+        "B": "最近五分钟的最大值",
+        "C": "最近五分钟的最小值",
+        "D": "等同于last()，获取最新的值"
+    },
+    {
+        "question": "Zabbix能不能自动发现网络拓扑？",
+        "answer": "A",
+        "solution": "",
+        "id": "zabbix-39",
+        "choices": [
+            "不能",
+            "能"
+        ],
+        "A": "不能",
+        "B": "能"
+    },
+    {
+        "question": "Template模板能不能被主机组关联？",
+        "answer": "B",
+        "solution": "",
+        "id": "zabbix-41",
+        "choices": [
+            "能",
+            "不能"
+        ],
+        "A": "能",
+        "B": "不能"
+    },
+    {
+        "question": "Zabbix中用户Macro宏的写法正确的是？",
+        "answer": "C",
+        "solution": "",
+        "id": "zabbix-42",
+        "choices": [
+            "{$User.Macro}",
+            "{USER.MACRO}",
+            "{$USER.MACRO}",
+            "{?USER.MACRO}"
+        ],
+        "A": "{$User.Macro}",
+        "B": "{USER.MACRO}",
+        "C": "{$USER.MACRO}",
+        "D": "{?USER.MACRO}"
+    },
+    {
+        "question": "Zabbix LTS版本发布的时间间隔周期是多久？",
+        "answer": "B",
+        "solution": "",
+        "id": "zabbix-43",
+        "choices": [
+            "6个月",
+            "1.5年",
+            "3年",
+            "5年"
+        ],
+        "A": "6个月",
+        "B": "1.5年",
+        "C": "3年",
+        "D": "5年"
+    },
+    {
+        "question": "如何查看Zabbix Server的版本？",
+        "answer": "C",
+        "solution": "",
+        "id": "zabbix-44",
+        "choices": [
+            "执行zabbix_server -R Version命令",
+            "执行zabbix_server -R diaginfo命令",
+            "执行zabbix_server -V 命令",
+            "前端页面查看"
+        ],
+        "A": "执行zabbix_server -R Version命令",
+        "B": "执行zabbix_server -R diaginfo命令",
+        "C": "执行zabbix_server -V 命令",
+        "D": "前端页面查看"
+    },
+    {
+        "question": "Zabbix Agent 的作用是？",
+        "answer": "B",
+        "solution": "",
+        "id": "zabbix-45",
+        "choices": [
+            "存储监控数据",
+            "收集目标主机的数据",
+            "处理告警和配置",
+            "发送电子邮件通知"
+        ],
+        "A": "存储监控数据",
+        "B": "收集目标主机的数据",
+        "C": "处理告警和配置",
+        "D": "发送电子邮件通知"
+    },
+    {
+        "question": "Zabbix Frontend 是用于什么目的？",
+        "answer": "C",
+        "solution": "",
+        "id": "zabbix-46",
+        "choices": [
+            "存储监控数据",
+            "监控数据二次处理",
+            "显示监控数据，监控和告警配置",
+            "配置管理数据库"
+        ],
+        "A": "存储监控数据",
+        "B": "监控数据二次处理",
+        "C": "显示监控数据，监控和告警配置",
+        "D": "配置管理数据库"
+    },
+    {
+        "question": "关于主机（Host）和主机组（Host Group）描述正确的是？",
+        "answer": "C",
+        "solution": "",
+        "id": "zabbix-48",
+        "choices": [
+            "主机（Host）和主机组（Host Group），两者没有关系",
+            "1台主机（Host）只能属于1个主机组（Host Group）",
+            "1台主机（Host）可以属于1个或多个主机组（Host Group）",
+            "以上描述都不正确"
+        ],
+        "A": "主机（Host）和主机组（Host Group），两者没有关系",
+        "B": "1台主机（Host）只能属于1个主机组（Host Group）",
+        "C": "1台主机（Host）可以属于1个或多个主机组（Host Group）",
+        "D": "以上描述都不正确"
+    },
+    {
+        "question": "Zabbix界面上哪个菜单用于创建新的主机和模板？",
+        "answer": "E",
+        "solution": "",
+        "id": "zabbix-53",
+        "choices": [
+            "Services",
+            "Inventory",
+            "Monitoring",
+            "Administration",
+            "Configuration"
+        ],
+        "A": "Services",
+        "B": "Inventory",
+        "C": "Monitoring",
+        "D": "Administration",
+        "E": "Configuration"
+    },
+    {
+        "question": "Agent中用户参数定义如：UserParameter=test,echo ABC，监控项如何引用此key值？",
+        "answer": "C",
+        "solution": "",
+        "id": "zabbix-54",
+        "choices": [
+            "test[ABC]",
+            "test,echo ABC",
+            "test",
+            "test,ABC"
+        ],
+        "A": "test[ABC]",
+        "B": "test,echo ABC",
+        "C": "test",
+        "D": "test,ABC"
+    },
+    {
+        "question": "Zabbix Proxy能发送告警通知吗？",
+        "answer": "B",
+        "solution": "",
+        "id": "zabbix-56",
+        "choices": [
+            "可以，Zabbix Server不可用时",
+            "不可以",
+            "可以，只有1个Zabbix Proxy运行时"
+        ],
+        "A": "可以，Zabbix Server不可用时",
+        "B": "不可以",
+        "C": "可以，只有1个Zabbix Proxy运行时"
+    },
+    {
+        "question": "如果某个主机未定义可见名称（Visible name），会影响该主机的哪些方面？",
+        "answer": "B",
+        "solution": "",
+        "id": "zabbix-57",
+        "choices": [
+            "该主机将不会在地图和仪表板上显示",
+            "将使用主机名称（Host name）作为可见名称（Visible name）",
+            "Zabbix Agent主动检查无法正常运行"
+        ],
+        "A": "该主机将不会在地图和仪表板上显示",
+        "B": "将使用主机名称（Host name）作为可见名称（Visible name）",
+        "C": "Zabbix Agent主动检查无法正常运行"
+    },
+    {
+        "question": "Zabbix监控系统，主机（Host）是否能不属于任何主机组（Host Group），独立存在？",
+        "answer": "B",
+        "solution": "",
+        "id": "zabbix-58",
+        "choices": [
+            "能",
+            "不能"
+        ],
+        "A": "能",
+        "B": "不能"
+    },
+    {
+        "question": "Zabbix Agent2的开发语言是什么？",
+        "answer": "C",
+        "solution": "",
+        "id": "zabbix-59",
+        "choices": [
+            "C语言",
+            "Java语言",
+            "GO语言",
+            "Rust语言"
+        ],
+        "A": "C语言",
+        "B": "Java语言",
+        "C": "GO语言",
+        "D": "Rust语言"
+    },
+    {
+        "question": "Zabbix监控系统是否支持跨大版本升级，如3.0版本->6.0版本？",
+        "answer": "A",
+        "solution": "",
+        "id": "zabbix-60",
+        "choices": [
+            "支持",
+            "不支持"
+        ],
+        "A": "支持",
+        "B": "不支持"
+    },
+    {
+        "question": "Zabbix监控系统是否支持版本降级，如6.0版本->3.0版本？",
+        "answer": "B",
+        "solution": "",
+        "id": "zabbix-61",
+        "choices": [
+            "支持",
+            "不支持"
+        ],
+        "A": "支持",
+        "B": "不支持"
+    },
+    {
+        "question": "高版本Zabbix Server是否支持低版本的Zabbix Agent，如Server 6.0版本,Agent 3.0版本？",
+        "answer": "A",
+        "solution": "",
+        "id": "zabbix-62",
+        "choices": [
+            "支持",
+            "不支持"
+        ],
+        "A": "支持",
+        "B": "不支持"
+    },
+    {
+        "question": "Zabbix Proxy默认是什么模式？",
+        "answer": "B",
+        "solution": "",
+        "id": "zabbix-64",
+        "choices": [
+            "被动模式",
+            "主动模式",
+            "混合模式",
+            "静默模式"
+        ],
+        "A": "被动模式",
+        "B": "主动模式",
+        "C": "混合模式",
+        "D": "静默模式"
+    },
+    {
+        "question": "Zabbix Agent默认是什么模式？",
+        "answer": "A",
+        "solution": "",
+        "id": "zabbix-65",
+        "choices": [
+            "被动模式",
+            "主动模式",
+            "混合模式",
+            "静默模式"
+        ],
+        "A": "被动模式",
+        "B": "主动模式",
+        "C": "混合模式",
+        "D": "静默模式"
+    },
+    {
+        "question": "关于Zabbix触发器描述正确的是？",
+        "answer": "D",
+        "solution": "",
+        "id": "zabbix-66",
+        "choices": [
+            "触发自动化安装Zabbix Agent",
+            "触发自动化创建监控主机",
+            "同步Zabbix Server配置数据",
+            "用来评估监控项数据的逻辑规则"
+        ],
+        "A": "触发自动化安装Zabbix Agent",
+        "B": "触发自动化创建监控主机",
+        "C": "同步Zabbix Server配置数据",
+        "D": "用来评估监控项数据的逻辑规则"
+    },
+    {
+        "question": "关于Item监控项中”Clear history”按钮功能描述正确的是？",
+        "answer": "A",
+        "solution": "",
+        "id": "zabbix-72",
+        "choices": [
+            "立即在数据库中删除该监控项的所有数据",
+            "立即在数据库中删除该监控项过去7天的数据",
+            "清除该监控项已关联的监控模板",
+            "清除该监控项已配置的触发器"
+        ],
+        "A": "立即在数据库中删除该监控项的所有数据",
+        "B": "立即在数据库中删除该监控项过去7天的数据",
+        "C": "清除该监控项已关联的监控模板",
+        "D": "清除该监控项已配置的触发器"
+    },
+    {
+        "question": "关于Zabbix监控能力以下说法正确的是？",
+        "answer": "D",
+        "solution": "",
+        "id": "zabbix-74",
+        "choices": [
+            "Zabbix监控系统只能由Agent采集数据",
+            "Zabbix监控系统只能由Proxy采集数据",
+            "Zabbix监控系统只能由Server采集数据",
+            "Server、Proxy和Agent都能采集数据"
+        ],
+        "A": "Zabbix监控系统只能由Agent采集数据",
+        "B": "Zabbix监控系统只能由Proxy采集数据",
+        "C": "Zabbix监控系统只能由Server采集数据",
+        "D": "Server、Proxy和Agent都能采集数据"
+    },
+    {
+        "question": "Zabbix监控项最大数据采集频率是多久？",
+        "answer": "D",
+        "solution": "",
+        "id": "zabbix-75",
+        "choices": [
+            "每小时",
+            "每分钟",
+            "每秒钟",
+            "每天"
+        ],
+        "A": "每小时",
+        "B": "每分钟",
+        "C": "每秒钟",
+        "D": "每天"
+    },
+    {
+        "question": "Zabbix监控项采集频率参数设置为”0”，描述正确的是？",
+        "answer": "B",
+        "solution": "",
+        "id": "zabbix-81",
+        "choices": [
+            "使用默认采集频率",
+            "不采集数据",
+            "使用1小时采集频率",
+            "不支持此设置"
+        ],
+        "A": "使用默认采集频率",
+        "B": "不采集数据",
+        "C": "使用1小时采集频率",
+        "D": "不支持此设置"
+    },
+    {
+        "question": "Zabbix触发器函数中，最高效的函数是哪个？",
+        "answer": "C",
+        "solution": "",
+        "id": "zabbix-83",
+        "choices": [
+            "Max（）",
+            "Min（）",
+            "Last（）",
+            "Avg（）"
+        ],
+        "A": "Max（）",
+        "B": "Min（）",
+        "C": "Last（）",
+        "D": "Avg（）"
+    },
+    {
+        "question": "关于Zabbix中用户宏（User Macros）描述正确的是？",
+        "answer": "D",
+        "solution": "",
+        "id": "zabbix-84",
+        "choices": [
+            "用户宏支持小写字母",
+            "用户宏以”?”开始",
+            "只有Admin用户才能定义用户宏",
+            "用户宏支持隐藏内容"
+        ],
+        "A": "用户宏支持小写字母",
+        "B": "用户宏以”?”开始",
+        "C": "只有Admin用户才能定义用户宏",
+        "D": "用户宏支持隐藏内容"
+    },
+    {
+        "question": "Zabbix能不能在Map中展示监控项的最新数据？",
+        "answer": "C",
+        "solution": "",
+        "id": "zabbix-85",
+        "choices": [
+            "仅支持Zabbix Agent采集的数据",
+            "支持使用”Value mapping”方式实现",
+            "使用监控项的Macro宏",
+            "不支持，无此功能"
+        ],
+        "A": "仅支持Zabbix Agent采集的数据",
+        "B": "支持使用”Value mapping”方式实现",
+        "C": "使用监控项的Macro宏",
+        "D": "不支持，无此功能"
+    },
+    {
+        "question": "“HTTP agent”类型的监控项是有以下哪个组件发起数据采集？",
+        "answer": "D",
+        "solution": "",
+        "id": "zabbix-86",
+        "choices": [
+            "Zabbix Web service",
+            "Zabbix Agent",
+            "Zabbix Frontend",
+            "Zabbix Server或者Proxy"
+        ],
+        "A": "Zabbix Web service",
+        "B": "Zabbix Agent",
+        "C": "Zabbix Frontend",
+        "D": "Zabbix Server或者Proxy"
+    },
+    {
+        "question": "“Housekeeper process”默认多久执行一次？",
+        "answer": "A",
+        "solution": "",
+        "id": "zabbix-87",
+        "choices": [
+            "每小时",
+            "每分钟",
+            "每秒钟",
+            "每天"
+        ],
+        "A": "每小时",
+        "B": "每分钟",
+        "C": "每秒钟",
+        "D": "每天"
+    },
+    {
+        "question": "关于Zabbix依赖监控项的描述正确是？",
+        "answer": "B",
+        "solution": "",
+        "id": "zabbix-89",
+        "choices": [
+            "允许为用户组设置监控项的权限",
+            "一次性批量采集监控项数据，并用于相关监控项",
+            "允许关联问题告警",
+            "以上描述都不正确"
+        ],
+        "A": "允许为用户组设置监控项的权限",
+        "B": "一次性批量采集监控项数据，并用于相关监控项",
+        "C": "允许关联问题告警",
+        "D": "以上描述都不正确"
+    },
+    {
+        "question": "Zabbix前端界面上的“Mass update”按钮的用途是什么？",
+        "answer": "C",
+        "solution": "",
+        "id": "zabbix-92",
+        "choices": [
+            "加载Zabbix Server的配置缓存",
+            "强制多个监控项实时采集数据",
+            "立即更新多个监控项或主机的配置",
+            "更新所有Zabbix Agent和Proxy的配置"
+        ],
+        "A": "加载Zabbix Server的配置缓存",
+        "B": "强制多个监控项实时采集数据",
+        "C": "立即更新多个监控项或主机的配置",
+        "D": "更新所有Zabbix Agent和Proxy的配置"
+    },
+    {
+        "question": "Zabbix前端界面上的“Clear history”按钮的用途是什么？",
+        "answer": "B",
+        "solution": "",
+        "id": "zabbix-93",
+        "choices": [
+            "下一次Housekeeper进程执行时，删除已选中监控项的历史数据",
+            "立即删除已选中监控项的历史数据",
+            "立即删除已选中监控项产生的告警"
+        ],
+        "A": "下一次Housekeeper进程执行时，删除已选中监控项的历史数据",
+        "B": "立即删除已选中监控项的历史数据",
+        "C": "立即删除已选中监控项产生的告警"
+    },
+    {
+        "question": "Zabbix是否可以配置为仅在周末向特定用户发送告警邮件？",
+        "answer": "C",
+        "solution": "",
+        "id": "zabbix-96",
+        "choices": [
+            "可以，在全局管理设置中配置“Working time”来实现",
+            "可以，在操作配置中的自定义操作步骤持续时间内实现",
+            "可以，在用户媒体设置中指定“When active”参数来实现",
+            "不支持"
+        ],
+        "A": "可以，在全局管理设置中配置“Working time”来实现",
+        "B": "可以，在操作配置中的自定义操作步骤持续时间内实现",
+        "C": "可以，在用户媒体设置中指定“When active”参数来实现",
+        "D": "不支持"
+    },
+    {
+        "question": "低级发现（LLD）规则的“Keep lost resources period”设置为30天，此LLD发现的实体（项目/触发器）不再被发现？",
+        "answer": "B",
+        "solution": "",
+        "id": "zabbix-97",
+        "choices": [
+            "不会被自动删除，必须手动删除",
+            "30天后会被删除",
+            "将在1小时后由Housekeeper进程删除"
+        ],
+        "A": "不会被自动删除，必须手动删除",
+        "B": "30天后会被删除",
+        "C": "将在1小时后由Housekeeper进程删除"
+    },
+    {
+        "question": "关于Zabbix预处理功能描述正确的是？",
+        "answer": "B",
+        "solution": "",
+        "id": "zabbix-98",
+        "choices": [
+            "预处理功能只能由Zabbix Server执行",
+            "预处理功能可以由Zabbix Server或者Zabbix Proxy执行",
+            "预处理功能只能由Zabbix Agent执行",
+            "预处理功能可以由Zabbix Server或者Zabbix Agent执行"
+        ],
+        "A": "预处理功能只能由Zabbix Server执行",
+        "B": "预处理功能可以由Zabbix Server或者Zabbix Proxy执行",
+        "C": "预处理功能只能由Zabbix Agent执行",
+        "D": "预处理功能可以由Zabbix Server或者Zabbix Agent执行"
+    },
+    {
+        "question": "Zabbix监控系统中如何调用正则表达式规则？",
+        "answer": "D",
+        "solution": "",
+        "id": "zabbix-99",
+        "choices": [
+            "使用”$”符号",
+            "使用”&”符号",
+            "使用”!”符号",
+            "使用”@”符号"
+        ],
+        "A": "使用”$”符号",
+        "B": "使用”&”符号",
+        "C": "使用”!”符号",
+        "D": "使用”@”符号"
+    },
+    {
+        "question": "关于Zabbix实时导出数据描述正确的是？",
+        "answer": "B",
+        "solution": "",
+        "id": "zabbix-100",
+        "choices": [
+            "从Zabbix Agent缓存中导出数据",
+            "从Zabbix Server缓存中导出数据",
+            "从Zabbix Proxy缓存中导出数据",
+            "从Zabbix Frontend缓存中导出数据"
+        ],
+        "A": "从Zabbix Agent缓存中导出数据",
+        "B": "从Zabbix Server缓存中导出数据",
+        "C": "从Zabbix Proxy缓存中导出数据",
+        "D": "从Zabbix Frontend缓存中导出数据"
+    }
+]

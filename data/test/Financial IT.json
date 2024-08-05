@@ -1,0 +1,1142 @@
+[
+    {
+        "question": "在Shell 脚本中，用来读取文件内各个域的内容并将其赋值给Shell 变量的命令是 （） 。",
+        "choices": [
+            "fold",
+            "join",
+            "tr",
+            "read"
+        ],
+        "answer": "D",
+        "solution": "",
+        "id": "pufa-3",
+        "A": "fold",
+        "B": "join",
+        "C": "tr",
+        "D": "read"
+    },
+    {
+        "question": "退出交互模式的shell，应键入 （） 。",
+        "choices": [
+            ";",
+            "^q",
+            "exit",
+            "quit"
+        ],
+        "answer": "C",
+        "solution": "",
+        "id": "pufa-4",
+        "A": ";",
+        "B": "^q",
+        "C": "exit",
+        "D": "quit"
+    },
+    {
+        "question": "下列变量名中有效的shell 变量名是：（）",
+        "choices": [
+            "-2-time",
+            "_2$3",
+            "trust_no_1",
+            "2004file"
+        ],
+        "answer": "C",
+        "solution": "",
+        "id": "pufa-5",
+        "A": "-2-time",
+        "B": "_2$3",
+        "C": "trust_no_1",
+        "D": "2004file"
+    },
+    {
+        "question": "是shell 具有的功能和特点的是（）。",
+        "choices": [
+            "管道",
+            "输入输出重定向",
+            "执行后台进程",
+            "处理程序命令"
+        ],
+        "answer": "C",
+        "solution": "",
+        "id": "pufa-6",
+        "A": "管道",
+        "B": "输入输出重定向",
+        "C": "执行后台进程",
+        "D": "处理程序命令"
+    },
+    {
+        "question": "下列对shell 变量FRUIT 操作，正确的是：（） 。",
+        "choices": [
+            "为变量赋值：$FRUIT=apple",
+            "显示变量的值：fruit=apple",
+            "显示变量的值：echo $FRUIT",
+            "判断变量是否有值：[ -f ―$FRUIT‖ ]"
+        ],
+        "answer": "C",
+        "solution": "",
+        "id": "pufa-7",
+        "A": "为变量赋值：$FRUIT=apple",
+        "B": "显示变量的值：fruit=apple",
+        "C": "显示变量的值：echo $FRUIT",
+        "D": "判断变量是否有值：[ -f ―$FRUIT‖ ]"
+    },
+    {
+        "question": "下面的网络协议中，面向连接的的协议是：()",
+        "choices": [
+            "传输控制协议",
+            "用户数据报协议",
+            "网际协议",
+            "网际控制报文协议"
+        ],
+        "answer": "A",
+        "solution": "",
+        "id": "pufa-8",
+        "A": "传输控制协议",
+        "B": "用户数据报协议",
+        "C": "网际协议",
+        "D": "网际控制报文协议"
+    },
+    {
+        "question": "一台主机要实现通过局域网与另一个局域网通信，需要做的工作是 () 。",
+        "choices": [
+            "配置域名服务器",
+            "定义一条本机指向所在网络的路由",
+            "定义一条本机指向所在网络网关的路由",
+            "定义一条本机指向目标网络网关的路由"
+        ],
+        "answer": "C",
+        "solution": "",
+        "id": "pufa-9",
+        "A": "配置域名服务器",
+        "B": "定义一条本机指向所在网络的路由",
+        "C": "定义一条本机指向所在网络网关的路由",
+        "D": "定义一条本机指向目标网络网关的路由"
+    },
+    {
+        "question": "在/etc/fstab 文件中指定的文件系统加载参数中，() 参数一般用于CD-ROM 等移动设备。",
+        "choices": [
+            "defaults",
+            "sw",
+            "rw 和ro",
+            "noauto"
+        ],
+        "A": "defaults",
+        "B": "sw",
+        "C": "rw 和ro",
+        "D": "noauto",
+        "answer": "D",
+        "solution": "",
+        "id": "pufa-10"
+    },
+    {
+        "question": "终止一个前台进程可能用到的命令和操作 () 。",
+        "choices": [
+            "kill",
+            ";+C",
+            "shut down",
+            "halt"
+        ],
+        "A": "kill",
+        "B": ";+C",
+        "C": "shut down",
+        "D": "halt",
+        "answer": "B",
+        "solution": "",
+        "id": "pufa-11"
+    },
+    {
+        "question": "在使用mkdir 命令创建新的目录时，在其父目录不存在时先创建父目录的选项是 ()",
+        "choices": [
+            "-m",
+            "-d",
+            "-f",
+            "–p"
+        ],
+        "A": "-m",
+        "B": "-d",
+        "C": "-f",
+        "D": "–p",
+        "answer": "D",
+        "solution": "",
+        "id": "pufa-12"
+    },
+    {
+        "question": "具有很多C 语言的功能，又称过滤器的是 () 。",
+        "choices": [
+            "csh",
+            "tcsh",
+            "awk",
+            "sed"
+        ],
+        "A": "csh",
+        "B": "tcsh",
+        "C": "awk",
+        "D": "sed",
+        "answer": "C",
+        "solution": "",
+        "id": "pufa-13"
+    },
+    {
+        "question": "建立动态路由需要用到的文件有 () 。",
+        "choices": [
+            "/etc/hosts",
+            "/etc/HOSTNAME",
+            "/etc/resolv.conf",
+            "/etc/gateways"
+        ],
+        "A": "/etc/hosts",
+        "B": "/etc/HOSTNAME",
+        "C": "/etc/resolv.conf",
+        "D": "/etc/gateways",
+        "answer": "D",
+        "solution": "",
+        "id": "pufa-14"
+    },
+    {
+        "question": "局域网的网络地址192.168.1.0/24，局域网络连接其它网络的网关地址是192.168.1.1。主机192.168.1.20 访问172.16.1.0/24 网络时，其路由设置正确的是 () 。",
+        "choices": [
+            "route add –net 192.168.1.0 gw 192.168.1.1 netmask 255.255.255.0 metric1",
+            "route add –net 172.16.1.0 gw 192.168.1.1 netmask 255.255.255.255 metric1",
+            "route add –net 172.16.1.0 gw 172.16.1.1 netmask 255.255.255.0 metric 1",
+            "route add default 192.168.1.0 netmask 172.168.1.1 metric 1"
+        ],
+        "A": "route add –net 192.168.1.0 gw 192.168.1.1 netmask 255.255.255.0 metric1",
+        "B": "route add –net 172.16.1.0 gw 192.168.1.1 netmask 255.255.255.255 metric1",
+        "C": "route add –net 172.16.1.0 gw 172.16.1.1 netmask 255.255.255.0 metric 1",
+        "D": "route add default 192.168.1.0 netmask 172.168.1.1 metric 1",
+        "answer": "B",
+        "solution": "",
+        "id": "pufa-15"
+    },
+    {
+        "question": "下列提法中，不属于ifconfig 命令作用范围的是 () 。",
+        "choices": [
+            "配置本地回环地址",
+            "配置网卡的IP 地址",
+            "激活网络适配器",
+            "加载网卡到内核中"
+        ],
+        "A": "配置本地回环地址",
+        "B": "配置网卡的IP 地址",
+        "C": "激活网络适配器",
+        "D": "加载网卡到内核中",
+        "answer": "D",
+        "solution": "",
+        "id": "pufa-16"
+    },
+    {
+        "question": "下列关于链接描述，错误的是 () 。",
+        "choices": [
+            "硬链接就是让链接文件的i 节点号指向被链接文件的i 节点",
+            "硬链接和符号连接都是产生一个新的i 节点",
+            "链接分为硬链接和符号链接",
+            "硬连接不能链接目录文件"
+        ],
+        "answer": "B",
+        "solution": "",
+        "id": "pufa-17",
+        "A": "硬链接就是让链接文件的i 节点号指向被链接文件的i 节点",
+        "B": "硬链接和符号连接都是产生一个新的i 节点",
+        "C": "链接分为硬链接和符号链接",
+        "D": "硬连接不能链接目录文件"
+    },
+    {
+        "question": "在局域网络内的某台主机用ping 命令测试网络连接时发现网络内部的主机都可以连同，而不能与公网连通，问题可能是 ()。",
+        "choices": [
+            "主机IP 设置有误",
+            "没有设置连接局域网的网关",
+            "局域网的网关或主机的网关设置有误",
+            "局域网DNS 服务器设置有误"
+        ],
+        "answer": "C",
+        "solution": "",
+        "id": "pufa-18",
+        "A": "主机IP 设置有误",
+        "B": "没有设置连接局域网的网关",
+        "C": "局域网的网关或主机的网关设置有误",
+        "D": "局域网DNS 服务器设置有误"
+    },
+    {
+        "question": "下列文件中，包含了主机名到IP 地址的映射关系的文件是：() 。",
+        "choices": [
+            "/etc/HOSTNAME",
+            "/etc/hosts",
+            "/etc/resolv.conf",
+            "/etc/networks"
+        ],
+        "answer": "B",
+        "solution": "",
+        "id": "pufa-19",
+        "A": "/etc/HOSTNAME",
+        "B": "/etc/hosts",
+        "C": "/etc/resolv.conf",
+        "D": "/etc/networks"
+    },
+    {
+        "question": "不需要编译内核的情况是 () 。",
+        "choices": [
+            "删除系统不用的设备驱动程序时",
+            "升级内核时",
+            "添加新硬件时",
+            "将网卡激活"
+        ],
+        "answer": "A",
+        "solution": "",
+        "id": "pufa-20",
+        "A": "删除系统不用的设备驱动程序时",
+        "B": "升级内核时",
+        "C": "添加新硬件时",
+        "D": "将网卡激活"
+    },
+    {
+        "question": "以下聚合函数求数据总和的是( )",
+        "choices": [
+            "MAX",
+            "SUM",
+            "COUNT",
+            "AVG"
+        ],
+        "answer": "B",
+        "solution": "",
+        "id": "pufa-21",
+        "A": "MAX",
+        "B": "SUM",
+        "C": "COUNT",
+        "D": "AVG"
+    },
+    {
+        "question": "SELECT语句的完整语法较复杂,但至少包括的部分是( )",
+        "choices": [
+            "仅SELECT",
+            "SELECT,FROM",
+            "SELECT,GROUP",
+            "SELECT,INTO"
+        ],
+        "answer": "B",
+        "solution": "",
+        "id": "pufa-22",
+        "A": "仅SELECT",
+        "B": "SELECT,FROM",
+        "C": "SELECT,GROUP",
+        "D": "SELECT,INTO"
+    },
+    {
+        "question": "SQL语句中的条件用以下哪一项来表达( )",
+        "choices": [
+            "THEN",
+            "WHILE",
+            "WHERE",
+            "IF"
+        ],
+        "answer": "C",
+        "solution": "",
+        "id": "pufa-23",
+        "A": "THEN",
+        "B": "WHILE",
+        "C": "WHERE",
+        "D": "IF"
+    },
+    {
+        "question": "以下能够删除一列的是( )",
+        "choices": [
+            "alter table emp remove addcolumn",
+            "alter table emp drop column addcolumn",
+            "alter table emp delete column addcolumn",
+            "alter table emp delete addcolumn"
+        ],
+        "answer": "B",
+        "solution": "",
+        "id": "pufa-24",
+        "A": "alter table emp remove addcolumn",
+        "B": "alter table emp drop column addcolumn",
+        "C": "alter table emp delete column addcolumn",
+        "D": "alter table emp delete addcolumn"
+    },
+    {
+        "question": "若要撤销数据库中已经存在的表S,可用()。",
+        "choices": [
+            "DELETE TABLE S",
+            "DELETE S",
+            "DROP S",
+            "DROP TABLE S"
+        ],
+        "answer": "D",
+        "solution": "",
+        "id": "pufa-25",
+        "A": "DELETE TABLE S",
+        "B": "DELETE S",
+        "C": "DROP S",
+        "D": "DROP TABLE S"
+    },
+    {
+        "question": "查找表结构用以下哪一项( )",
+        "choices": [
+            "FIND",
+            "SELETE",
+            "ALTER",
+            "DESC"
+        ],
+        "answer": "D",
+        "solution": "",
+        "id": "pufa-26",
+        "A": "FIND",
+        "B": "SELETE",
+        "C": "ALTER",
+        "D": "DESC"
+    },
+    {
+        "question": "要得到最后一句SELECT查询到的总行数,可以使用的函数是( )",
+        "choices": [
+            "FOUND_ROWS",
+            "LAST_ROWS",
+            "ROW_COUNT",
+            "LAST_INSERT_ID"
+        ],
+        "answer": "A",
+        "solution": "",
+        "id": "pufa-27",
+        "A": "FOUND_ROWS",
+        "B": "LAST_ROWS",
+        "C": "ROW_COUNT",
+        "D": "LAST_INSERT_ID"
+    },
+    {
+        "question": "在视图上不能完成的操作是( )",
+        "choices": [
+            "查询",
+            "在视图上定义新的视图",
+            "更新视图",
+            "在视图上定义新的表"
+        ],
+        "answer": "D",
+        "solution": "",
+        "id": "pufa-28",
+        "A": "查询",
+        "B": "在视图上定义新的视图",
+        "C": "更新视图",
+        "D": "在视图上定义新的表"
+    },
+    {
+        "question": "UNIQUE惟一索引的作用是( )",
+        "choices": [
+            "保证各行在该索引上的值都不得重复",
+            "保证各行在该索引上的值不得为NULL",
+            "保证参加惟一索引的各列,不得再参加其他的索引",
+            "保证惟一索引不能被删除"
+        ],
+        "answer": "A",
+        "solution": "",
+        "id": "pufa-29",
+        "A": "保证各行在该索引上的值都不得重复",
+        "B": "保证各行在该索引上的值不得为NULL",
+        "C": "保证参加惟一索引的各列,不得再参加其他的索引",
+        "D": "保证惟一索引不能被删除"
+    },
+    {
+        "question": "用于将事务处理写到数据库的命令是( )",
+        "choices": [
+            "insert",
+            "rollback",
+            "commit",
+            "savepoint"
+        ],
+        "answer": "C",
+        "solution": "",
+        "id": "pufa-30",
+        "A": "insert",
+        "B": "rollback",
+        "C": "commit",
+        "D": "savepoint"
+    },
+    {
+        "question": "查找条件为【】:姓名不是NULL的记录( )",
+        "choices": [
+            "WHERE NAME ! NULL",
+            "WHERE NAME NOT NULL",
+            "WHERE NAME IS NOT NULL",
+            "WHERE NAME!=NULL"
+        ],
+        "answer": "C",
+        "solution": "",
+        "id": "pufa-31",
+        "A": "WHERE NAME ! NULL",
+        "B": "WHERE NAME NOT NULL",
+        "C": "WHERE NAME IS NOT NULL",
+        "D": "WHERE NAME!=NULL"
+    },
+    {
+        "question": "在视图上不能完成的操作是( )",
+        "choices": [
+            "更新视图数据",
+            "在视图上定义新的基本表",
+            "在视图上定义新的视图",
+            "查询"
+        ],
+        "answer": "B",
+        "solution": "",
+        "id": "pufa-32",
+        "A": "更新视图数据",
+        "B": "在视图上定义新的基本表",
+        "C": "在视图上定义新的视图",
+        "D": "查询"
+    },
+    {
+        "question": "在SQL语言中,子查询是()。",
+        "choices": [
+            "选取单表中字段子集的查询语句",
+            "选取多表中字段子集的查询语句",
+            "返回单表中数据子集的查询语言",
+            "嵌入到另一个查询语句之中的查询语句"
+        ],
+        "answer": "D",
+        "solution": "",
+        "id": "pufa-33",
+        "A": "选取单表中字段子集的查询语句",
+        "B": "选取多表中字段子集的查询语句",
+        "C": "返回单表中数据子集的查询语言",
+        "D": "嵌入到另一个查询语句之中的查询语句"
+    },
+    {
+        "question": "向数据表中插入一条记录用以下哪一项( )",
+        "choices": [
+            "CREATE",
+            "INSERT",
+            "SAVE",
+            "UPDATE"
+        ],
+        "answer": "B",
+        "solution": "",
+        "id": "pufa-34",
+        "A": "CREATE",
+        "B": "INSERT",
+        "C": "SAVE",
+        "D": "UPDATE"
+    },
+    {
+        "question": "SQL语言的数据操纵语句包括SELECT、INSERT、UPDATE、DELETE等。其中最重要的,也是使用最频繁的语句是( )。",
+        "choices": [
+            "UPDATE",
+            "SELECT",
+            "DELETE",
+            "INSERT"
+        ],
+        "answer": "B",
+        "solution": "",
+        "id": "pufa-35",
+        "A": "UPDATE",
+        "B": "SELECT",
+        "C": "DELETE",
+        "D": "INSERT"
+    },
+    {
+        "question": "以下哪种操作能够实现实体完整性( )",
+        "choices": [
+            "设置唯一键",
+            "设置外键",
+            "减少数据冗余",
+            "设置主键"
+        ],
+        "answer": "B",
+        "solution": "",
+        "id": "pufa-36",
+        "A": "设置唯一键",
+        "B": "设置外键",
+        "C": "减少数据冗余",
+        "D": "设置主键"
+    },
+    {
+        "question": "SQL语言中,删除一个视图的命令是( )",
+        "choices": [
+            "REMOVE",
+            "CLEAR",
+            "DELETE",
+            "DROP"
+        ],
+        "answer": "D",
+        "solution": "",
+        "id": "pufa-37",
+        "A": "REMOVE",
+        "B": "CLEAR",
+        "C": "DELETE",
+        "D": "DROP"
+    },
+    {
+        "question": "修改数据库表结构用以下哪一项( )",
+        "choices": [
+            "UPDATE",
+            "CREATE",
+            "UPDATED",
+            "ALTER"
+        ],
+        "answer": "D",
+        "solution": "",
+        "id": "pufa-38",
+        "A": "UPDATE",
+        "B": "CREATE",
+        "C": "UPDATED",
+        "D": "ALTER"
+    },
+    {
+        "question": "以下语句错误的是( )",
+        "choices": [
+            "select sal+1 from emp;",
+            "select sal*10,sal*deptno from emp;",
+            "不能使用运算符号",
+            "select sal*10,deptno*10 from emp;"
+        ],
+        "answer": "C",
+        "solution": "",
+        "id": "pufa-39",
+        "A": "select sal+1 from emp;",
+        "B": "select sal*10,sal*deptno from emp;",
+        "C": "不能使用运算符号",
+        "D": "select sal*10,deptno*10 from emp;"
+    },
+    {
+        "question": "若用如下的SQL语句创建了一个表SC:( )CREATE TABLE SC (S# CHAR(6)NOT NULL,C# CHAR(3)NOT NULL,SCORE INTEGER, NOTE CHAR(20));向SC表插入如下行时,()行可以被插入。",
+        "choices": [
+            "(NULL,’103’,80,’选修’)",
+            "(’200823’,’101’,NULL,NULL)",
+            "(’201132’,NULL,86,’’)",
+            "(’201009’,’111’,60,必修)"
+        ],
+        "answer": "B",
+        "solution": "",
+        "id": "pufa-40",
+        "A": "(NULL,’103’,80,’选修’)",
+        "B": "(’200823’,’101’,NULL,NULL)",
+        "C": "(’201132’,NULL,86,’’)",
+        "D": "(’201009’,’111’,60,必修)"
+    },
+    {
+        "question": "删除用户账号命令是( )",
+        "choices": [
+            "DROP USER",
+            "DROP TABLE USER",
+            "DELETE USER",
+            "DELETE FROM USER"
+        ],
+        "answer": "A",
+        "solution": "",
+        "id": "pufa-41",
+        "A": "DROP USER",
+        "B": "DROP TABLE USER",
+        "C": "DELETE USER",
+        "D": "DELETE FROM USER"
+    },
+    {
+        "question": "敏捷团队日常运作中，迭代评审会议是为了？",
+        "choices": [
+            "团队自身监视，创建下个sprint改进计划机会",
+            "确认系统功能与用户期望是否一致，收集用户反馈，明确后续目标",
+            "帮助团队自组织自改进",
+            "团队之间更透明，加强信任"
+        ],
+        "answer": "B",
+        "solution": "",
+        "id": "pufa-42",
+        "A": "团队自身监视，创建下个sprint改进计划机会",
+        "B": "确认系统功能与用户期望是否一致，收集用户反馈，明确后续目标",
+        "C": "帮助团队自组织自改进",
+        "D": "团队之间更透明，加强信任"
+    },
+    {
+        "question": "6.外观设计专利是指()",
+        "choices": [
+            "对产品的整体或者局部的形状、图案或者其结合以及色彩与形状、图案的结合所作出的富有美感并适于工业应用的新设计。",
+            "对产品、方法或者其改进所提出的新的技术方案。",
+            "对产品的形状、构造或者其结合所提出的适于实用的新的技术方案，",
+            "科学发现"
+        ],
+        "answer": "A",
+        "solution": "",
+        "id": "pufa-43",
+        "A": "对产品的整体或者局部的形状、图案或者其结合以及色彩与形状、图案的结合所作出的富有美感并适于工业应用的新设计。",
+        "B": "对产品、方法或者其改进所提出的新的技术方案。",
+        "C": "对产品的形状、构造或者其结合所提出的适于实用的新的技术方案，",
+        "D": "科学发现"
+    },
+    {
+        "question": "为了防范XSS攻击，需要在数据输出之前先对敏感字符进行()，能够避免跨站脚本漏洞，是防止XSS的首推之选",
+        "choices": [
+            "删除",
+            "替换",
+            "注释",
+            "转义"
+        ],
+        "answer": "D",
+        "solution": "",
+        "id": "pufa-44",
+        "A": "删除",
+        "B": "替换",
+        "C": "注释",
+        "D": "转义"
+    },
+    {
+        "question": "出现业务逻辑漏洞的原因有哪些?",
+        "choices": [
+            "服务器对客户端的业务缺乏一致性验证",
+            "通信过程中末进行数据保护",
+            "很多业务作的参数是从客户端获取的",
+            "全部都是"
+        ],
+        "answer": "D",
+        "solution": "",
+        "id": "pufa-45",
+        "A": "服务器对客户端的业务缺乏一致性验证",
+        "B": "通信过程中末进行数据保护",
+        "C": "很多业务作的参数是从客户端获取的",
+        "D": "全部都是"
+    },
+    {
+        "question": "DDoS攻击亦称洪水攻击，是一种网络攻击手法，其攻击方式可以具体分成两种形式( )以及资源消耗型",
+        "choices": [
+            "服务消耗型",
+            "延迟消耗型",
+            "传输消耗型",
+            "带宽消耗型"
+        ],
+        "answer": "D",
+        "solution": "",
+        "id": "pufa-46",
+        "A": "服务消耗型",
+        "B": "延迟消耗型",
+        "C": "传输消耗型",
+        "D": "带宽消耗型"
+    },
+    {
+        "question": "以下关于敏捷教练(ScrumMaster)的描述，错误的是",
+        "choices": [
+            "保护团队不受外界因素的干扰",
+            "研发过程中，同时担任产品负责人(ProductOwner)职责",
+            "保证各个不同角色之间的良好协作，消除障碍",
+            "保证Scrum团队可以道守Scrum的价值，实践和规范"
+        ],
+        "answer": "B",
+        "solution": "",
+        "id": "pufa-47",
+        "A": "保护团队不受外界因素的干扰",
+        "B": "研发过程中，同时担任产品负责人(ProductOwner)职责",
+        "C": "保证各个不同角色之间的良好协作，消除障碍",
+        "D": "保证Scrum团队可以道守Scrum的价值，实践和规范"
+    },
+    {
+        "question": "Devops价值不包括",
+        "choices": [
+            "可以使原本预立的开发、测试和运维等角色更好地协作",
+            "提供统一的运行框架和开发工具支持",
+            "缩短开发周期",
+            "提高部雷频率和发布可靠度"
+        ],
+        "answer": "B",
+        "solution": "",
+        "id": "pufa-48",
+        "A": "可以使原本预立的开发、测试和运维等角色更好地协作",
+        "B": "提供统一的运行框架和开发工具支持",
+        "C": "缩短开发周期",
+        "D": "提高部雷频率和发布可靠度"
+    },
+    {
+        "question": "编码阶段输出不包括以下哪一项",
+        "choices": [
+            "代码评审报告",
+            "概要设计说明书洋细设计说明书",
+            "源代码",
+            "单元测过案例"
+        ],
+        "answer": "B",
+        "solution": "",
+        "id": "pufa-49",
+        "A": "代码评审报告",
+        "B": "概要设计说明书洋细设计说明书",
+        "C": "源代码",
+        "D": "单元测过案例"
+    },
+    {
+        "question": "在以太网中 ARP 报文分为 ARP Request 和 ARP Response，其中 ARP Request 在网络是（ ）传送",
+        "choices": [
+            "广播",
+            "单播",
+            "组播",
+            "多播"
+        ],
+        "answer": "A",
+        "solution": "",
+        "id": "pufa-51",
+        "A": "广播",
+        "B": "单播",
+        "C": "组播",
+        "D": "多播"
+    },
+    {
+        "question": "在一台 IP 地址为 192.168.0.2 的计算机上 Ping 192.168.0.1 -l 10，那么在 192.168.0.1 这台计算机上收到的 IP 报文长度是（ ）",
+        "choices": [
+            "10byte",
+            "38byte",
+            "64byte",
+            "56byte"
+        ],
+        "answer": "B",
+        "solution": "",
+        "id": "pufa-52",
+        "A": "10byte",
+        "B": "38byte",
+        "C": "64byte",
+        "D": "56byte"
+    },
+    {
+        "question": "下面协议中那一个是工作在传输层并且是面向无连接的。",
+        "choices": [
+            "IP",
+            "ARP",
+            "TCP",
+            "UDP"
+        ],
+        "answer": "D",
+        "solution": "",
+        "id": "pufa-53",
+        "A": "IP",
+        "B": "ARP",
+        "C": "TCP",
+        "D": "UDP"
+    },
+    {
+        "question": "下面哪个协议用于发现设备的硬件地址？",
+        "choices": [
+            "RARP",
+            "ARP",
+            "IP",
+            "ICMP",
+            "BootP"
+        ],
+        "answer": "B",
+        "solution": "",
+        "id": "pufa-54",
+        "A": "RARP",
+        "B": "ARP",
+        "C": "IP",
+        "D": "ICMP",
+        "E": "BootP"
+    },
+    {
+        "question": "10.254.255.19/255.255.255.248 的广播地址是什么?",
+        "choices": [
+            "10.254.255.23",
+            "10.254.255.24",
+            "10.254.255.255",
+            "10.255.255.255"
+        ],
+        "answer": "A",
+        "solution": "",
+        "id": "pufa-55",
+        "A": "10.254.255.23",
+        "B": "10.254.255.24",
+        "C": "10.254.255.255",
+        "D": "10.255.255.255"
+    },
+    {
+        "question": "下面那一个 TCP/UDP 端口范围将被客户端程序使用?",
+        "choices": [
+            "1–1023",
+            "1024 and above",
+            "1–256",
+            "1–65534"
+        ],
+        "answer": "B",
+        "solution": "",
+        "id": "pufa-56",
+        "A": "1–1023",
+        "B": "1024 and above",
+        "C": "1–256",
+        "D": "1–65534"
+    },
+    {
+        "question": "哪些端口是 well-known port？",
+        "choices": [
+            "1–1023",
+            "1024 and above",
+            "1–256",
+            "1–65534"
+        ],
+        "answer": "A",
+        "solution": "",
+        "id": "pufa-57",
+        "A": "1–1023",
+        "B": "1024 and above",
+        "C": "1–256",
+        "D": "1–65534"
+    },
+    {
+        "question": "地址 127.0.0.1 表示什么?",
+        "choices": [
+            "本地 broadcast",
+            "直接 multicast",
+            "本地 network",
+            "本地 loopback"
+        ],
+        "answer": "D",
+        "solution": "",
+        "id": "pufa-58",
+        "A": "本地 broadcast",
+        "B": "直接 multicast",
+        "C": "本地 network",
+        "D": "本地 loopback"
+    },
+    {
+        "question": "将 172.16.100.0/24 和 172.16.106.0/24 地址聚合应该选择那种表达方式。",
+        "choices": [
+            "172.16.0.0/24",
+            "172.16.100.0/20",
+            "172.16.106.0/20",
+            "172.16.96.0/20"
+        ],
+        "answer": "D",
+        "solution": "",
+        "id": "pufa-59",
+        "A": "172.16.0.0/24",
+        "B": "172.16.100.0/20",
+        "C": "172.16.106.0/20",
+        "D": "172.16.96.0/20"
+    },
+    {
+        "question": "IP 报文头中固定长度部分为多少字节？ 正确的选项是",
+        "choices": [
+            "10",
+            "20",
+            "30",
+            "40"
+        ],
+        "answer": "B",
+        "solution": "",
+        "id": "pufa-60",
+        "A": "10",
+        "B": "20",
+        "C": "30",
+        "D": "40"
+    },
+    {
+        "question": "TCP/IP协议中，基于TCP协议的应用程序包括",
+        "choices": [
+            "ICMP",
+            "SMTP",
+            "RIP",
+            "SNMP"
+        ],
+        "answer": "B",
+        "solution": "",
+        "id": "pufa-61",
+        "A": "ICMP",
+        "B": "SMTP",
+        "C": "RIP",
+        "D": "SNMP"
+    },
+    {
+        "question": "PING  命令使用了哪种ICMP？ 正确的选项是   。",
+        "choices": [
+            "Redirect",
+            "Source quench",
+            "Echo reply",
+            "Destination unreachable"
+        ],
+        "answer": "C",
+        "solution": "",
+        "id": "pufa-62",
+        "A": "Redirect",
+        "B": "Source quench",
+        "C": "Echo reply",
+        "D": "Destination unreachable"
+    },
+    {
+        "question": "当今世界上最流行的TCP/IP协议的层次并不是按OSI参考模型来划分的，相对应于OSI 的七层网络模型，没有定义    。",
+        "choices": [
+            "物理层与链路层",
+            "链路层与网络层",
+            "网络层与传输层",
+            "会话层与表示层"
+        ],
+        "answer": "D",
+        "solution": "",
+        "id": "pufa-63",
+        "A": "物理层与链路层",
+        "B": "链路层与网络层",
+        "C": "网络层与传输层",
+        "D": "会话层与表示层"
+    },
+    {
+        "question": "一个IP报文在路由器中经过一番处理之后，TTL字段值变为0，这时（ ）",
+        "choices": [
+            "路由器向IP报文的源地址发送一个ICMP错误信息，并继续转发该报文",
+            "路由器向IP报文的源地址发送一个ICMP错误信息，并停止转发该报文",
+            "路由器继续转发报文，不发送错误信息",
+            "路由器直接丢弃该IP报文，既不转发，也不发送错误信息",
+            "以上四种说法都不完全正确，要视具体情况而定"
+        ],
+        "answer": "",
+        "solution": "",
+        "id": "pufa-64",
+        "A": "路由器向IP报文的源地址发送一个ICMP错误信息，并继续转发该报文",
+        "B": "路由器向IP报文的源地址发送一个ICMP错误信息，并停止转发该报文",
+        "C": "路由器继续转发报文，不发送错误信息",
+        "D": "路由器直接丢弃该IP报文，既不转发，也不发送错误信息",
+        "E": "以上四种说法都不完全正确，要视具体情况而定"
+    },
+    {
+        "question": "TCP/IP协议中，基于TCP协议的应用程序包括",
+        "choices": [
+            "ICMP",
+            "SMTP",
+            "RIP",
+            "SNMP"
+        ],
+        "answer": "B",
+        "solution": "",
+        "id": "pufa-65",
+        "A": "ICMP",
+        "B": "SMTP",
+        "C": "RIP",
+        "D": "SNMP"
+    },
+    {
+        "question": "国际上负责分配IP地址的专业组织划分了几个网段作为私有网段，可以供人们在私有网络上自由分配使用，以下不属于私有地址的网段是",
+        "choices": [
+            "10.0.0.0/8",
+            "172.16.0.0/12",
+            "192.168.0.0/16",
+            "224.0.0.0/8"
+        ],
+        "answer": "D",
+        "solution": "",
+        "id": "pufa-66",
+        "A": "10.0.0.0/8",
+        "B": "172.16.0.0/12",
+        "C": "192.168.0.0/16",
+        "D": "224.0.0.0/8"
+    },
+    {
+        "question": "在一个子网掩码为255.255.240.0  的网络中，（ ）不是合法的主机地址。",
+        "choices": [
+            "150.150.37.2",
+            "150.150.16.2",
+            "150.150.8.12",
+            "150.150.47.255"
+        ],
+        "answer": "D",
+        "solution": "",
+        "id": "pufa-67",
+        "A": "150.150.37.2",
+        "B": "150.150.16.2",
+        "C": "150.150.8.12",
+        "D": "150.150.47.255"
+    },
+    {
+        "question": "172.16.10.32/255.255.255.224代表的是（ ）地址。",
+        "choices": [
+            "主机",
+            "网络",
+            "组播",
+            "广播"
+        ],
+        "answer": "B",
+        "solution": "",
+        "id": "pufa-68",
+        "A": "主机",
+        "B": "网络",
+        "C": "组播",
+        "D": "广播"
+    },
+    {
+        "question": "IPV6地址长度为（ ）Bits。",
+        "choices": [
+            "32",
+            "64",
+            "128",
+            "256"
+        ],
+        "answer": "C",
+        "solution": "",
+        "id": "pufa-69",
+        "A": "32",
+        "B": "64",
+        "C": "128",
+        "D": "256"
+    },
+    {
+        "question": "TCP协议通过（ ）来区分不同的连接。",
+        "choices": [
+            "IP地址",
+            "端口号",
+            "IP地址+端口号",
+            "MAC地址"
+        ],
+        "answer": "C",
+        "solution": "",
+        "id": "pufa-70",
+        "A": "IP地址",
+        "B": "端口号",
+        "C": "IP地址+端口号",
+        "D": "MAC地址"
+    },
+    {
+        "question": "在IP协议的报文头中2字节的IP protocol type表示了IP数据报文携带的内容，代表UDP报文的数值是（  ）。",
+        "choices": [
+            "6",
+            "17",
+            "20",
+            "89"
+        ],
+        "answer": "B",
+        "solution": "",
+        "id": "pufa-71",
+        "A": "6",
+        "B": "17",
+        "C": "20",
+        "D": "89"
+    },
+    {
+        "question": "在IP协议数据报文中，标志字段的最低位如果为1表示后面还有分片的数据报，该标志字段的最低位是（ ）。",
+        "choices": [
+            "CF",
+            "MF",
+            "DF",
+            "TTL"
+        ],
+        "answer": "B",
+        "solution": "",
+        "id": "pufa-72",
+        "A": "CF",
+        "B": "MF",
+        "C": "DF",
+        "D": "TTL"
+    },
+    {
+        "question": "TRACERT过程中，一定不会用到的协议是（ ）。",
+        "choices": [
+            "ICMP",
+            "ARP",
+            "TCP",
+            "UDP"
+        ],
+        "answer": "C",
+        "solution": "",
+        "id": "pufa-73",
+        "A": "ICMP",
+        "B": "ARP",
+        "C": "TCP",
+        "D": "UDP"
+    },
+    {
+        "question": "IP 报文中一部分字段专门用来描述报文的生命周期，即 TTL 值，它的最大值是( )。",
+        "choices": [
+            "255",
+            "256",
+            "63",
+            "6"
+        ],
+        "answer": "A",
+        "solution": "",
+        "id": "pufa-74",
+        "A": "255",
+        "B": "256",
+        "C": "63",
+        "D": "6"
+    }
+]

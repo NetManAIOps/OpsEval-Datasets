@@ -1,0 +1,50 @@
+[
+    {
+        "question": "主要服务于基于Java平台的项目构建、依赖管理和项目信息管理的工具是( )。",
+        "choices": [
+            "eclipse",
+            "ant",
+            "make",
+            "maven"
+        ],
+        "answer": "D",
+        "solution": "",
+        "id": "pufa-0",
+        "A": "eclipse",
+        "B": "ant",
+        "C": "make",
+        "D": "maven"
+    },
+    {
+        "question": "使用gcc对文件进行编译时,参数( )表示对生成的代码进行优化。",
+        "choices": [
+            "–o",
+            "–O",
+            "–c",
+            "-w"
+        ],
+        "answer": "B",
+        "solution": "",
+        "id": "pufa-1",
+        "A": "–o",
+        "B": "–O",
+        "C": "–c",
+        "D": "-w"
+    },
+    {
+        "question": "在shell 中变量的赋值有四种方法，其中，采用name=12 的方法称（） 。",
+        "choices": [
+            "直接赋值",
+            "使用read 命令",
+            "使用命令行参数",
+            "使用命令的输出"
+        ],
+        "answer": "B",
+        "solution": "",
+        "id": "pufa-2",
+        "A": "直接赋值",
+        "B": "使用read 命令",
+        "C": "使用命令行参数",
+        "D": "使用命令的输出"
+    }
+]

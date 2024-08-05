@@ -1,0 +1,52 @@
+[
+    {
+        "question": "什么原因能导致Zabbix agent (active)类型监控项无法采集到任何数据？",
+        "answer": "D",
+        "solution": "",
+        "id": "zabbix-1",
+        "choices": [
+            "主机上没有创建Zabbix Agent接口",
+            "Zabbix Agent没有监听默认端口",
+            "Zabbix Agent配置文件的Server参数中的Zabbix Server IP不正确",
+            "Zabbix Agent配置文件中定义的主机名，与主机配置中的主机名不匹配"
+        ],
+        "A": "主机上没有创建Zabbix Agent接口",
+        "B": "Zabbix Agent没有监听默认端口",
+        "C": "Zabbix Agent配置文件的Server参数中的Zabbix Server IP不正确",
+        "D": "Zabbix Agent配置文件中定义的主机名，与主机配置中的主机名不匹配"
+    },
+    {
+        "question": "Zabbix Server服务启动失败，可以从哪里查找启动失败的详细信息？",
+        "answer": "D",
+        "solution": "",
+        "id": "zabbix-2",
+        "choices": [
+            "Web Server log file",
+            "Zabbix Agent log file",
+            "Windows Event Log",
+            "Zabbix Server log file",
+            "Zabbix Server configuration file"
+        ],
+        "A": "Web Server log file",
+        "B": "Zabbix Agent log file",
+        "C": "Windows Event Log",
+        "D": "Zabbix Server log file",
+        "E": "Zabbix Server configuration file"
+    },
+    {
+        "question": "Zabbix Server服务无法启动，日志中有“out of memory”报错，如何处理？",
+        "answer": "D",
+        "solution": "",
+        "id": "zabbix-3",
+        "choices": [
+            "增加Zabbix Server所在操作系统物理内存的值",
+            "增加Zabbix Agent配置文件中的“BufferSize”参数的值",
+            "增加Zabbix Proxy配置文件中的“CacheSize”参数的值",
+            "增加Zabbix Server配置文件中的“CacheSize”参数的值"
+        ],
+        "A": "增加Zabbix Server所在操作系统物理内存的值",
+        "B": "增加Zabbix Agent配置文件中的“BufferSize”参数的值",
+        "C": "增加Zabbix Proxy配置文件中的“CacheSize”参数的值",
+        "D": "增加Zabbix Server配置文件中的“CacheSize”参数的值"
+    }
+]
