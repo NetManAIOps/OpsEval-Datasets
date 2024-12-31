@@ -1,0 +1,1682 @@
+[
+    {
+        "id": "zjyd运维能力-知识召回05",
+        "question": "When handling system failures, what should the maintenance personnel check first?",
+        "A": "User Manual",
+        "B": "System Log",
+        "C": "Network Configuration",
+        "D": "Hardware Status",
+        "answer": "B",
+        "solution": "",
+        "choices": [
+            "User Manual",
+            "System Log",
+            "Network Configuration",
+            "Hardware Status"
+        ]
+    },
+    {
+        "id": "zjyd运维能力-知识召回06",
+        "question": "Which of the following is the primary consideration in 'capacity planning' in operations work?",
+        "A": "Number of users",
+        "B": "System architecture",
+        "C": "Network security",
+        "D": "Hardware equipment",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "Number of users",
+            "System architecture",
+            "Network security",
+            "Hardware equipment"
+        ]
+    },
+    {
+        "id": "zjyd运维能力-知识召回07",
+        "question": "Which of the following is a key factor in 'high availability' in operational work?",
+        "A": "Data Backup",
+        "B": "System Speed",
+        "C": "User Interface",
+        "D": "Network Bandwidth",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "Data Backup",
+            "System Speed",
+            "User Interface",
+            "Network Bandwidth"
+        ]
+    },
+    {
+        "id": "zjyd运维能力-知识召回08",
+        "question": "In the context of operations and maintenance work, which of the following is not a common method of 'performance optimization'?",
+        "A": "Adjust system parameters",
+        "B": "Increase hardware resources",
+        "C": "Reduce the number of users",
+        "D": "Optimize code logic",
+        "answer": "C",
+        "solution": "",
+        "choices": [
+            "Adjust system parameters",
+            "Increase hardware resources",
+            "Reduce the number of users",
+            "Optimize code logic"
+        ]
+    },
+    {
+        "id": "zjyd运维能力-知识召回09",
+        "question": "In operations and maintenance work, which of the following measures is the most effective in improving system security?",
+        "A": "Increase the number of system users",
+        "B": "Regularly update security patches",
+        "C": "Ignore security warnings",
+        "D": "Randomly configure firewalls",
+        "answer": "B",
+        "solution": "",
+        "choices": [
+            "Increase the number of system users",
+            "Regularly update security patches",
+            "Ignore security warnings",
+            "Randomly configure firewalls"
+        ]
+    },
+    {
+        "id": "zjyd运维能力-知识召回10",
+        "question": "In operation and maintenance work, which of the following is the primary objective of 'capacity planning'?",
+        "A": "Improve system performance",
+        "B": "Ensure system security",
+        "C": "Meet future demands",
+        "D": "Reduce maintenance costs",
+        "answer": "C",
+        "solution": "",
+        "choices": [
+            "Improve system performance",
+            "Ensure system security",
+            "Meet future demands",
+            "Reduce maintenance costs"
+        ]
+    },
+    {
+        "id": "zjyd运维能力-知识召回11",
+        "question": "Which of the following is not a common measure in 'fault prevention' in IT operations?",
+        "A": "Regular maintenance",
+        "B": "Monitoring and log analysis",
+        "C": "Frequent server rebooting",
+        "D": "Security vulnerability scanning",
+        "answer": "C",
+        "solution": "",
+        "choices": [
+            "Regular maintenance",
+            "Monitoring and log analysis",
+            "Frequent server rebooting",
+            "Security vulnerability scanning"
+        ]
+    },
+    {
+        "id": "zjyd运维能力-实际应用02",
+        "question": "When dealing with a system security incident, which of the following measures should be taken first?",
+        "A": "Restart the server",
+        "B": "Analyze log files",
+        "C": "Notify all users",
+        "D": "Isolate the affected system",
+        "answer": "D",
+        "solution": "",
+        "choices": [
+            "Restart the server",
+            "Analyze log files",
+            "Notify all users",
+            "Isolate the affected system"
+        ]
+    },
+    {
+        "id": "zjyd运维能力-实际应用03",
+        "question": "Which of the following backup strategies is generally not recommended during database backups?",
+        "A": "Full backup",
+        "B": "Incremental backup",
+        "C": "Differential backup",
+        "D": "Only back up data from the past week",
+        "answer": "D",
+        "solution": "",
+        "choices": [
+            "Full backup",
+            "Incremental backup",
+            "Differential backup",
+            "Only back up data from the past week"
+        ]
+    },
+    {
+        "id": "zjyd运维能力-实际应用04",
+        "question": "The monitoring system detects a consistently high CPU usage rate. Which of the following measures is most likely to be incorrect?",
+        "A": "Check running processes",
+        "B": "Increase the number of CPU cores",
+        "C": "Optimize the code",
+        "D": "Check for hardware failures",
+        "answer": "B",
+        "solution": "",
+        "choices": [
+            "Check running processes",
+            "Increase the number of CPU cores",
+            "Optimize the code",
+            "Check for hardware failures"
+        ]
+    },
+    {
+        "id": "zjyd运维能力-实际应用05",
+        "question": "When troubleshooting network issues, which of the following actions is least likely to find the root cause of the problem?",
+        "A": "Check the configuration of network devices",
+        "B": "Use the ping command to test network connectivity",
+        "C": "Randomly replace network devices",
+        "D": "Analyze network traffic data",
+        "answer": "C",
+        "solution": "",
+        "choices": [
+            "Check the configuration of network devices",
+            "Use the ping command to test network connectivity",
+            "Randomly replace network devices",
+            "Analyze network traffic data"
+        ]
+    },
+    {
+        "id": "zjyd运维能力-实际应用06",
+        "question": "When dealing with server hardware failures, which of the following actions is not recommended?",
+        "A": "Immediately shut down the server",
+        "B": "Use spare hardware to replace the faulty parts",
+        "C": "Contact the hardware supplier's technical support",
+        "D": "Ignore the failure and continue running the server",
+        "answer": "D",
+        "solution": "",
+        "choices": [
+            "Immediately shut down the server",
+            "Use spare hardware to replace the faulty parts",
+            "Contact the hardware supplier's technical support",
+            "Ignore the failure and continue running the server"
+        ]
+    },
+    {
+        "id": "zjyd运维能力-实际应用07",
+        "question": "During database restoration, which of the following operations is the most critical?",
+        "A": "Selecting the correct backup file",
+        "B": "Setting database connection parameters",
+        "C": "Configuring the restoration environment",
+        "D": "Executing the restoration operation",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "Selecting the correct backup file",
+            "Setting database connection parameters",
+            "Configuring the restoration environment",
+            "Executing the restoration operation"
+        ]
+    },
+    {
+        "id": "zjyd运维能力-实际应用08",
+        "question": "In dealing with system performance bottlenecks, which of the following methods is usually not the first choice?",
+        "A": "Analyze system resource usage",
+        "B": "Increase hardware resources",
+        "C": "Reduce user access volume",
+        "D": "Optimize software configuration",
+        "answer": "C",
+        "solution": "",
+        "choices": [
+            "Analyze system resource usage",
+            "Increase hardware resources",
+            "Reduce user access volume",
+            "Optimize software configuration"
+        ]
+    },
+    {
+        "id": "zjyd运维能力-分析思维02",
+        "question": "While handling a server crash event, you discover multiple memory overflow errors in the server logs. How should you analyze and solve the problem next?",
+        "A": "Immediately restart the server",
+        "B": "Increase the server memory",
+        "C": "Inspect running applications",
+        "D": "Adjust the operating system's memory management settings",
+        "answer": "C",
+        "solution": "",
+        "choices": [
+            "Immediately restart the server",
+            "Increase the server memory",
+            "Inspect running applications",
+            "Adjust the operating system's memory management settings"
+        ]
+    },
+    {
+        "id": "zjyd运维能力-分析思维03",
+        "question": "When monitoring network traffic, you discover that the traffic for a certain period is abnormally high. How should you analyze and determine the cause?",
+        "A": "Check the logs of all servers",
+        "B": "Analyze the source and destination of the traffic data",
+        "C": "Increase network bandwidth",
+        "D": "Shut down unnecessary network services",
+        "answer": "B",
+        "solution": "",
+        "choices": [
+            "Check the logs of all servers",
+            "Analyze the source and destination of the traffic data",
+            "Increase network bandwidth",
+            "Shut down unnecessary network services"
+        ]
+    },
+    {
+        "id": "zjyd运维能力-分析思路04",
+        "question": "During troubleshooting, you find that multiple system logs have the same error message. How should you further analyze?",
+        "A": "Ignore these error messages",
+        "B": "Check the related system configurations",
+        "C": "Immediately replace all related hardware",
+        "D": "Restart all related services",
+        "answer": "B",
+        "solution": "",
+        "choices": [
+            "Ignore these error messages",
+            "Check the related system configurations",
+            "Immediately replace all related hardware",
+            "Restart all related services"
+        ]
+    },
+    {
+        "id": "zjyd运维能力-分析思考05",
+        "question": "You are responsible for maintaining a complex distributed system, and recently you have noticed a decline in performance. How should you start analyzing the performance issue?",
+        "A": "Check the hardware resource usage of all nodes",
+        "B": "Increase the hardware resources for all nodes",
+        "C": "Redeploy the entire system",
+        "D": "Review recent system changes and updates",
+        "answer": "D",
+        "solution": "",
+        "choices": [
+            "Check the hardware resource usage of all nodes",
+            "Increase the hardware resources for all nodes",
+            "Redeploy the entire system",
+            "Review recent system changes and updates"
+        ]
+    },
+    {
+        "id": "zjyd运维能力-分析思维06",
+        "question": "When dealing with a system delay issue reported by a user, how should you initially collect information?",
+        "A": "Ask the user if they are using the latest version of the system",
+        "B": "Check the system's log files",
+        "C": "Increase the server's memory",
+        "D": "Contact the network administrator",
+        "answer": "B",
+        "solution": "",
+        "choices": [
+            "Ask the user if they are using the latest version of the system",
+            "Check the system's log files",
+            "Increase the server's memory",
+            "Contact the network administrator"
+        ]
+    },
+    {
+        "id": "zjyd运维能力-分析思考07",
+        "question": "When dealing with a system security incident, you find multiple log files showing unauthorized access attempts. How should you analyze and respond to this situation?",
+        "A": "Immediately block all external access",
+        "B": "Only pay attention to the most recent unauthorized access attempt",
+        "C": "Analyze the access patterns to determine the attacker's intent",
+        "D": "Ignore these attempts as they might be false positives",
+        "answer": "C",
+        "solution": "",
+        "choices": [
+            "Immediately block all external access",
+            "Only pay attention to the most recent unauthorized access attempt",
+            "Analyze the access patterns to determine the attacker's intent",
+            "Ignore these attempts as they might be false positives"
+        ]
+    },
+    {
+        "id": "zjyd运维能力-分析思维08",
+        "question": "You are responsible for the IT infrastructure of a large enterprise, and recently you have found that the disk space usage of some servers is abnormally high. How should you analyze and solve this problem?",
+        "A": "Increase the disk space of all servers",
+        "B": "Delete some unnecessary files to free up space",
+        "C": "Analyze the disk usage of each server and identify the files or directories occupying the most space",
+        "D": "Reinstall the operating systems of all servers",
+        "answer": "C",
+        "solution": "",
+        "choices": [
+            "Increase the disk space of all servers",
+            "Delete some unnecessary files to free up space",
+            "Analyze the disk usage of each server and identify the files or directories occupying the most space",
+            "Reinstall the operating systems of all servers"
+        ]
+    },
+    {
+        "id": "zjyd运维能力-分析思考09",
+        "question": "When monitoring system performance, you notice that the CPU usage remains consistently high. How should you analyze and solve this problem?",
+        "A": "Increase the number of CPU cores",
+        "B": "Reduce system load",
+        "C": "Analyze the processes and applications with high CPU usage",
+        "D": "Adjust the task scheduling strategy of the operating system",
+        "answer": "C",
+        "solution": "",
+        "choices": [
+            "Increase the number of CPU cores",
+            "Reduce system load",
+            "Analyze the processes and applications with high CPU usage",
+            "Adjust the task scheduling strategy of the operating system"
+        ]
+    },
+    {
+        "id": "zjyd运维能力-分析思维10",
+        "question": "When dealing with a network failure, you find that network latency is abnormally high. How should you analyze and solve this problem?",
+        "A": "Replace all network equipment",
+        "B": "Increase network bandwidth",
+        "C": "Analyze network traffic and latency data, find bottlenecks or abnormal behavior",
+        "D": "Ignore the latency as it might just be temporary",
+        "answer": "C",
+        "solution": "",
+        "choices": [
+            "Replace all network equipment",
+            "Increase network bandwidth",
+            "Analyze network traffic and latency data, find bottlenecks or abnormal behavior",
+            "Ignore the latency as it might just be temporary"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-自动化脚本02",
+        "question": "Which symbol is used for comments in a Bash script?",
+        "A": "#",
+        "B": "//",
+        "C": "/* */",
+        "D": "--",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "#",
+            "//",
+            "/* */",
+            "--"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-自动化脚本03",
+        "question": "What is the main advantage of automation scripts in operations?",
+        "A": "Increase efficiency",
+        "B": "Reduce errors",
+        "C": "Replace manual labor",
+        "D": "Enhance security",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "Increase efficiency",
+            "Reduce errors",
+            "Replace manual labor",
+            "Enhance security"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-自动化脚本04",
+        "question": "In a Bash automation script, how to execute an external command and get its output?",
+        "A": "exec()",
+        "B": "system()",
+        "C": "command",
+        "D": "&command",
+        "answer": "C",
+        "solution": "",
+        "choices": [
+            "exec()",
+            "system()",
+            "command",
+            "&command"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-自动化脚本05",
+        "question": "Which module in Python is used to handle file and directory paths?",
+        "A": "os",
+        "B": "sys",
+        "C": "pathlib",
+        "D": "shutil",
+        "answer": "C",
+        "solution": "",
+        "choices": [
+            "os",
+            "sys",
+            "pathlib",
+            "shutil"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-自动化脚本06",
+        "question": "In a Bash automation script, how do you capture the execution status of a command (success or failure)?",
+        "A": "$?",
+        "B": "$#",
+        "C": "$*",
+        "D": "$@",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "$?",
+            "$#",
+            "$*",
+            "$@"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-自动化脚本07",
+        "question": "In a Bash automation script, which command is used to loop through the files in a directory?",
+        "A": "for",
+        "B": "while",
+        "C": "if",
+        "D": "case",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "for",
+            "while",
+            "if",
+            "case"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-自动化脚本08",
+        "question": "In Linux operations, which of the following Python libraries is commonly used to execute system commands?",
+        "A": "os",
+        "B": "subprocess",
+        "C": "shutil",
+        "D": "glob",
+        "answer": "B",
+        "solution": "",
+        "choices": [
+            "os",
+            "subprocess",
+            "shutil",
+            "glob"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-自动化脚本09",
+        "question": "In Python automation scripts, which of the following modules is commonly used to parse configuration files (such as INI files)?",
+        "A": "json",
+        "B": "configparser",
+        "C": "xml.etree.ElementTree",
+        "D": "pickle",
+        "answer": "B",
+        "solution": "",
+        "choices": [
+            "json",
+            "configparser",
+            "xml.etree.ElementTree",
+            "pickle"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-自动化脚本10",
+        "question": "In a Python automation script, which of the following functions can be used to get the full path of the current working directory?",
+        "A": "os.getcwd()",
+        "B": "os.path.abspath()",
+        "C": "os.path.dirname()",
+        "D": "os.listdir()",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "os.getcwd()",
+            "os.path.abspath()",
+            "os.path.dirname()",
+            "os.listdir()"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-自动化脚本11",
+        "question": "In Python, which of the following methods can be used to read the contents of a file line by line?",
+        "A": "open(file, 'r').readlines()",
+        "B": "open(file, 'r').read()",
+        "C": "open(file, 'r').write()",
+        "D": "open(file, 'r').close()",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "open(file, 'r').readlines()",
+            "open(file, 'r').read()",
+            "open(file, 'r').write()",
+            "open(file, 'r').close()"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-自动化脚本12",
+        "question": "In Python automation scripts, which of the following libraries is commonly used for sending emails?",
+        "A": "smtplib",
+        "B": "email",
+        "C": "imaplib",
+        "D": "poplib",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "smtplib",
+            "email",
+            "imaplib",
+            "poplib"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-监控告警02",
+        "question": "In a Linux system, which command is used to monitor system resource usage?",
+        "A": "top",
+        "B": "vmstat",
+        "C": "netstat",
+        "D": "lsof",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "top",
+            "vmstat",
+            "netstat",
+            "lsof"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-监控告警03",
+        "question": "In Linux, which tool is commonly used for performance monitoring and alerting?",
+        "A": "Zabbix",
+        "B": "Ansible",
+        "C": "Docker",
+        "D": "Kubernetes",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "Zabbix",
+            "Ansible",
+            "Docker",
+            "Kubernetes"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-监控告警04",
+        "question": "Which of the following is not a Linux system performance monitoring tool?",
+        "A": "sar",
+        "B": "iostat",
+        "C": "ps",
+        "D": "vmstat",
+        "answer": "C",
+        "solution": "",
+        "choices": [
+            "sar",
+            "iostat",
+            "ps",
+            "vmstat"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-监控告警05",
+        "question": "In Linux, what command is used to monitor disk space usage?",
+        "A": "df",
+        "B": "du",
+        "C": "fdisk",
+        "D": "lsblk",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "df",
+            "du",
+            "fdisk",
+            "lsblk"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-监控告警06",
+        "question": "Which of the following tools is not used for Linux system monitoring?",
+        "A": "Nagios",
+        "B": "Zabbix",
+        "C": "Puppet",
+        "D": "Prometheus",
+        "answer": "C",
+        "solution": "",
+        "choices": [
+            "Nagios",
+            "Zabbix",
+            "Puppet",
+            "Prometheus"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-监控告警07",
+        "question": "In Linux, which command is used for monitoring network interfaces?",
+        "A": "netstat",
+        "B": "ifconfig",
+        "C": "ip",
+        "D": "nmap",
+        "answer": "C",
+        "solution": "",
+        "choices": [
+            "netstat",
+            "ifconfig",
+            "ip",
+            "nmap"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-监控报警08",
+        "question": "Which of the following is not a common method for Linux system monitoring alerts?",
+        "A": "Email Notification",
+        "B": "SMS Notification",
+        "C": "Social Media Notification",
+        "D": "Web Interface Display",
+        "answer": "C",
+        "solution": "",
+        "choices": [
+            "Email Notification",
+            "SMS Notification",
+            "Social Media Notification",
+            "Web Interface Display"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-监控告警09",
+        "question": "In a Linux system, syslog is typically used for?",
+        "A": "System log recording",
+        "B": "Network performance monitoring",
+        "C": "Disk space monitoring",
+        "D": "User behavior monitoring",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "System log recording",
+            "Network performance monitoring",
+            "Disk space monitoring",
+            "User behavior monitoring"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-监控告警10",
+        "question": "Which of the following tools can be used for graphical monitoring in a Linux system?",
+        "A": "htop",
+        "B": "glances",
+        "C": "nmon",
+        "D": "top",
+        "answer": "B",
+        "solution": "",
+        "choices": [
+            "htop",
+            "glances",
+            "nmon",
+            "top"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-监控告警11",
+        "question": "In Linux, which command is used to check the system load status?",
+        "A": "uptime",
+        "B": "last",
+        "C": "who",
+        "D": "w",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "uptime",
+            "last",
+            "who",
+            "w"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-监控告警12",
+        "question": "In a Linux system, which file is typically used to record system error logs?",
+        "A": "/var/log/messages",
+        "B": "/var/log/secure",
+        "C": "/var/log/syslog",
+        "D": "/var/log/errors",
+        "answer": "C",
+        "solution": "",
+        "choices": [
+            "/var/log/messages",
+            "/var/log/secure",
+            "/var/log/syslog",
+            "/var/log/errors"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-性能优化01",
+        "question": "In a Linux system, which command can be used to check the CPU usage of the system?",
+        "A": "top",
+        "B": "df",
+        "C": "du",
+        "D": "ls",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "top",
+            "df",
+            "du",
+            "ls"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-性能优化02",
+        "question": "To improve the performance of the Linux file system, which type of file system do we usually use?",
+        "A": "EXT2",
+        "B": "EXT3",
+        "C": "EXT4",
+        "D": "XFS",
+        "answer": "D",
+        "solution": "",
+        "choices": [
+            "EXT2",
+            "EXT3",
+            "EXT4",
+            "XFS"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-性能优化03",
+        "question": "Which parameter can be adjusted in Linux to optimize network performance?",
+        "A": "net.core.rmem_default",
+        "B": "vm.swappiness",
+        "C": "fs.file-max",
+        "D": "kernel.pid_max",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "net.core.rmem_default",
+            "vm.swappiness",
+            "fs.file-max",
+            "kernel.pid_max"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-性能优化04",
+        "question": "How to check the memory usage of a Linux system?",
+        "A": "free -m",
+        "B": "df -h",
+        "C": "du -sh",
+        "D": "vmstat",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "free -m",
+            "df -h",
+            "du -sh",
+            "vmstat"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-性能优化05",
+        "question": "In a Linux system, which tool can be used to analyze disk I/O performance?",
+        "A": "iostat",
+        "B": "netstat",
+        "C": "vmstat",
+        "D": "top",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "iostat",
+            "netstat",
+            "vmstat",
+            "top"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-性能优化06",
+        "question": "Which of the following methods can effectively optimize the performance of a database?",
+        "A": "Increase the number of CPU cores",
+        "B": "Use a faster hard drive",
+        "C": "Increase the memory size",
+        "D": "Reduce the number of database connections",
+        "answer": "C",
+        "solution": "",
+        "choices": [
+            "Increase the number of CPU cores",
+            "Use a faster hard drive",
+            "Increase the memory size",
+            "Reduce the number of database connections"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-性能优化07",
+        "question": "Which of the following parameters can be used to adjust the file descriptor limit of a Linux system?",
+        "A": "ulimit -n",
+        "B": "ulimit -u",
+        "C": "ulimit -t",
+        "D": "ulimit -s",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "ulimit -n",
+            "ulimit -u",
+            "ulimit -t",
+            "ulimit -s"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-性能优化08",
+        "question": "In a Linux system, how can you optimize the I/O performance of the file system?",
+        "A": "Increase the number of CPU cores",
+        "B": "Use SSD hard drives",
+        "C": "Disable SELinux",
+        "D": "Frequent disk defragmentation",
+        "answer": "B",
+        "solution": "",
+        "choices": [
+            "Increase the number of CPU cores",
+            "Use SSD hard drives",
+            "Disable SELinux",
+            "Frequent disk defragmentation"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-性能优化09",
+        "question": "Which of the following tools can be used to analyze the overall performance bottleneck of the system?",
+        "A": "top",
+        "B": "htop",
+        "C": "perf",
+        "D": "iostat",
+        "answer": "C",
+        "solution": "",
+        "choices": [
+            "top",
+            "htop",
+            "perf",
+            "iostat"
+        ]
+    },
+    {
+        "id": "zjyd运输场景-性能优化10",
+        "question": "In a Linux system, adjusting the mount options for the file system can optimize I/O performance. Which of the following mount options is commonly used to improve disk read/write performance?",
+        "A": "noatime",
+        "B": "relatime",
+        "C": "async",
+        "D": "sync",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "noatime",
+            "relatime",
+            "async",
+            "sync"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-性能优化11",
+        "question": "In Linux, when the system memory is insufficient, which of the following strategies can improve system performance?",
+        "A": "Increase swap space",
+        "B": "Disable unnecessary services",
+        "C": "Perform disk defragmentation frequently",
+        "D": "Increase the inode size of the file system",
+        "answer": "B",
+        "solution": "",
+        "choices": [
+            "Increase swap space",
+            "Disable unnecessary services",
+            "Perform disk defragmentation frequently",
+            "Increase the inode size of the file system"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-性能优先12",
+        "question": "In a Linux system, which tool can be used to monitor system resource usage, including CPU, memory, disk, and network?",
+        "A": "sar",
+        "B": "iostat",
+        "C": "vmstat",
+        "D": "sysstat",
+        "answer": "D",
+        "solution": "",
+        "choices": [
+            "sar",
+            "iostat",
+            "vmstat",
+            "sysstat"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-软件部署01",
+        "question": "In Linux, which command is used to install software packages (based on the RPM package management system)?",
+        "A": "apt-get install",
+        "B": "yum install",
+        "C": "dnf install",
+        "D": "pacman -S",
+        "answer": "B",
+        "solution": "",
+        "choices": [
+            "apt-get install",
+            "yum install",
+            "dnf install",
+            "pacman -S"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-软件部署02",
+        "question": "When deploying a web application, which directory is typically used to store the configuration files for the website?",
+        "A": "/var/www",
+        "B": "/etc/httpd",
+        "C": "/var/log/httpd",
+        "D": "/usr/share/nginx",
+        "answer": "B",
+        "solution": "",
+        "choices": [
+            "/var/www",
+            "/etc/httpd",
+            "/var/log/httpd",
+            "/usr/share/nginx"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-软件部分03",
+        "question": "How to check all installed packages in the Linux system (based on the APT package management system)?",
+        "A": "apt-get list",
+        "B": "dpkg -l",
+        "C": "apt list",
+        "D": "apt-cache search",
+        "answer": "C",
+        "solution": "",
+        "choices": [
+            "apt-get list",
+            "dpkg -l",
+            "apt list",
+            "apt-cache search"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-软件部分04",
+        "question": "How to compress files into .tar.gz format in Linux?",
+        "A": "tar -czvf filename.tar.gz",
+        "B": "gzip filename",
+        "C": "zip filename.zip",
+        "D": "rar filename.rar",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "tar -czvf filename.tar.gz",
+            "gzip filename",
+            "zip filename.zip",
+            "rar filename.rar"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-软件部205",
+        "question": "How to move the foreground process to the background?",
+        "A": "&",
+        "B": "ctrl+z",
+        "C": "bg",
+        "D": "fg",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "&",
+            "ctrl+z",
+            "bg",
+            "fg"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-软件部署06",
+        "question": "Which command is used to install a local source RPM package in Linux?",
+        "A": "yum localinstall",
+        "B": "rpm -e",
+        "C": "rpm -qa",
+        "D": "yum remove",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "yum localinstall",
+            "rpm -e",
+            "rpm -qa",
+            "yum remove"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-软件部分07",
+        "question": "How to use the yum command to update all software packages?",
+        "A": "yum update",
+        "B": "yum upgrade",
+        "C": "yum dist-upgrade",
+        "D": "yum refresh",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "yum update",
+            "yum upgrade",
+            "yum dist-upgrade",
+            "yum refresh"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-软件部分208",
+        "question": "How to install a software package using the apt command?",
+        "A": "apt-get install package-name",
+        "B": "apt install package-name",
+        "C": "apt-get package-name",
+        "D": "apt package-name",
+        "answer": "B",
+        "solution": "",
+        "choices": [
+            "apt-get install package-name",
+            "apt install package-name",
+            "apt-get package-name",
+            "apt package-name"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-软件部分09",
+        "question": "In Linux, how to set boot startup items?",
+        "A": "chkconfig",
+        "B": "systemctl enable",
+        "C": "update-rc.d",
+        "D": "ntsysv",
+        "answer": "B",
+        "solution": "",
+        "choices": [
+            "chkconfig",
+            "systemctl enable",
+            "update-rc.d",
+            "ntsysv"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-软件部署10",
+        "question": "How to check the PID of a specific process in a Linux system?",
+        "A": "ps -ef | grep process-name",
+        "B": "top -p process-name",
+        "C": "pidof process-name",
+        "D": "kill process-name",
+        "answer": "C",
+        "solution": "",
+        "choices": [
+            "ps -ef | grep process-name",
+            "top -p process-name",
+            "pidof process-name",
+            "kill process-name"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-软件部件11",
+        "question": "How to check all the running services in a Linux system?",
+        "A": "systemctl status",
+        "B": "service --status-all",
+        "C": "chkconfig --list",
+        "D": "ps aux | grep service",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "systemctl status",
+            "service --status-all",
+            "chkconfig --list",
+            "ps aux | grep service"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-软件部署12",
+        "question": "How to copy files from local to remote server?",
+        "A": "scp local-file remote-user@remote-host:remote-directory",
+        "B": "rsync local-file remote-user@remote-host:remote-directory",
+        "C": "ftp remote-host put local-file remote-directory",
+        "D": "cp local-file remote-user@remote-host:remote-directory",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "scp local-file remote-user@remote-host:remote-directory",
+            "rsync local-file remote-user@remote-host:remote-directory",
+            "ftp remote-host put local-file remote-directory",
+            "cp local-file remote-user@remote-host:remote-directory"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-故障分析与诊断01",
+        "question": "In a Linux system, when you suspect that a service is not starting correctly, which directory should you check first to confirm the service status?",
+        "A": "/etc/init.d",
+        "B": "/var/log/",
+        "C": "/usr/sbin/",
+        "D": "/proc/",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "/etc/init.d",
+            "/var/log/",
+            "/usr/sbin/",
+            "/proc/"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-故障分析与诊断02",
+        "question": "If you want to check the network configuration information of the Linux system, which file should you check?",
+        "A": "/etc/resolv.conf",
+        "B": "/etc/network/interfaces",
+        "C": "/etc/fstab",
+        "D": "/etc/hosts",
+        "answer": "B",
+        "solution": "",
+        "choices": [
+            "/etc/resolv.conf",
+            "/etc/network/interfaces",
+            "/etc/fstab",
+            "/etc/hosts"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-故障分析与诊断03",
+        "question": "In Linux, if you want to find and kill a certain process, which command should you use?",
+        "A": "kill",
+        "B": "ps",
+        "C": "grep",
+        "D": "find",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "kill",
+            "ps",
+            "grep",
+            "find"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-故障分析与诊断04",
+        "question": "In Linux, what is the commonly used command to view system logs?",
+        "A": "dmesg",
+        "B": "tail",
+        "C": "cat",
+        "D": "less",
+        "answer": "D",
+        "solution": "",
+        "choices": [
+            "dmesg",
+            "tail",
+            "cat",
+            "less"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-故障分析与诊断05",
+        "question": "When a Linux system fails to start, which log file should you check to obtain error information?",
+        "A": "/var/log/messages",
+        "B": "/var/log/syslog",
+        "C": "/var/log/boot.log",
+        "D": "/var/log/dmesg",
+        "answer": "D",
+        "solution": "",
+        "choices": [
+            "/var/log/messages",
+            "/var/log/syslog",
+            "/var/log/boot.log",
+            "/var/log/dmesg"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-故障分析与诊断06",
+        "question": "In Linux, which command can help you find lines in a file that contain a specific string?",
+        "A": "grep",
+        "B": "find",
+        "C": "locate",
+        "D": "cat",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "grep",
+            "find",
+            "locate",
+            "cat"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-故障分析与诊断07",
+        "question": "When you suspect that there is a problem with a service configuration in the Linux system, which directory should you check first?",
+        "A": "/etc/",
+        "B": "/var/log/",
+        "C": "/usr/local/",
+        "D": "/home/",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "/etc/",
+            "/var/log/",
+            "/usr/local/",
+            "/home/"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-故障分析与诊断08",
+        "question": "When performance issues occur on a Linux system, which resource usage would you consider checking first?",
+        "A": "CPU",
+        "B": "Memory",
+        "C": "Disk I/O",
+        "D": "Network bandwidth",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "CPU",
+            "Memory",
+            "Disk I/O",
+            "Network bandwidth"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-故障分析与诊断09",
+        "question": "In a Linux system, which option of the netstat command can display all active network connections?",
+        "A": "#NAME?",
+        "B": "#NAME?",
+        "C": "#NAME?",
+        "D": "#NAME?",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "#NAME?",
+            "#NAME?",
+            "#NAME?",
+            "#NAME?"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-故障分析与诊断10",
+        "question": "When you suspect that a certain hardware device in the Linux system has a problem, which directory should you check first?",
+        "A": "/dev/",
+        "B": "/proc/",
+        "C": "/sys/",
+        "D": "/var/log/",
+        "answer": "B",
+        "solution": "",
+        "choices": [
+            "/dev/",
+            "/proc/",
+            "/sys/",
+            "/var/log/"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-故障分析与诊断11",
+        "question": "In Linux, what is the lsof command used to view?",
+        "A": "Currently logged-in users",
+        "B": "Processes running in the system",
+        "C": "Open files and processes",
+        "D": "Disk usage status",
+        "answer": "C",
+        "solution": "",
+        "choices": [
+            "Currently logged-in users",
+            "Processes running in the system",
+            "Open files and processes",
+            "Disk usage status"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-故障分析与诊断12",
+        "question": "In Linux, which service's logs are typically viewed using the journalctl command?",
+        "A": "Systemd",
+        "B": "Syslog",
+        "C": "Cron",
+        "D": "Init",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "Systemd",
+            "Syslog",
+            "Cron",
+            "Init"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-网络配置01",
+        "question": "In a Linux system, which command is used to view network interface configuration information?",
+        "A": "netstat",
+        "B": "ifconfig",
+        "C": "ipconfig",
+        "D": "route",
+        "answer": "B",
+        "solution": "",
+        "choices": [
+            "netstat",
+            "ifconfig",
+            "ipconfig",
+            "route"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-网络配置02",
+        "question": "In Linux, to temporarily change the IP address of a network interface, which command should be used?",
+        "A": "ip addr",
+        "B": "ifconfig",
+        "C": "netconfig",
+        "D": "route add",
+        "answer": "B",
+        "solution": "",
+        "choices": [
+            "ip addr",
+            "ifconfig",
+            "netconfig",
+            "route add"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-网络配置03",
+        "question": "Which file is commonly used to configure a static IP address in Linux?",
+        "A": "/etc/network/interfaces",
+        "B": "/etc/resolv.conf",
+        "C": "/etc/hosts",
+        "D": "/etc/sysconfig/network",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "/etc/network/interfaces",
+            "/etc/resolv.conf",
+            "/etc/hosts",
+            "/etc/sysconfig/network"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-网络配置04",
+        "question": "In the Linux system, which command is not to view the routing table?",
+        "A": "route -n",
+        "B": "netstat -rn",
+        "C": "ifconfig -a",
+        "D": "ip route show",
+        "answer": "C",
+        "solution": "",
+        "choices": [
+            "route -n",
+            "netstat -rn",
+            "ifconfig -a",
+            "ip route show"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-网络配置05",
+        "question": "In Linux, which file should be modified to configure the DNS server?",
+        "A": "/etc/resolv.conf",
+        "B": "/etc/hosts",
+        "C": "/etc/network/interfaces",
+        "D": "/etc/networkd",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "/etc/resolv.conf",
+            "/etc/hosts",
+            "/etc/network/interfaces",
+            "/etc/networkd"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-网络配置06",
+        "question": "In a Linux system, which command should be used to enable or disable a network interface?",
+        "A": "ifconfig <interface> up or ifconfig <interface> down",
+        "B": "netconfig <interface> on or netconfig <interface> off",
+        "C": "ipconfig <interface> enable or ipconfig <interface> disable",
+        "D": "networkctl <interface> start or networkctl <interface> off",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "ifconfig <interface> up or ifconfig <interface> down",
+            "netconfig <interface> on or netconfig <interface> off",
+            "ipconfig <interface> enable or ipconfig <interface> disable",
+            "networkctl <interface> start or networkctl <interface> off"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-网络配置07",
+        "question": "In Linux, which command is used to display statistical information about network interfaces?",
+        "A": "netstat -i",
+        "B": "ifconfig -s",
+        "C": "ip -s link",
+        "D": "netconfig -s",
+        "answer": "C",
+        "solution": "",
+        "choices": [
+            "netstat -i",
+            "ifconfig -s",
+            "ip -s link",
+            "netconfig -s"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-网络配置09",
+        "question": "In Linux, which command is used to check the currently listening network ports?",
+        "A": "netstat -tuln",
+        "B": "ifconfig -a",
+        "C": "route -n",
+        "D": "ip addr",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "netstat -tuln",
+            "ifconfig -a",
+            "route -n",
+            "ip addr"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-通用领域知识01",
+        "question": "In a Linux system, which command is used to view the full path of the current working directory?",
+        "A": "pwd",
+        "B": "cd",
+        "C": "ls",
+        "D": "echo",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "pwd",
+            "cd",
+            "ls",
+            "echo"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-通用领域知识02",
+        "question": "Which command can be used to find files in a Linux system?",
+        "A": "find",
+        "B": "grep",
+        "C": "locate",
+        "D": "all of the above",
+        "answer": "D",
+        "solution": "",
+        "choices": [
+            "find",
+            "grep",
+            "locate",
+            "all of the above"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-通用领域知识03",
+        "question": "Which command is used to create an empty file in Linux?",
+        "A": "touch",
+        "B": "new",
+        "C": "create",
+        "D": "mkfile",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "touch",
+            "new",
+            "create",
+            "mkfile"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-通用领域知识04",
+        "question": "Which command can be used to compress files in Linux?",
+        "A": "gzip",
+        "B": "tar",
+        "C": "unzip",
+        "D": "compress",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "gzip",
+            "tar",
+            "unzip",
+            "compress"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-通用领域知識05",
+        "question": "In Linux, which command is used to list all files and directories in the current directory?",
+        "A": "list",
+        "B": "ll",
+        "C": "ls",
+        "D": "dir",
+        "answer": "C",
+        "solution": "",
+        "choices": [
+            "list",
+            "ll",
+            "ls",
+            "dir"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-通用领域知识06",
+        "question": "In Linux, which command is used to create a new directory?",
+        "A": "mkdir",
+        "B": "rmdir",
+        "C": "cd",
+        "D": "pwd",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "mkdir",
+            "rmdir",
+            "cd",
+            "pwd"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-通用领域知识07",
+        "question": "In Linux, which command is used to delete files or directories?",
+        "A": "rm",
+        "B": "del",
+        "C": "erase",
+        "D": "remove",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "rm",
+            "del",
+            "erase",
+            "remove"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-通用领域知识08",
+        "question": "In Linux, which command is used to move or rename files or directories?",
+        "A": "mv",
+        "B": "cp",
+        "C": "rename",
+        "D": "shift",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "mv",
+            "cp",
+            "rename",
+            "shift"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-通用领域知识09",
+        "question": "Which command is used to copy files or directories in Linux?",
+        "A": "cp",
+        "B": "mv",
+        "C": "dup",
+        "D": "clone",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "cp",
+            "mv",
+            "dup",
+            "clone"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-通用领域知10",
+        "question": "In Linux, which command is used to check the system memory usage?",
+        "A": "free",
+        "B": "df",
+        "C": "du",
+        "D": "vmstat",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "free",
+            "df",
+            "du",
+            "vmstat"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-通用领域知识11",
+        "question": "In Linux, which command is used to view the currently logged-in users?",
+        "A": "who",
+        "B": "w",
+        "C": "users",
+        "D": "all of the above",
+        "answer": "D",
+        "solution": "",
+        "choices": [
+            "who",
+            "w",
+            "users",
+            "all of the above"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-通用领域知识12",
+        "question": "How to check the usage of hard disk in Linux?",
+        "A": "df",
+        "B": "du",
+        "C": "fdisk",
+        "D": "free",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "df",
+            "du",
+            "fdisk",
+            "free"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-混合型任务01",
+        "question": "In a Linux system, if you want to execute multiple commands simultaneously, which symbol should you use to separate them?",
+        "A": ";",
+        "B": "&",
+        "C": "|",
+        "D": "&&",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            ";",
+            "&",
+            "|",
+            "&&"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-混合型任务02",
+        "question": "Which command cannot redirect both standard output and standard error to the same file?",
+        "A": "command > file 2>&1",
+        "B": "command >> file 2>&1",
+        "C": "command &> file",
+        "D": "command | tee file",
+        "answer": "D",
+        "solution": "",
+        "choices": [
+            "command > file 2>&1",
+            "command >> file 2>&1",
+            "command &> file",
+            "command | tee file"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-混合型任务03",
+        "question": "In Linux, to search for files and simultaneously list the matching files and line numbers, which command should you use?",
+        "A": "grep -n",
+        "B": "find -n",
+        "C": "locate -n",
+        "D": "cat -n",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "grep -n",
+            "find -n",
+            "locate -n",
+            "cat -n"
+        ]
+    },
+    {
+        "id": "zjyd运维场景-混合型任务04",
+        "question": "In a Linux system, which symbol should you use to make the output of one command the input of another command?",
+        "A": "|",
+        "B": "&",
+        "C": ";",
+        "D": ">>",
+        "answer": "A",
+        "solution": "",
+        "choices": [
+            "|",
+            "&",
+            ";",
+            ">>"
+        ]
+    }
+]

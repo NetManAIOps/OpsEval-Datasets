@@ -1,0 +1,4507 @@
+[
+    {
+        "id": "5G基础-2",
+        "question": "Which operator did the Ministry of Industry and Information Technology assign the 2.6GHz frequency band to in 5G?",
+        "choices": [
+            "China Mobile",
+            "China Unicom",
+            "China Telecom",
+            "China Tietong"
+        ],
+        "qtype": 0,
+        "answer": "A",
+        "solution": "",
+        "A": "China Mobile",
+        "B": "China Unicom",
+        "C": "China Telecom",
+        "D": "China Tietong"
+    },
+    {
+        "id": "5G基础-4",
+        "question": "In R15 version, which of the following is a 5G control plane protocol?",
+        "choices": [
+            "GTPU",
+            "NGAP",
+            "SDAP",
+            "APP"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "GTPU",
+        "B": "NGAP",
+        "C": "SDAP",
+        "D": "APP"
+    },
+    {
+        "id": "5G基础-5",
+        "question": "When the magnetic field intensity direction of a radio wave is perpendicular to the ground, this wave is called:",
+        "choices": [
+            "horizontal polarization wave",
+            "vertical polarization wave",
+            "elliptical polarization wave",
+            "circular polarization wave."
+        ],
+        "qtype": 0,
+        "answer": "A",
+        "solution": "",
+        "A": "horizontal polarization wave",
+        "B": "vertical polarization wave",
+        "C": "elliptical polarization wave",
+        "D": "circular polarization wave."
+    },
+    {
+        "id": "5G基础-6",
+        "question": "When radio waves encounter a large number of particles whose size is much smaller than the wavelength, a phenomenon occurs.",
+        "choices": [
+            "Diffraction",
+            "Scattering",
+            "Reflection",
+            "Direct transmission"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "Diffraction",
+        "B": "Scattering",
+        "C": "Reflection",
+        "D": "Direct transmission"
+    },
+    {
+        "id": "5G基础-7",
+        "question": "When the intermodulation distortion index of the indoor distribution components near the signal source does not meet the standard, what type of interference may occur?",
+        "choices": [
+            "Blocking interference",
+            "Spurious interference",
+            "Intermodulation interference",
+            "Arcing interference"
+        ],
+        "qtype": 0,
+        "answer": "C",
+        "solution": "",
+        "A": "Blocking interference",
+        "B": "Spurious interference",
+        "C": "Intermodulation interference",
+        "D": "Arcing interference"
+    },
+    {
+        "id": "5G基础-8",
+        "question": "The 5th generation mobile communication system is a standardized system.",
+        "choices": [
+            "Circuit",
+            "Digital",
+            "Analog",
+            "Logic"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "Circuit",
+        "B": "Digital",
+        "C": "Analog",
+        "D": "Logic"
+    },
+    {
+        "id": "5G基础-10",
+        "question": "According to the propagation loss model of free space, when the distance doubles, the propagation loss increases by:",
+        "choices": [
+            "6 dB",
+            "5 dB",
+            "4 dB",
+            "3 dB"
+        ],
+        "qtype": 0,
+        "answer": "A",
+        "solution": "",
+        "A": "6 dB",
+        "B": "5 dB",
+        "C": "4 dB",
+        "D": "3 dB"
+    },
+    {
+        "id": "5G基础-11",
+        "question": "The Ministry of Industry and Information Technology has granted licenses to China Telecom, China Mobile, and China Unicom to conduct trials of the fifth-generation mobile communication system nationwide. Among them, which frequency band did China Telecom obtain?",
+        "choices": [
+            "3500MHz-3600MHz",
+            "3400MHz-3500MHz",
+            "4800MHz-4900MHz",
+            "2515MHz-2675MHz"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "3500MHz-3600MHz",
+        "B": "3400MHz-3500MHz",
+        "C": "4800MHz-4900MHz",
+        "D": "2515MHz-2675MHz"
+    },
+    {
+        "id": "5G基础-12",
+        "question": "Which of the following statements about multipath fading is incorrect?",
+        "choices": [
+            "Multipath fading is also known as Rayleigh fading.",
+            "The measures taken by base stations for multipath fading include time diversity, frequency diversity, and space diversity (polarization diversity).",
+            "The median variation of multipath fading follows a log-normal distribution.",
+            "The location of the maximum and minimum values of multipath fading differ by approximately 1/4 wavelength."
+        ],
+        "qtype": 0,
+        "answer": "C",
+        "solution": "",
+        "A": "Multipath fading is also known as Rayleigh fading.",
+        "B": "The measures taken by base stations for multipath fading include time diversity, frequency diversity, and space diversity (polarization diversity).",
+        "C": "The median variation of multipath fading follows a log-normal distribution.",
+        "D": "The location of the maximum and minimum values of multipath fading differ by approximately 1/4 wavelength."
+    },
+    {
+        "id": "5G基础-13",
+        "question": "The intertwined effect can reduce the impact of the channel.",
+        "choices": [
+            "Fast fading",
+            "Slow fading",
+            "Shadow fading",
+            "Rayleigh fading"
+        ],
+        "qtype": 0,
+        "answer": "A",
+        "solution": "",
+        "A": "Fast fading",
+        "B": "Slow fading",
+        "C": "Shadow fading",
+        "D": "Rayleigh fading"
+    },
+    {
+        "id": "5G基础-14",
+        "question": "What is the characteristic of fast fading?",
+        "choices": [
+            "Wired communication",
+            "Slow speed",
+            "Rayleigh distribution",
+            "Shallow depth"
+        ],
+        "qtype": 0,
+        "answer": "C",
+        "solution": "",
+        "A": "Wired communication",
+        "B": "Slow speed",
+        "C": "Rayleigh distribution",
+        "D": "Shallow depth"
+    },
+    {
+        "id": "5G基础-15",
+        "question": "Fast fading can be categorized into selective fast fading, frequency selective fast fading, and time selective fast fading.",
+        "choices": [
+            "Merge",
+            "Frequency",
+            "Loss",
+            "Location"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "Merge",
+        "B": "Frequency",
+        "C": "Loss",
+        "D": "Location"
+    },
+    {
+        "id": "5G基础-16",
+        "question": "The main determinant of the rate of slow decay is:",
+        "choices": [
+            "Amplitude",
+            "Propagation environment",
+            "Frequency",
+            "Phase."
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "Amplitude",
+        "B": "Propagation environment",
+        "C": "Frequency",
+        "D": "Phase."
+    },
+    {
+        "id": "5G基础-17",
+        "question": "Slow decay generally follows a distribution.",
+        "choices": [
+            "Rician",
+            "Rayleigh",
+            "Lognormal",
+            "Straight line."
+        ],
+        "qtype": 0,
+        "answer": "C",
+        "solution": "",
+        "A": "Rician",
+        "B": "Rayleigh",
+        "C": "Lognormal",
+        "D": "Straight line."
+    },
+    {
+        "id": "5G基础-18",
+        "question": "Which of the following belongs to SA networking?",
+        "choices": [
+            "option7",
+            "option5",
+            "option3",
+            "option2"
+        ],
+        "qtype": 0,
+        "answer": "D",
+        "solution": "",
+        "A": "option7",
+        "B": "option5",
+        "C": "option3",
+        "D": "option2"
+    },
+    {
+        "id": "5G基础-19",
+        "question": "Which of the following is not a key performance indicator of 5G?",
+        "choices": [
+            "2ms end-to-end latency",
+            "1 million connections per square kilometer",
+            "1ms end-to-end latency",
+            "Connection speed of 10gbps"
+        ],
+        "qtype": 0,
+        "answer": "A",
+        "solution": "",
+        "A": "2ms end-to-end latency",
+        "B": "1 million connections per square kilometer",
+        "C": "1ms end-to-end latency",
+        "D": "Connection speed of 10gbps"
+    },
+    {
+        "id": "5G基础-20",
+        "question": "Which of the following deployment options does not provide services exclusively for 5G terminals?",
+        "choices": [
+            "option3a",
+            "option4",
+            "option4a",
+            "option2"
+        ],
+        "qtype": 0,
+        "answer": "A",
+        "solution": "",
+        "A": "option3a",
+        "B": "option4",
+        "C": "option4a",
+        "D": "option2"
+    },
+    {
+        "id": "5G基础-21",
+        "question": "Which of the following descriptions about radio wave propagation is incorrect?",
+        "choices": [
+            "The longer the wavelength of electromagnetic waves, the faster they propagate.",
+            "The higher the frequency of electromagnetic waves, the greater the propagation loss.",
+            "Electromagnetic waves propagate at different speeds in different media.",
+            "The longer the wavelength of electromagnetic waves, the stronger their diffraction ability."
+        ],
+        "qtype": 0,
+        "answer": "A",
+        "solution": "",
+        "A": "The longer the wavelength of electromagnetic waves, the faster they propagate.",
+        "B": "The higher the frequency of electromagnetic waves, the greater the propagation loss.",
+        "C": "Electromagnetic waves propagate at different speeds in different media.",
+        "D": "The longer the wavelength of electromagnetic waves, the stronger their diffraction ability."
+    },
+    {
+        "id": "5G基础-22",
+        "question": "In the R15 version, () is the core frequency band for 5G, used for seamless coverage.",
+        "choices": [
+            "FR0",
+            "FR1",
+            "FR2",
+            "FR3"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "FR0",
+        "B": "FR1",
+        "C": "FR2",
+        "D": "FR3"
+    },
+    {
+        "id": "5G基础-23",
+        "question": "In R15 version, FR2 is the auxiliary frequency band for 5G, used for rate enhancement in hotspot areas. FR2 is suitable for ( )",
+        "choices": [
+            "None of the above",
+            "TDD and FDD",
+            "FDD",
+            "TDD"
+        ],
+        "qtype": 0,
+        "answer": "D",
+        "solution": "",
+        "A": "None of the above",
+        "B": "TDD and FDD",
+        "C": "FDD",
+        "D": "TDD"
+    },
+    {
+        "id": "5G基础-24",
+        "question": "Which of the following descriptions about radio wave propagation is incorrect?",
+        "choices": [
+            "The higher the frequency of electromagnetic waves, the greater the propagation loss.",
+            "The longer the wavelength of electromagnetic waves, the stronger the diffraction ability.",
+            "The longer the wavelength of electromagnetic waves, the faster the propagation speed.",
+            "The propagation speed of electromagnetic waves is different in different media."
+        ],
+        "qtype": 0,
+        "answer": "C",
+        "solution": "",
+        "A": "The higher the frequency of electromagnetic waves, the greater the propagation loss.",
+        "B": "The longer the wavelength of electromagnetic waves, the stronger the diffraction ability.",
+        "C": "The longer the wavelength of electromagnetic waves, the faster the propagation speed.",
+        "D": "The propagation speed of electromagnetic waves is different in different media."
+    },
+    {
+        "id": "5G基础-71",
+        "question": "What coding scheme is used for the 5G data channel?",
+        "choices": [
+            "Turbo",
+            "Convolutional code",
+            "Polar",
+            "LDPC"
+        ],
+        "qtype": 0,
+        "answer": "D",
+        "solution": "",
+        "A": "Turbo",
+        "B": "Convolutional code",
+        "C": "Polar",
+        "D": "LDPC"
+    },
+    {
+        "id": "5G基础-72",
+        "question": "In the NR system, which of the following is not a 5G duplex technology?",
+        "choices": [
+            "Time division duplex",
+            "Frequency division duplex",
+            "Code division duplex",
+            "Full duplex"
+        ],
+        "qtype": 0,
+        "answer": "C",
+        "solution": "",
+        "A": "Time division duplex",
+        "B": "Frequency division duplex",
+        "C": "Code division duplex",
+        "D": "Full duplex"
+    },
+    {
+        "id": "5G基础-73",
+        "question": "In the NR system, the interface between gNBs is ( ) .",
+        "choices": [
+            "X2",
+            "S1",
+            "Xn",
+            "NG"
+        ],
+        "qtype": 0,
+        "answer": "C",
+        "solution": "",
+        "A": "X2",
+        "B": "S1",
+        "C": "Xn",
+        "D": "NG"
+    },
+    {
+        "id": "5G基础-74",
+        "question": "What is the frequency range of millimeter waves?",
+        "choices": [
+            "3～30GHz",
+            "30～300GHz",
+            "300～3000MHz",
+            "30～300MHz"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "3～30GHz",
+        "B": "30～300GHz",
+        "C": "300～3000MHz",
+        "D": "30～300MHz"
+    },
+    {
+        "id": "5G基础-75",
+        "question": "In EN-DC, the reference signal used for NR neighbor cell measurement by MCG is ( )\"",
+        "choices": [
+            "SSB RS",
+            "CSI-RS",
+            "C-RS",
+            "DM-RS"
+        ],
+        "qtype": 0,
+        "answer": "A",
+        "solution": "",
+        "A": "SSB RS",
+        "B": "CSI-RS",
+        "C": "C-RS",
+        "D": "DM-RS"
+    },
+    {
+        "id": "5G基础-76",
+        "question": "Which of the following options represents the minimum time unit for NR frame structure?",
+        "choices": [
+            "Wireless frame",
+            "Subframe",
+            "Timeslot",
+            "Symbol"
+        ],
+        "qtype": 0,
+        "answer": "D",
+        "solution": "",
+        "A": "Wireless frame",
+        "B": "Subframe",
+        "C": "Timeslot",
+        "D": "Symbol"
+    },
+    {
+        "id": "5G基础-77",
+        "question": "In the NR system, version R15, the maximum modulation for PDSCH is ( )",
+        "choices": [
+            "64QAM",
+            "128QAM",
+            "256QAM",
+            "512QAM"
+        ],
+        "qtype": 0,
+        "answer": "C",
+        "solution": "",
+        "A": "64QAM",
+        "B": "128QAM",
+        "C": "256QAM",
+        "D": "512QAM"
+    },
+    {
+        "id": "5G基础-78",
+        "question": "How many DCI formats are there for the PDCCH channel in the NR system?",
+        "choices": [
+            "4",
+            "8",
+            "16",
+            "24"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "4",
+        "B": "8",
+        "C": "16",
+        "D": "24"
+    },
+    {
+        "id": "5G基础-79",
+        "question": "In the NR system, TAC is included in which message?",
+        "choices": [
+            "MIB",
+            "SIB1",
+            "SIB2",
+            "SIB3"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "MIB",
+        "B": "SIB1",
+        "C": "SIB2",
+        "D": "SIB3"
+    },
+    {
+        "id": "5G基础-80",
+        "question": "What is the modulation method used for 5G synchronous signals?",
+        "choices": [
+            "BPSK",
+            "QPSK",
+            "8PSK",
+            "16QAM"
+        ],
+        "qtype": 0,
+        "answer": "A",
+        "solution": "",
+        "A": "BPSK",
+        "B": "QPSK",
+        "C": "8PSK",
+        "D": "16QAM"
+    },
+    {
+        "id": "5G基础-81",
+        "question": "What is the main function of SMF in the 5G core network, in addition to PDU Session Control?",
+        "choices": [
+            "Mobility Anchoring",
+            "PDU Handling",
+            "UE IP address allocation",
+            "NAS Security"
+        ],
+        "qtype": 0,
+        "answer": "C",
+        "solution": "",
+        "A": "Mobility Anchoring",
+        "B": "PDU Handling",
+        "C": "UE IP address allocation",
+        "D": "NAS Security"
+    },
+    {
+        "id": "5G基础-82",
+        "question": "Which signaling message in EN-DC can carry SCG Add or PSCell Change related SCG configuration?",
+        "choices": [
+            "NR-side RRCConnectionSetup",
+            "NR-side RRCReconfiguration",
+            "LTE-side RRCConnectionReconfiguration",
+            "LTE-side RRCConnectionSetup"
+        ],
+        "qtype": 0,
+        "answer": "C",
+        "solution": "",
+        "A": "NR-side RRCConnectionSetup",
+        "B": "NR-side RRCReconfiguration",
+        "C": "LTE-side RRCConnectionReconfiguration",
+        "D": "LTE-side RRCConnectionSetup"
+    },
+    {
+        "id": "5G基础-83",
+        "question": "In 5G NR, if a 30kHz subcarrier spacing is used, the width of one RB is ( ) kHz.",
+        "choices": [
+            "180",
+            "360",
+            "720",
+            "1440"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "180",
+        "B": "360",
+        "C": "720",
+        "D": "1440"
+    },
+    {
+        "id": "5G基础-84",
+        "question": "In the NR system, when performing FTP download services, the default port number for connecting to FTP is usually ( )",
+        "choices": [
+            "12",
+            "21",
+            "20",
+            "30"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "12",
+        "B": "21",
+        "C": "20",
+        "D": "30"
+    },
+    {
+        "id": "5G基础-85",
+        "question": "In the NR system, which indicators do not need to be observed during single-site optimization?",
+        "choices": [
+            "RSRP",
+            "SINR",
+            "BLER",
+            "BWPID"
+        ],
+        "qtype": 0,
+        "answer": "D",
+        "solution": "",
+        "A": "RSRP",
+        "B": "SINR",
+        "C": "BLER",
+        "D": "BWPID"
+    },
+    {
+        "id": "5G基础-86",
+        "question": "China Mobile's single station acceptance specification for wireless environment requirements:",
+        "choices": [
+            "-80dBm ≦ SS-RSRP < -70dBm and 20dB ≦ SS-SINR < 25dB",
+            "-85dBm ≦ SS-RSRP < -75dBm and 15dB ≦ SS-SINR < 20dB",
+            "-80dBm ≦ SS-RSRP < -70dBm and 15dB ≦ SS-SINR < 20dB",
+            "-90dBm ≦ SS-RSRP < -70dBm and 15dB ≦ SS-SINR < 20dB"
+        ],
+        "qtype": 0,
+        "answer": "C",
+        "solution": "",
+        "A": "-80dBm ≦ SS-RSRP < -70dBm and 20dB ≦ SS-SINR < 25dB",
+        "B": "-85dBm ≦ SS-RSRP < -75dBm and 15dB ≦ SS-SINR < 20dB",
+        "C": "-80dBm ≦ SS-RSRP < -70dBm and 15dB ≦ SS-SINR < 20dB",
+        "D": "-90dBm ≦ SS-RSRP < -70dBm and 15dB ≦ SS-SINR < 20dB"
+    },
+    {
+        "id": "5G基础-87",
+        "question": "Which of the following statements about UE RRC_INACTIVE state in 5G system is incorrect?",
+        "choices": [
+            "UE stores UE inactive AS context",
+            "UE still retains physical layer resources",
+            "NG-RAN knows which RNA the UE belongs to",
+            "UE can still perform PLMN selection at this time"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "UE stores UE inactive AS context",
+        "B": "UE still retains physical layer resources",
+        "C": "NG-RAN knows which RNA the UE belongs to",
+        "D": "UE can still perform PLMN selection at this time"
+    },
+    {
+        "id": "5G基础-88",
+        "question": "The principle of NR coverage optimization, the incorrect description is:",
+        "choices": [
+            "Optimize SS-RSRP first, then optimize SS-SINR;",
+            "For weak coverage issues, power optimization should be done first, and then consider antenna adjustment;",
+            "Prioritize optimizing weak coverage, cross-border coverage, and then overlapping coverage;",
+            "The two key tasks of coverage optimization are to eliminate weak coverage (ensure SS-RSRP coverage) and purify the handover band, eliminate cross coverage."
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "Optimize SS-RSRP first, then optimize SS-SINR;",
+        "B": "For weak coverage issues, power optimization should be done first, and then consider antenna adjustment;",
+        "C": "Prioritize optimizing weak coverage, cross-border coverage, and then overlapping coverage;",
+        "D": "The two key tasks of coverage optimization are to eliminate weak coverage (ensure SS-RSRP coverage) and purify the handover band, eliminate cross coverage."
+    },
+    {
+        "id": "5G基础-89",
+        "question": "In the NR system, the scenes that are not prone to weak coverage do not include:",
+        "choices": [
+            "Basement;",
+            "Urban village;",
+            "Parking lot;",
+            "Intersection."
+        ],
+        "qtype": 0,
+        "answer": "D",
+        "solution": "",
+        "A": "Basement;",
+        "B": "Urban village;",
+        "C": "Parking lot;",
+        "D": "Intersection."
+    },
+    {
+        "id": "5G基础-90",
+        "question": "In EN-DC, which event does the UE need to report to trigger the addition of an NR secondary cell?",
+        "choices": [
+            "A2",
+            "A1",
+            "B2",
+            "B1"
+        ],
+        "qtype": 0,
+        "answer": "D",
+        "solution": "",
+        "A": "A2",
+        "B": "A1",
+        "C": "B2",
+        "D": "B1"
+    },
+    {
+        "id": "5G基础-116",
+        "question": "Which of the following is not an advantage of 5G large-scale antenna technology?",
+        "choices": [
+            "Significant increase in system capacity and energy efficiency",
+            "More complex transmitter and receiver design",
+            "Orthogonal channels between users, interference and noise will be eliminated",
+            "Statistical characteristics of channels tend to be stable"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "Significant increase in system capacity and energy efficiency",
+        "B": "More complex transmitter and receiver design",
+        "C": "Orthogonal channels between users, interference and noise will be eliminated",
+        "D": "Statistical characteristics of channels tend to be stable"
+    },
+    {
+        "id": "5G基础-117",
+        "question": "In the NR system, how many OFDM symbols are included in one SS/PBCH block?",
+        "choices": [
+            "4",
+            "1",
+            "3",
+            "2"
+        ],
+        "qtype": 0,
+        "answer": "A",
+        "solution": "",
+        "A": "4",
+        "B": "1",
+        "C": "3",
+        "D": "2"
+    },
+    {
+        "id": "5G基础-118",
+        "question": "In the NR system architecture, the interface type between gNBs is ( ).",
+        "choices": [
+            "S1",
+            "X2",
+            "NG",
+            "Xn"
+        ],
+        "qtype": 0,
+        "answer": "D",
+        "solution": "",
+        "A": "S1",
+        "B": "X2",
+        "C": "NG",
+        "D": "Xn"
+    },
+    {
+        "id": "5G基础-119",
+        "question": "In the NR system, the interface between gNB-CU-CP and gNB-CU-UP is ( )",
+        "choices": [
+            "F1-C",
+            "F1-U",
+            "E1-C",
+            "S1-U"
+        ],
+        "qtype": 0,
+        "answer": "C",
+        "solution": "",
+        "A": "F1-C",
+        "B": "F1-U",
+        "C": "E1-C",
+        "D": "S1-U"
+    },
+    {
+        "id": "5G基础-120",
+        "question": "What are the frequency bands supported by NR (FR1)?",
+        "choices": [
+            "N41",
+            "N257",
+            "N258",
+            "N260"
+        ],
+        "qtype": 0,
+        "answer": "A",
+        "solution": "",
+        "A": "N41",
+        "B": "N257",
+        "C": "N258",
+        "D": "N260"
+    },
+    {
+        "id": "5G基础-121",
+        "question": "Among the key performance indicators of 5G networks, the requirement for high-speed mobility is to reach ( ) kilometers per hour.",
+        "choices": [
+            "100KM",
+            "1000KM",
+            "800KM",
+            "500KM"
+        ],
+        "qtype": 0,
+        "answer": "D",
+        "solution": "",
+        "A": "100KM",
+        "B": "1000KM",
+        "C": "800KM",
+        "D": "500KM"
+    },
+    {
+        "id": "5G基础-122",
+        "question": "In the NR system, for normal CP configuration, how many symbols are there in one time slot?",
+        "choices": [
+            "7",
+            "10",
+            "12",
+            "14"
+        ],
+        "qtype": 0,
+        "answer": "D",
+        "solution": "",
+        "A": "7",
+        "B": "10",
+        "C": "12",
+        "D": "14"
+    },
+    {
+        "id": "5G基础-123",
+        "question": "Which of the following descriptions of 5G key capabilities is incorrect?",
+        "choices": [
+            "Peak rate of 20Gbps",
+            "Mobility of 500KM/H",
+            "Traffic density of 1Tbps/Km^2",
+            "Connection density of 1 million"
+        ],
+        "qtype": 0,
+        "answer": "C",
+        "solution": "",
+        "A": "Peak rate of 20Gbps",
+        "B": "Mobility of 500KM/H",
+        "C": "Traffic density of 1Tbps/Km^2",
+        "D": "Connection density of 1 million"
+    },
+    {
+        "id": "5G基础-124",
+        "question": "In the NR system, which of the following is not included in the SSB components?",
+        "choices": [
+            "PSS",
+            "SSS",
+            "PBCH",
+            "CSI-RS"
+        ],
+        "qtype": 0,
+        "answer": "D",
+        "solution": "",
+        "A": "PSS",
+        "B": "SSS",
+        "C": "PBCH",
+        "D": "CSI-RS"
+    },
+    {
+        "id": "5G基础-125",
+        "question": "What is the first message sent by the base station to the core network during Xn link handover between base stations?",
+        "choices": [
+            "HandoverRequest",
+            "HandoverRequired",
+            "HandoverRequestAcknowledge",
+            "SNStatusTransfer"
+        ],
+        "qtype": 0,
+        "answer": "A",
+        "solution": "",
+        "A": "HandoverRequest",
+        "B": "HandoverRequired",
+        "C": "HandoverRequestAcknowledge",
+        "D": "SNStatusTransfer"
+    },
+    {
+        "id": "5G基础-126",
+        "question": "Compared to 4G, 5G NR adds a new RRC state, which is (   ).",
+        "choices": [
+            "RRC-connected",
+            "RRC-idle",
+            "RRC-inactive",
+            "RRC-hibernated"
+        ],
+        "qtype": 0,
+        "answer": "C",
+        "solution": "",
+        "A": "RRC-connected",
+        "B": "RRC-idle",
+        "C": "RRC-inactive",
+        "D": "RRC-hibernated"
+    },
+    {
+        "id": "5G基础-127",
+        "question": "Which tools are not needed for in-car testing?",
+        "choices": [
+            "Testing laptop",
+            "Testing terminal",
+            "GPS",
+            "Compass"
+        ],
+        "qtype": 0,
+        "answer": "D",
+        "solution": "",
+        "A": "Testing laptop",
+        "B": "Testing terminal",
+        "C": "GPS",
+        "D": "Compass"
+    },
+    {
+        "id": "5G基础-128",
+        "question": "Which type of SRB carries RRC messages mapped to the CCCH channel in NR?",
+        "choices": [
+            "SRB0",
+            "SRB1",
+            "SRB2",
+            "SRB3"
+        ],
+        "qtype": 0,
+        "answer": "A",
+        "solution": "",
+        "A": "SRB0",
+        "B": "SRB1",
+        "C": "SRB2",
+        "D": "SRB3"
+    },
+    {
+        "id": "5G基础-129",
+        "question": "The main steps of SA networking and ATP accessing UE in the entire access process are: ① establishment of context and PDU session, ② reception of MIB and SIB, ③ random access, ④ registration, security encryption authentication, in chronological order of ( ).",
+        "choices": [
+            "①②③④",
+            "②①④③",
+            "②③④①",
+            "②④③①"
+        ],
+        "qtype": 0,
+        "answer": "C",
+        "solution": "",
+        "A": "①②③④",
+        "B": "②①④③",
+        "C": "②③④①",
+        "D": "②④③①"
+    },
+    {
+        "id": "5G基础-131",
+        "question": "According to China Mobile's testing standards, the average delay of a 2000-byte Ping packet for a single user should be () ms.",
+        "choices": [
+            "15",
+            "16",
+            "17",
+            "18"
+        ],
+        "qtype": 0,
+        "answer": "C",
+        "solution": "",
+        "A": "15",
+        "B": "16",
+        "C": "17",
+        "D": "18"
+    },
+    {
+        "id": "5G基础-132",
+        "question": "SS Block, including Primary Synchronization Signal (PSS), Secondary Synchronization Signal (SSS), and Physical Broadcast Channel (PBCH) with PBCH Demodulation Reference Signal (DMRS), occupies which time-frequency resources?",
+        "choices": [
+            "4 consecutive symbols;",
+            "20 Resource Blocks (RBs);",
+            "240 subcarriers;",
+            "8 consecutive symbols."
+        ],
+        "qtype": 0,
+        "answer": "A",
+        "solution": "",
+        "A": "4 consecutive symbols;",
+        "B": "20 Resource Blocks (RBs);",
+        "C": "240 subcarriers;",
+        "D": "8 consecutive symbols."
+    },
+    {
+        "id": "5G基础-133",
+        "question": "Which AAU model should be given priority for coverage in rural townships?",
+        "choices": [
+            "TDAU5264N41;",
+            "TDAU5216N41;",
+            "TDAU5164N79;",
+            "TDRU5102N41."
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "TDAU5264N41;",
+        "B": "TDAU5216N41;",
+        "C": "TDAU5164N79;",
+        "D": "TDRU5102N41."
+    },
+    {
+        "id": "5G基础-135",
+        "question": "What is the maximum number of transmissions for the SSB block in the frequency band above 6GHz?",
+        "choices": [
+            "8",
+            "16",
+            "32",
+            "64"
+        ],
+        "qtype": 0,
+        "answer": "D",
+        "solution": "",
+        "A": "8",
+        "B": "16",
+        "C": "32",
+        "D": "64"
+    },
+    {
+        "id": "5G基础-151",
+        "question": "In the NR system, the SDN architecture does not include ( ) .",
+        "choices": [
+            "Link layer",
+            "Infrastructure layer",
+            "Control layer",
+            "Application layer"
+        ],
+        "qtype": 0,
+        "answer": "A",
+        "solution": "",
+        "A": "Link layer",
+        "B": "Infrastructure layer",
+        "C": "Control layer",
+        "D": "Application layer"
+    },
+    {
+        "id": "5G基础-152",
+        "question": "Which technology is used to increase the number of access users in 5G technology?",
+        "choices": [
+            "Massive MIMO",
+            "SOMA",
+            "Massive CA",
+            "CDMA"
+        ],
+        "qtype": 0,
+        "answer": "A",
+        "solution": "",
+        "A": "Massive MIMO",
+        "B": "SOMA",
+        "C": "Massive CA",
+        "D": "CDMA"
+    },
+    {
+        "id": "5G基础-153",
+        "question": "Which type of SSB must be on the SS raster in the NR system?",
+        "choices": [
+            "SSB used for NR Pcell access",
+            "SSB used for NR Scell access",
+            "SSB used for PScell access",
+            "SSB used for measurement"
+        ],
+        "qtype": 0,
+        "answer": "A",
+        "solution": "",
+        "A": "SSB used for NR Pcell access",
+        "B": "SSB used for NR Scell access",
+        "C": "SSB used for PScell access",
+        "D": "SSB used for measurement"
+    },
+    {
+        "id": "5G基础-154",
+        "question": "In the NR system, there is still a cyclic prefix, which serves to (   ).",
+        "choices": [
+            "Eliminate ISI and ICI interference caused by multipath propagation",
+            "Reduce internal interference",
+            "Eliminate shadow fading",
+            "Eliminate external interference"
+        ],
+        "qtype": 0,
+        "answer": "A",
+        "solution": "",
+        "A": "Eliminate ISI and ICI interference caused by multipath propagation",
+        "B": "Reduce internal interference",
+        "C": "Eliminate shadow fading",
+        "D": "Eliminate external interference"
+    },
+    {
+        "id": "5G基础-155",
+        "question": "Which of the following statements about 5G QoS is incorrect?",
+        "choices": [
+            "A single PDU session is carried in a user plane tunnel and can only transmit data packets for one QoS flow.",
+            "The granularity of 5G QoS management is refined to QoS flow.",
+            "4G uses QCI parameters, while 5G uses 5G QoS Indicator (5QI) parameters.",
+            "Multiple QoS flows can be mapped to established RBs or new RBs as needed based on QoS requirements."
+        ],
+        "qtype": 0,
+        "answer": "A",
+        "solution": "",
+        "A": "A single PDU session is carried in a user plane tunnel and can only transmit data packets for one QoS flow.",
+        "B": "The granularity of 5G QoS management is refined to QoS flow.",
+        "C": "4G uses QCI parameters, while 5G uses 5G QoS Indicator (5QI) parameters.",
+        "D": "Multiple QoS flows can be mapped to established RBs or new RBs as needed based on QoS requirements."
+    },
+    {
+        "id": "5G基础-159",
+        "question": "What is the smallest physical resource unit in 5G?",
+        "choices": [
+            "RE",
+            "RB",
+            "DRB",
+            "SRB"
+        ],
+        "qtype": 0,
+        "answer": "A",
+        "solution": "",
+        "A": "RE",
+        "B": "RB",
+        "C": "DRB",
+        "D": "SRB"
+    },
+    {
+        "id": "5G基础-160",
+        "question": "Which of the following is not a 5G downlink physical channel?",
+        "choices": [
+            "PDSCH",
+            "PBCH",
+            "PDCCH",
+            "PCFICH"
+        ],
+        "qtype": 0,
+        "answer": "D",
+        "solution": "",
+        "A": "PDSCH",
+        "B": "PBCH",
+        "C": "PDCCH",
+        "D": "PCFICH"
+    },
+    {
+        "id": "5G基础-161",
+        "question": "Where is the downlink data splitting implemented in the NSA network Option3X architecture?",
+        "choices": [
+            "Physical layer",
+            "MAC layer",
+            "RLC layer",
+            "PDCP layer"
+        ],
+        "qtype": 0,
+        "answer": "D",
+        "solution": "",
+        "A": "Physical layer",
+        "B": "MAC layer",
+        "C": "RLC layer",
+        "D": "PDCP layer"
+    },
+    {
+        "id": "5G基础-162",
+        "question": "In the 5G standard, the BBU function is restructured into two functional entities, namely ( ) and ( ).",
+        "choices": [
+            "DU, RRU",
+            "CU, AAU",
+            "DU, AAU",
+            "CU, DU"
+        ],
+        "qtype": 0,
+        "answer": "D",
+        "solution": "",
+        "A": "DU, RRU",
+        "B": "CU, AAU",
+        "C": "DU, AAU",
+        "D": "CU, DU"
+    },
+    {
+        "id": "5G基础-163",
+        "question": "What is the purpose of dividing the SUL frequency band in the NSA networking system?",
+        "choices": [
+            "Increase uplink data transmission rate",
+            "Increase downlink data transmission rate",
+            "Use in conjunction with 3.5GHz to supplement uplink coverage",
+            "Use in conjunction with 3.5GHz to supplement downlink coverage"
+        ],
+        "qtype": 0,
+        "answer": "C",
+        "solution": "",
+        "A": "Increase uplink data transmission rate",
+        "B": "Increase downlink data transmission rate",
+        "C": "Use in conjunction with 3.5GHz to supplement uplink coverage",
+        "D": "Use in conjunction with 3.5GHz to supplement downlink coverage"
+    },
+    {
+        "id": "5G基础-164",
+        "question": "Which of the following is the accurate frequency band assigned to China Mobile in the 4.9G frequency band?",
+        "choices": [
+            "4800~4900",
+            "4900~4960",
+            "4700~4800",
+            "4900~5000"
+        ],
+        "qtype": 0,
+        "answer": "A",
+        "solution": "",
+        "A": "4800~4900",
+        "B": "4900~4960",
+        "C": "4700~4800",
+        "D": "4900~5000"
+    },
+    {
+        "id": "5G基础-165",
+        "question": "When the bandwidth configured for TRS exceeds the bandwidth of its associated BWP, the UE should ( )",
+        "choices": [
+            "Receive TRS within the bandwidth range of its associated BWP",
+            "Receive TRS within the bandwidth range configured for TRS",
+            "Receive TRS within the minimum bandwidth range supported by the UE",
+            "Receive TRS within the bandwidth range of the cell carrier"
+        ],
+        "qtype": 0,
+        "answer": "A",
+        "solution": "",
+        "A": "Receive TRS within the bandwidth range of its associated BWP",
+        "B": "Receive TRS within the bandwidth range configured for TRS",
+        "C": "Receive TRS within the minimum bandwidth range supported by the UE",
+        "D": "Receive TRS within the bandwidth range of the cell carrier"
+    },
+    {
+        "id": "5G基础-166",
+        "question": "Which of the following is not a network element of 5G core network?",
+        "choices": [
+            "AMF",
+            "SMF",
+            "UPF",
+            "AAU"
+        ],
+        "qtype": 0,
+        "answer": "D",
+        "solution": "",
+        "A": "AMF",
+        "B": "SMF",
+        "C": "UPF",
+        "D": "AAU"
+    },
+    {
+        "id": "5G基础-167",
+        "question": "In the 5G technology white paper, the network logical architecture does not include ( )",
+        "choices": [
+            "Access plane",
+            "Convergence plane",
+            "Control plane",
+            "Forwarding plane"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "Access plane",
+        "B": "Convergence plane",
+        "C": "Control plane",
+        "D": "Forwarding plane"
+    },
+    {
+        "id": "5G基础-168",
+        "question": "What is the first message sent from the base station to the core network based on NG link handover between base stations?",
+        "choices": [
+            "HandoverRequest",
+            "HandoverRequired",
+            "HandoverRequestAcknowledge",
+            "SNStatusTransfer"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "HandoverRequest",
+        "B": "HandoverRequired",
+        "C": "HandoverRequestAcknowledge",
+        "D": "SNStatusTransfer"
+    },
+    {
+        "id": "5G基础-170",
+        "question": "In the NSA network, the event that triggers a secondary station change under the DC architecture is (   )",
+        "choices": [
+            "A1",
+            "A3",
+            "A2",
+            "B1"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "A1",
+        "B": "A3",
+        "C": "A2",
+        "D": "B1"
+    },
+    {
+        "id": "5G基础-171",
+        "question": "In NR drive test, the typical SINR midpoint is (   )",
+        "choices": [
+            "0~5dB",
+            "5~10dB",
+            "15~20dB",
+            "20~25dB"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "0~5dB",
+        "B": "5~10dB",
+        "C": "15~20dB",
+        "D": "20~25dB"
+    },
+    {
+        "id": "5G基础-172",
+        "question": "In the NR system, what software is more intuitive for testers to view signaling processes on the base station side?",
+        "choices": [
+            "ATP",
+            "OMT",
+            "LMT",
+            "OMC"
+        ],
+        "qtype": 0,
+        "answer": "A",
+        "solution": "",
+        "A": "ATP",
+        "B": "OMT",
+        "C": "LMT",
+        "D": "OMC"
+    },
+    {
+        "id": "5G基础-173",
+        "question": "Which signaling messages can carry SCG Failure information in EN-DC?",
+        "choices": [
+            "SCGFailureInformationNR on the LTE side",
+            "SCGFailureInformation on the NR side",
+            "SCGFailureInformation on the LTE side",
+            "SCGFailureInformationNR on the NR side"
+        ],
+        "qtype": 0,
+        "answer": "A",
+        "solution": "",
+        "A": "SCGFailureInformationNR on the LTE side",
+        "B": "SCGFailureInformation on the NR side",
+        "C": "SCGFailureInformation on the LTE side",
+        "D": "SCGFailureInformationNR on the NR side"
+    },
+    {
+        "id": "5G基础-174",
+        "question": "To reduce the uncertainty of network interference caused by chaotic azimuth angles, it is advisable to ensure that the angle between each sector antenna is 120 degrees, with a minimum requirement of not less than () degrees.",
+        "choices": [
+            "70",
+            "80",
+            "90",
+            "100"
+        ],
+        "qtype": 0,
+        "answer": "C",
+        "solution": "",
+        "A": "70",
+        "B": "80",
+        "C": "90",
+        "D": "100"
+    },
+    {
+        "id": "5G基础-175",
+        "question": "Which layer's statistics in the NSA network can more accurately reflect the user's downlink speed obtained in 5G NR?",
+        "choices": [
+            "RRC layer",
+            "RLC layer",
+            "Application layer",
+            "PDCP layer"
+        ],
+        "qtype": 0,
+        "answer": "D",
+        "solution": "",
+        "A": "RRC layer",
+        "B": "RLC layer",
+        "C": "Application layer",
+        "D": "PDCP layer"
+    },
+    {
+        "id": "5G基础-176",
+        "question": "What message does the UE initiate after receiving a downlink direct transfer message following the completion of registration signaling during UE access process?",
+        "choices": [
+            "Uplink direct transfer message",
+            "Authentication request",
+            "PDU request",
+            "No message sent"
+        ],
+        "qtype": 0,
+        "answer": "C",
+        "solution": "",
+        "A": "Uplink direct transfer message",
+        "B": "Authentication request",
+        "C": "PDU request",
+        "D": "No message sent"
+    },
+    {
+        "id": "5G基础-177",
+        "question": "According to China Mobile's testing standards, the single-site verification requires a good point rate of more than () Mbps.",
+        "choices": [
+            "800",
+            "700",
+            "600",
+            "500"
+        ],
+        "qtype": 0,
+        "answer": "A",
+        "solution": "",
+        "A": "800",
+        "B": "700",
+        "C": "600",
+        "D": "500"
+    },
+    {
+        "id": "5G基础-178",
+        "question": "When deploying a decoupled network for uplink and downlink, what message is used to indicate to the UE which uplink link to access when the network side selects NR uplink or SUL as the uplink link?",
+        "choices": [
+            "RRC reconfiguration",
+            "RAR response",
+            "RRC connection establishment",
+            "SIP message"
+        ],
+        "qtype": 0,
+        "answer": "A",
+        "solution": "",
+        "A": "RRC reconfiguration",
+        "B": "RAR response",
+        "C": "RRC connection establishment",
+        "D": "SIP message"
+    },
+    {
+        "id": "5G基础-198",
+        "question": "Which of the following is a new technology introduced by 5G network?",
+        "choices": [
+            "IMS",
+            "Slicing",
+            "CU separation",
+            "Virtualization"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "IMS",
+        "B": "Slicing",
+        "C": "CU separation",
+        "D": "Virtualization"
+    },
+    {
+        "id": "5G基础-199",
+        "question": "Which field is not a component of 5G GUTI?",
+        "choices": [
+            "AMF Set ID",
+            "AMF Region ID",
+            "5G-TMSI",
+            "M-TMSI"
+        ],
+        "qtype": 0,
+        "answer": "D",
+        "solution": "",
+        "A": "AMF Set ID",
+        "B": "AMF Region ID",
+        "C": "5G-TMSI",
+        "D": "M-TMSI"
+    },
+    {
+        "id": "5G基础-200",
+        "question": "5G SUPI can be:",
+        "choices": [
+            "MSISDN",
+            "IMSI",
+            "PEI",
+            "IMEI"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "MSISDN",
+        "B": "IMSI",
+        "C": "PEI",
+        "D": "IMEI"
+    },
+    {
+        "id": "5G基础-201",
+        "question": "5G system architecture introduces ____ as an entity located at the edge of the PLMN network.",
+        "choices": [
+            "SEPP",
+            "SCP",
+            "BSF",
+            "FW"
+        ],
+        "qtype": 0,
+        "answer": "A",
+        "solution": "",
+        "A": "SEPP",
+        "B": "SCP",
+        "C": "BSF",
+        "D": "FW"
+    },
+    {
+        "id": "5G基础-202",
+        "question": "The standardized slicing SST defined by 3GPP currently does not include:",
+        "choices": [
+            "eMBB",
+            "URLLC",
+            "MIoT",
+            "V2X"
+        ],
+        "qtype": 0,
+        "answer": "D",
+        "solution": "",
+        "A": "eMBB",
+        "B": "URLLC",
+        "C": "MIoT",
+        "D": "V2X"
+    },
+    {
+        "id": "5G基础-203",
+        "question": "If the UE session establishment process does not carry S-NSSAI, then:",
+        "choices": [
+            "AMF randomly selects an S-NSSAI to establish the session",
+            "AMF randomly selects the default S-NSSAI that the user has signed up for to establish the session (if the AMF supports that slice)",
+            "AMF selects the default S-NSSAI of the local network to establish the session",
+            "The process fails"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "AMF randomly selects an S-NSSAI to establish the session",
+        "B": "AMF randomly selects the default S-NSSAI that the user has signed up for to establish the session (if the AMF supports that slice)",
+        "C": "AMF selects the default S-NSSAI of the local network to establish the session",
+        "D": "The process fails"
+    },
+    {
+        "id": "5G基础-204",
+        "question": "Which of the following descriptions about SCUI is correct?",
+        "choices": [
+            "Users who switch networks cannot use SCUI cards",
+            "SUCI is a technology of the 4G era",
+            "SCUI cards use Routing Indicator to address UDM",
+            "SUCI is the same as IMSI"
+        ],
+        "qtype": 0,
+        "answer": "C",
+        "solution": "",
+        "A": "Users who switch networks cannot use SCUI cards",
+        "B": "SUCI is a technology of the 4G era",
+        "C": "SCUI cards use Routing Indicator to address UDM",
+        "D": "SUCI is the same as IMSI"
+    },
+    {
+        "id": "5G基础-205",
+        "question": "What protocol does SMSF use to interface with SMSC?",
+        "choices": [
+            "MAP",
+            "SIP",
+            "HTTP2.0",
+            "SOAP"
+        ],
+        "qtype": 0,
+        "answer": "A",
+        "solution": "",
+        "A": "MAP",
+        "B": "SIP",
+        "C": "HTTP2.0",
+        "D": "SOAP"
+    },
+    {
+        "id": "5G基础-206",
+        "question": "3GPP R16 has defined a new network element to enhance network slicing security. The network element is:",
+        "choices": [
+            "SEPP",
+            "NSSAAF",
+            "AAA-S",
+            "SEAF"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "SEPP",
+        "B": "NSSAAF",
+        "C": "AAA-S",
+        "D": "SEAF"
+    },
+    {
+        "id": "5G基础-207",
+        "question": "What network element is introduced in 3GPP R16 to implement the eSBA architecture?",
+        "choices": [
+            "SCP",
+            "SEPP",
+            "NSSAAF",
+            "SEAF"
+        ],
+        "qtype": 0,
+        "answer": "A",
+        "solution": "",
+        "A": "SCP",
+        "B": "SEPP",
+        "C": "NSSAAF",
+        "D": "SEAF"
+    },
+    {
+        "id": "5G基础-208",
+        "question": "Which one belongs to session-level policy control?",
+        "choices": [
+            "UE access selection policy control",
+            "PDU session selection policy",
+            "Billing policy control",
+            "Mobility management policy control"
+        ],
+        "qtype": 0,
+        "answer": "C",
+        "solution": "",
+        "A": "UE access selection policy control",
+        "B": "PDU session selection policy",
+        "C": "Billing policy control",
+        "D": "Mobility management policy control"
+    },
+    {
+        "id": "5G基础-209",
+        "question": "What is the basic time unit of 5G NR frame structure?",
+        "choices": [
+            "subframe",
+            "slot",
+            "Tc",
+            "symbol"
+        ],
+        "qtype": 0,
+        "answer": "C",
+        "solution": "",
+        "A": "subframe",
+        "B": "slot",
+        "C": "Tc",
+        "D": "symbol"
+    },
+    {
+        "id": "5G基础-210",
+        "question": "What is the frame length of 5G wireless in ms?",
+        "choices": [
+            "5",
+            "10",
+            "20",
+            "40"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "5",
+        "B": "10",
+        "C": "20",
+        "D": "40"
+    },
+    {
+        "id": "5G基础-211",
+        "question": "What is the maximum bandwidth that can be supported by the sub-6GHz frequency band in 5G?",
+        "choices": [
+            "200MHz",
+            "100MHz",
+            "80MHz",
+            "60MHz"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "200MHz",
+        "B": "100MHz",
+        "C": "80MHz",
+        "D": "60MHz"
+    },
+    {
+        "id": "5G基础-212",
+        "question": "How many devices does 5G support per square kilometer at least?",
+        "choices": [
+            "1000",
+            "10,000",
+            "100,000",
+            "1,000,000"
+        ],
+        "qtype": 0,
+        "answer": "D",
+        "solution": "",
+        "A": "1000",
+        "B": "10,000",
+        "C": "100,000",
+        "D": "1,000,000"
+    },
+    {
+        "id": "5G基础-213",
+        "question": "Where is the downlink data splitting implemented in the NSA network Option3X architecture?",
+        "choices": [
+            "Physical layer",
+            "MAC layer",
+            "RLC layer",
+            "PDCP layer"
+        ],
+        "qtype": 0,
+        "answer": "D",
+        "solution": "",
+        "A": "Physical layer",
+        "B": "MAC layer",
+        "C": "RLC layer",
+        "D": "PDCP layer"
+    },
+    {
+        "id": "5G基础-214",
+        "question": "What is the first official 5G version of 3GPP?",
+        "choices": [
+            "Release 13",
+            "Release 14",
+            "Release 15",
+            "Release 16"
+        ],
+        "qtype": 0,
+        "answer": "C",
+        "solution": "",
+        "A": "Release 13",
+        "B": "Release 14",
+        "C": "Release 15",
+        "D": "Release 16"
+    },
+    {
+        "id": "5G基础-215",
+        "question": "In 5G, the mobility requirement is to reach speeds of up to _______ km/h on high-speed trains.",
+        "choices": [
+            "400",
+            "500",
+            "600",
+            "700"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "400",
+        "B": "500",
+        "C": "600",
+        "D": "700"
+    },
+    {
+        "id": "5G基础-216",
+        "question": "What is the advantage of Option 7 over Option 3?",
+        "choices": [
+            "Small changes, less investment, faster network construction",
+            "Supports new services introduced by 5G 5GC",
+            "Supports voice services falling back to 2G and 3G",
+            "No requirement for NR coverage for voice services"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "Small changes, less investment, faster network construction",
+        "B": "Supports new services introduced by 5G 5GC",
+        "C": "Supports voice services falling back to 2G and 3G",
+        "D": "No requirement for NR coverage for voice services"
+    },
+    {
+        "id": "5G基础-217",
+        "question": "The composition of low-frequency channel propagation loss does not include:",
+        "choices": [
+            "Free space propagation loss",
+            "Penetration loss",
+            "Rain attenuation and atmospheric effects",
+            "Diffraction and scattering loss."
+        ],
+        "qtype": 0,
+        "answer": "C",
+        "solution": "",
+        "A": "Free space propagation loss",
+        "B": "Penetration loss",
+        "C": "Rain attenuation and atmospheric effects",
+        "D": "Diffraction and scattering loss."
+    },
+    {
+        "id": "5G基础-218",
+        "question": "What is the unconfigurable bandwidth of su6G in the 5G network?",
+        "choices": [
+            "5M",
+            "15M",
+            "25M",
+            "80M"
+        ],
+        "qtype": 0,
+        "answer": "C",
+        "solution": "",
+        "A": "5M",
+        "B": "15M",
+        "C": "25M",
+        "D": "80M"
+    },
+    {
+        "id": "5G基础-258",
+        "question": "What is the earliest 3GPP version that supports 5G NSA?",
+        "choices": [
+            "R14",
+            "R15",
+            "R16",
+            "R17"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "R14",
+        "B": "R15",
+        "C": "R16",
+        "D": "R17"
+    },
+    {
+        "id": "5G基础-259",
+        "question": "Which two common technologies exist in 2G/3G/4G/5G networks?",
+        "choices": [
+            "Mobility management, user data management",
+            "Charging unit, policy management",
+            "User data management, network slice selection",
+            "Authentication function, network slice selection"
+        ],
+        "qtype": 0,
+        "answer": "A",
+        "solution": "",
+        "A": "Mobility management, user data management",
+        "B": "Charging unit, policy management",
+        "C": "User data management, network slice selection",
+        "D": "Authentication function, network slice selection"
+    },
+    {
+        "id": "5G基础-261",
+        "question": "In SA network, to ensure that the device can immediately return to 5G after ending a voice call (EPSFallback to 4G), which technology should be used?",
+        "choices": [
+            "FastReturn",
+            "Idle mode reselection",
+            "CSFB",
+            "SRVCC"
+        ],
+        "qtype": 0,
+        "answer": "A",
+        "solution": "",
+        "A": "FastReturn",
+        "B": "Idle mode reselection",
+        "C": "CSFB",
+        "D": "SRVCC"
+    },
+    {
+        "id": "5G基础-264",
+        "question": "The hardware load balancing device deployed on the side needs to configure source address translation in the virtual server to achieve consistent round-trip paths. However, the problem with this approach is that commonly used web applications see all application access coming from the hardware load balancing device. To enable the application to obtain the real IP of the user side, the usual solution on the hardware load balancing side is ():",
+        "choices": [
+            "Cookie insert",
+            "IP layer source address insert",
+            "TCP layer source address insert",
+            "HTTP layer source address insert"
+        ],
+        "qtype": 0,
+        "answer": "D",
+        "solution": "",
+        "A": "Cookie insert",
+        "B": "IP layer source address insert",
+        "C": "TCP layer source address insert",
+        "D": "HTTP layer source address insert"
+    },
+    {
+        "id": "5G基础-267",
+        "question": "What is the order of host access to storage paths?",
+        "choices": [
+            "File system->Application system->Volume->I/O subsystem->RAID controller->Disk",
+            "Application system->File system->Volume->I/O subsystem->RAID controller->Disk",
+            "Application system->File system->I/O subsystem->Volume->RAID controller->Disk",
+            "Application system->File system->Volume->RAID controller->I/O subsystem->Disk"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "File system->Application system->Volume->I/O subsystem->RAID controller->Disk",
+        "B": "Application system->File system->Volume->I/O subsystem->RAID controller->Disk",
+        "C": "Application system->File system->I/O subsystem->Volume->RAID controller->Disk",
+        "D": "Application system->File system->Volume->RAID controller->I/O subsystem->Disk"
+    },
+    {
+        "id": "5G基础-268",
+        "question": "What is the required end-to-end time synchronization accuracy for 5G new services, which may be improved to ( )?",
+        "choices": [
+            "tens of nanoseconds",
+            "hundreds of milliseconds",
+            "hundreds of nanoseconds",
+            "tens of milliseconds"
+        ],
+        "qtype": 0,
+        "answer": "A",
+        "solution": "",
+        "A": "tens of nanoseconds",
+        "B": "hundreds of milliseconds",
+        "C": "hundreds of nanoseconds",
+        "D": "tens of milliseconds"
+    },
+    {
+        "id": "5G基础-274",
+        "question": "The agricultural sensor information reporting business belongs to the network demand of which of the three major application scenarios of 5G?",
+        "choices": [
+            "Enhanced mobile broadband",
+            "Massive machine-type communications",
+            "Ultra-reliable low-latency communications",
+            "Low-latency high-bandwidth communications"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "Enhanced mobile broadband",
+        "B": "Massive machine-type communications",
+        "C": "Ultra-reliable low-latency communications",
+        "D": "Low-latency high-bandwidth communications"
+    },
+    {
+        "id": "5G基础-286",
+        "question": "Which type of cloud computing is NFV currently based on?",
+        "choices": [
+            "Private PaaS",
+            "Public IaaS",
+            "Hybrid IaaS",
+            "Private IaaS"
+        ],
+        "qtype": 0,
+        "answer": "D",
+        "solution": "",
+        "A": "Private PaaS",
+        "B": "Public IaaS",
+        "C": "Hybrid IaaS",
+        "D": "Private IaaS"
+    },
+    {
+        "id": "5G基础-287",
+        "question": "What is the main object served by the core services of OpenStack?",
+        "choices": [
+            "Network",
+            "Storage",
+            "Virtual machine image",
+            "Virtual machine"
+        ],
+        "qtype": 0,
+        "answer": "D",
+        "solution": "",
+        "A": "Network",
+        "B": "Storage",
+        "C": "Virtual machine image",
+        "D": "Virtual machine"
+    },
+    {
+        "id": "5G基础-288",
+        "question": "What is the current network architecture of the NSA?",
+        "choices": [
+            "Option3",
+            "Option3X",
+            "Option7",
+            "Option7X"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "Option3",
+        "B": "Option3X",
+        "C": "Option7",
+        "D": "Option7X"
+    },
+    {
+        "id": "5G基础-289",
+        "question": "Which component in the NFV architecture is responsible for managing the lifecycle of network services (NS)?",
+        "choices": [
+            "NFVO",
+            "VNFM",
+            "VIM",
+            "PIM"
+        ],
+        "qtype": 0,
+        "answer": "A",
+        "solution": "",
+        "A": "NFVO",
+        "B": "VNFM",
+        "C": "VIM",
+        "D": "PIM"
+    },
+    {
+        "id": "5G基础-290",
+        "question": "Which open source product is the most popular SDN controller in the SDN industry?",
+        "choices": [
+            "Floodlight",
+            "Opendaylight",
+            "Mininet",
+            "Opencontrail"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "Floodlight",
+        "B": "Opendaylight",
+        "C": "Mininet",
+        "D": "Opencontrail"
+    },
+    {
+        "id": "5G基础-291",
+        "question": "What network configuration scheme did 3GPP propose to achieve 5G commercialization as quickly as possible?",
+        "choices": [
+            "Option 2",
+            "Option 3",
+            "Option 4",
+            "Option 5"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "Option 2",
+        "B": "Option 3",
+        "C": "Option 4",
+        "D": "Option 5"
+    },
+    {
+        "id": "5G基础-292",
+        "question": "Which open source product is the most popular SDN controller in the SDN industry?",
+        "choices": [
+            "Floodlight",
+            "Opendaylight",
+            "Mininet",
+            "Opencontrail"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "Floodlight",
+        "B": "Opendaylight",
+        "C": "Mininet",
+        "D": "Opencontrail"
+    },
+    {
+        "id": "5G基础-293",
+        "question": "What technology can enable operators to slice multiple virtual end-to-end networks from a single hardware infrastructure?",
+        "choices": [
+            "Network slicing technology",
+            "Network optimization technology",
+            "Network isolation technology",
+            "Network transmission technology"
+        ],
+        "qtype": 0,
+        "answer": "A",
+        "solution": "",
+        "A": "Network slicing technology",
+        "B": "Network optimization technology",
+        "C": "Network isolation technology",
+        "D": "Network transmission technology"
+    },
+    {
+        "id": "5G基础-296",
+        "question": "Which component in the NFV architecture is responsible for managing the lifecycle of network services (NS)?",
+        "choices": [
+            "NFV-O",
+            "VNF-M",
+            "VIM",
+            "PIM"
+        ],
+        "qtype": 0,
+        "answer": "A",
+        "solution": "",
+        "A": "NFV-O",
+        "B": "VNF-M",
+        "C": "VIM",
+        "D": "PIM"
+    },
+    {
+        "id": "5G基础-299",
+        "question": "How many devices does 5G support per square kilometer at least?",
+        "choices": [
+            "1000",
+            "10,000",
+            "100,000",
+            "1,000,000"
+        ],
+        "qtype": 0,
+        "answer": "D",
+        "solution": "",
+        "A": "1000",
+        "B": "10,000",
+        "C": "100,000",
+        "D": "1,000,000"
+    },
+    {
+        "id": "5G基础-300",
+        "question": "What is the highest channel bandwidth utilization rate of 5G NR?",
+        "choices": [
+            "0.9828",
+            "0.9028",
+            "0.9255",
+            "0.9732"
+        ],
+        "qtype": 0,
+        "answer": "A",
+        "solution": "",
+        "A": "0.9828",
+        "B": "0.9028",
+        "C": "0.9255",
+        "D": "0.9732"
+    },
+    {
+        "id": "5G基础-309",
+        "question": "When CU/DU are integrated, data transmission does not include:",
+        "choices": [
+            "Mid-transmission",
+            "Forward transmission",
+            "Backward transmission",
+            "Long-distance transmission"
+        ],
+        "qtype": 0,
+        "answer": "A",
+        "solution": "",
+        "A": "Mid-transmission",
+        "B": "Forward transmission",
+        "C": "Backward transmission",
+        "D": "Long-distance transmission"
+    },
+    {
+        "id": "5G基础-310",
+        "question": "Differences between 5G and 4G distributed antenna systems:",
+        "choices": [
+            "Different frequency bands",
+            "Difference between TDD and FDD",
+            "Same terminals",
+            "Same MIMO technology"
+        ],
+        "qtype": 0,
+        "answer": "D",
+        "solution": "",
+        "A": "Different frequency bands",
+        "B": "Difference between TDD and FDD",
+        "C": "Same terminals",
+        "D": "Same MIMO technology"
+    },
+    {
+        "id": "5G基础-311",
+        "question": "What is the module used for session management in the NR core network?",
+        "choices": [
+            "AMF",
+            "SMF",
+            "UDM",
+            "PCF"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "AMF",
+        "B": "SMF",
+        "C": "UDM",
+        "D": "PCF"
+    },
+    {
+        "id": "5G基础-312",
+        "question": "Which of the following organizations belongs to China's 5G organization?",
+        "choices": [
+            "3GPP",
+            "IMT-2020 (5G) Promotion Group",
+            "5GPPP",
+            "5G Forum"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "3GPP",
+        "B": "IMT-2020 (5G) Promotion Group",
+        "C": "5GPPP",
+        "D": "5G Forum"
+    },
+    {
+        "id": "5G基础-313",
+        "question": "The 3GPP has determined the standard for 5G RAN slicing, which is:",
+        "choices": [
+            "Option 3 for splitting between BBU/RRU",
+            "Option 2 for high-level splitting between CU/DU",
+            "Option 7 for splitting between RRU/AAU and DU",
+            "Option 7 for splitting between D-RAN and CU."
+        ],
+        "qtype": 0,
+        "answer": " ,B, ",
+        "solution": "",
+        "A": "Option 3 for splitting between BBU/RRU",
+        "B": "Option 2 for high-level splitting between CU/DU",
+        "C": "Option 7 for splitting between RRU/AAU and DU",
+        "D": "Option 7 for splitting between D-RAN and CU."
+    },
+    {
+        "id": "5G基础-314",
+        "question": "In cloud computing platforms, ( ) refers to Platform as a Service.",
+        "choices": [
+            "IaaS",
+            "PaaS",
+            "SaaS",
+            "QaaS"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "IaaS",
+        "B": "PaaS",
+        "C": "SaaS",
+        "D": "QaaS"
+    },
+    {
+        "id": "5G基础-317",
+        "question": "What is the bandwidth of the subcarrier currently used for low frequency?",
+        "choices": [
+            "15 kHz",
+            "30 kHz",
+            "60 kHz",
+            "120 kHz"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "15 kHz",
+        "B": "30 kHz",
+        "C": "60 kHz",
+        "D": "120 kHz"
+    },
+    {
+        "id": "5G基础-318",
+        "question": "Which of the following is not a requirement for 5G indoor coverage for services?",
+        "choices": [
+            "1) Support for high-definition voice",
+            "2) High-speed internet of 100mbps-1Gbps",
+            "3) Latency of 1ms-10ms",
+            "4) Positioning accuracy within 10m"
+        ],
+        "qtype": 0,
+        "answer": "D",
+        "solution": "",
+        "A": "1) Support for high-definition voice",
+        "B": "2) High-speed internet of 100mbps-1Gbps",
+        "C": "3) Latency of 1ms-10ms",
+        "D": "4) Positioning accuracy within 10m"
+    },
+    {
+        "id": "5G基础-319",
+        "question": "What is the specific state unique to 5G system terminals?",
+        "choices": [
+            "1)Connected",
+            "2)IDLE",
+            "3)INACTIVE",
+            "4)"
+        ],
+        "qtype": 0,
+        "answer": "C",
+        "solution": "",
+        "A": "1)Connected",
+        "B": "2)IDLE",
+        "C": "3)INACTIVE",
+        "D": "4)"
+    },
+    {
+        "id": "5G基础-320",
+        "question": "3GPP has finally determined the channel coding technology scheme for the 5G eMBB (Enhanced Mobile Broadband) scenario, in which () code is used as the encoding scheme for the control channel.",
+        "choices": [
+            "LDPC",
+            "Polar",
+            "Convolutional code",
+            "Differential Multiplexing code"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "LDPC",
+        "B": "Polar",
+        "C": "Convolutional code",
+        "D": "Differential Multiplexing code"
+    },
+    {
+        "id": "5G基础-321",
+        "question": "Which statement is incorrect regarding the use of large-scale antenna arrays for 5G high-frequency?",
+        "choices": [
+            "The short wavelength of the high-frequency band allows for a large number of antenna arrays to be deployed in a limited area.",
+            "Large-scale antenna arrays can form narrow beams with very high gain to compensate for propagation loss.",
+            "Phased array antennas can adjust the phase shift of the phase shifters to make corresponding changes in the maximum direction of the antenna beam, thereby achieving beam scanning and tracking.",
+            "Due to the narrow beam formed by the large-scale antenna, multiple sets of antennas need to be deployed to fully cover the entire cell."
+        ],
+        "qtype": 0,
+        "answer": "D",
+        "solution": "",
+        "A": "The short wavelength of the high-frequency band allows for a large number of antenna arrays to be deployed in a limited area.",
+        "B": "Large-scale antenna arrays can form narrow beams with very high gain to compensate for propagation loss.",
+        "C": "Phased array antennas can adjust the phase shift of the phase shifters to make corresponding changes in the maximum direction of the antenna beam, thereby achieving beam scanning and tracking.",
+        "D": "Due to the narrow beam formed by the large-scale antenna, multiple sets of antennas need to be deployed to fully cover the entire cell."
+    },
+    {
+        "id": "5G基础-322",
+        "question": "What is the wavelength of a frequency of 3.5GHz?",
+        "choices": [
+            "2mm",
+            "8.5cm",
+            "17cm",
+            "35cm"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "2mm",
+        "B": "8.5cm",
+        "C": "17cm",
+        "D": "35cm"
+    },
+    {
+        "id": "5G基础-323",
+        "question": "From which version does the 5G 3GPP protocol start:",
+        "choices": [
+            "R8",
+            "R14",
+            "R15",
+            "R16"
+        ],
+        "qtype": 0,
+        "answer": "C",
+        "solution": "",
+        "A": "R8",
+        "B": "R14",
+        "C": "R15",
+        "D": "R16"
+    },
+    {
+        "id": "5G基础-324",
+        "question": "5G terminals will develop in diverse forms and with differentiated technological performance. In the early stage of 5G, the main form of terminal products will be smartphones for ( ).",
+        "choices": [
+            "ICIC",
+            "eMBB",
+            "mMTC",
+            "URLLC"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "ICIC",
+        "B": "eMBB",
+        "C": "mMTC",
+        "D": "URLLC"
+    },
+    {
+        "id": "5G基础-325",
+        "question": "In which version of 3GPP was SA frozen?",
+        "choices": [
+            "3GPP Rel-15",
+            "3GPP Rel-16",
+            "3GPP Rel-17",
+            "3GPP Rel-18"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "3GPP Rel-15",
+        "B": "3GPP Rel-16",
+        "C": "3GPP Rel-17",
+        "D": "3GPP Rel-18"
+    },
+    {
+        "id": "5G基础-326",
+        "question": "What is the 5G frequency band allocated to China Telecom?",
+        "choices": [
+            "3.4~3.5G",
+            "3.5~3.6G",
+            "4.8~4.9G",
+            "2.515~2.675G"
+        ],
+        "qtype": 0,
+        "answer": "A",
+        "solution": "",
+        "A": "3.4~3.5G",
+        "B": "3.5~3.6G",
+        "C": "4.8~4.9G",
+        "D": "2.515~2.675G"
+    },
+    {
+        "id": "5G基础-327",
+        "question": "Which of the following descriptions about ultra-dense networking is incorrect?",
+        "choices": [
+            "Achieving higher spectrum efficiency",
+            "Improving system capacity",
+            "Effectively solving local interference coordination problems",
+            "Facing challenges in site and transmission deployment costs"
+        ],
+        "qtype": 0,
+        "answer": "C",
+        "solution": "",
+        "A": "Achieving higher spectrum efficiency",
+        "B": "Improving system capacity",
+        "C": "Effectively solving local interference coordination problems",
+        "D": "Facing challenges in site and transmission deployment costs"
+    },
+    {
+        "id": "5G基础-329",
+        "question": "What is the main demand of the smart grid on the network?",
+        "choices": [
+            "Speed",
+            "Number of connections",
+            "Latency",
+            "Mobility"
+        ],
+        "qtype": 0,
+        "answer": "C",
+        "solution": "",
+        "A": "Speed",
+        "B": "Number of connections",
+        "C": "Latency",
+        "D": "Mobility"
+    },
+    {
+        "id": "5G基础-330",
+        "question": "What is the official name of 5G, which is the fifth generation mobile communication standard defined by ITU?",
+        "choices": [
+            "IMT-2000",
+            "IMT-2005",
+            "IMT-2010",
+            "IMT-2020"
+        ],
+        "qtype": 0,
+        "answer": "D",
+        "solution": "",
+        "A": "IMT-2000",
+        "B": "IMT-2005",
+        "C": "IMT-2010",
+        "D": "IMT-2020"
+    },
+    {
+        "id": "5G基础-331",
+        "question": "What is the initial target experience rate in Mbps for 5G network deployment?\"",
+        "choices": [
+            "50Mbps",
+            "100Mbps",
+            "1Gbps",
+            "10Gbps"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "50Mbps",
+        "B": "100Mbps",
+        "C": "1Gbps",
+        "D": "10Gbps"
+    },
+    {
+        "id": "5G基础-332",
+        "question": "New business types supported by 5G do not include:",
+        "choices": [
+            "eMBB",
+            "URLLC",
+            "eMTC",
+            "mMTC"
+        ],
+        "qtype": 0,
+        "answer": "C",
+        "solution": "",
+        "A": "eMBB",
+        "B": "URLLC",
+        "C": "eMTC",
+        "D": "mMTC"
+    },
+    {
+        "id": "5G基础-333",
+        "question": "The LOS path loss models for 5G UMa/UMi/RMa in 3GPP specifications are all dual-slope path loss models. The factors that are not related to BreakPoint are:",
+        "choices": [
+            "Frequency",
+            "Street width",
+            "Antenna height",
+            "Mobile station height."
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "Frequency",
+        "B": "Street width",
+        "C": "Antenna height",
+        "D": "Mobile station height."
+    },
+    {
+        "id": "5G基础-334",
+        "question": "Which of the following accurately describes the channel bandwidth supported by the FR1 frequency range (450MHz~6000MHz)?",
+        "choices": [
+            "Minimum 5MHz, maximum 100MHz",
+            "Minimum 5MHz, maximum 400MHz",
+            "Minimum 50MHz, maximum 100MHz",
+            "Minimum 50MHz, maximum 400MHz"
+        ],
+        "qtype": 0,
+        "answer": "A",
+        "solution": "",
+        "A": "Minimum 5MHz, maximum 100MHz",
+        "B": "Minimum 5MHz, maximum 400MHz",
+        "C": "Minimum 50MHz, maximum 100MHz",
+        "D": "Minimum 50MHz, maximum 400MHz"
+    },
+    {
+        "id": "5G基础-336",
+        "question": "Which business demonstration is not provided in the 5G service experience car demonstration plan?",
+        "choices": [
+            "CXT tagging",
+            "Intelligent healthcare",
+            "16-channel HD video",
+            "Two-site video interconnection"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "CXT tagging",
+        "B": "Intelligent healthcare",
+        "C": "16-channel HD video",
+        "D": "Two-site video interconnection"
+    },
+    {
+        "id": "5G基础-337",
+        "question": "What architecture is recommended for the 5G experimental bureau's NSA network deployment?",
+        "choices": [
+            "Option3",
+            "Option3a",
+            "Option3x",
+            "Option7x"
+        ],
+        "qtype": 0,
+        "answer": "C",
+        "solution": "",
+        "A": "Option3",
+        "B": "Option3a",
+        "C": "Option3x",
+        "D": "Option7x"
+    },
+    {
+        "id": "5G基础-338",
+        "question": "What is the low-frequency band for 5G in China?",
+        "choices": [
+            "3.4-3.8GHz",
+            "3.3-3.6GHz",
+            "4.4-4.9GHz",
+            "700MHz"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "3.4-3.8GHz",
+        "B": "3.3-3.6GHz",
+        "C": "4.4-4.9GHz",
+        "D": "700MHz"
+    },
+    {
+        "id": "5G基础-339",
+        "question": "What is the current low-frequency 5G bandwidth in MHz?",
+        "choices": [
+            "100",
+            "20",
+            "50",
+            "200"
+        ],
+        "qtype": 0,
+        "answer": "A",
+        "solution": "",
+        "A": "100",
+        "B": "20",
+        "C": "50",
+        "D": "200"
+    },
+    {
+        "id": "5G基础-340",
+        "question": "What is the theoretical speed of 5G?",
+        "choices": [
+            "50Mbps",
+            "100Mbps",
+            "500Mbps",
+            "1Gbps"
+        ],
+        "qtype": 0,
+        "answer": "D",
+        "solution": "",
+        "A": "50Mbps",
+        "B": "100Mbps",
+        "C": "500Mbps",
+        "D": "1Gbps"
+    },
+    {
+        "id": "5G基础-341",
+        "question": "The work frequency bands of the 5G system clarified by the Ministry of Industry and Information Technology in November 2017 do not include:",
+        "choices": [
+            "3.3-3.4GHz (indoor only)",
+            "3.4-3.6GHz (indoor/outdoor)",
+            "4.8-5.0GHz (indoor/outdoor)",
+            "900M (outdoor only)"
+        ],
+        "qtype": 0,
+        "answer": "D",
+        "solution": "",
+        "A": "3.3-3.4GHz (indoor only)",
+        "B": "3.4-3.6GHz (indoor/outdoor)",
+        "C": "4.8-5.0GHz (indoor/outdoor)",
+        "D": "900M (outdoor only)"
+    },
+    {
+        "id": "5G基础-342",
+        "question": "What is the suggested downlink experience rate for 5G networks in high-speed rail scenarios by the 3GPP organization?",
+        "choices": [
+            "10Mbps",
+            "100Mbps",
+            "50Mbps",
+            "20Mbps"
+        ],
+        "qtype": 0,
+        "answer": "C",
+        "solution": "",
+        "A": "10Mbps",
+        "B": "100Mbps",
+        "C": "50Mbps",
+        "D": "20Mbps"
+    },
+    {
+        "id": "5G基础-343",
+        "question": "What is the minimum bandwidth requirement for network downlink for 4K video services?",
+        "choices": [
+            "10Mbps",
+            "50Mbps",
+            "100Mbps",
+            "20Mbps"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "10Mbps",
+        "B": "50Mbps",
+        "C": "100Mbps",
+        "D": "20Mbps"
+    },
+    {
+        "id": "5G基础-344",
+        "question": "What kind of model is cloud computing?",
+        "choices": [
+            "Data model",
+            "Conceptual model",
+            "Business model",
+            "Idle model"
+        ],
+        "qtype": 0,
+        "answer": "C",
+        "solution": "",
+        "A": "Data model",
+        "B": "Conceptual model",
+        "C": "Business model",
+        "D": "Idle model"
+    },
+    {
+        "id": "5G基础-345",
+        "question": "Which application scenario of cloud computing does NFV solution belong to?",
+        "choices": [
+            "Telecommunication services",
+            "Personal services",
+            "Internet services",
+            "Enterprise services"
+        ],
+        "qtype": 0,
+        "answer": "A",
+        "solution": "",
+        "A": "Telecommunication services",
+        "B": "Personal services",
+        "C": "Internet services",
+        "D": "Enterprise services"
+    },
+    {
+        "id": "5G基础-346",
+        "question": "Which of the following descriptions of cloud deployment models is incorrect?",
+        "choices": [
+            "Public cloud",
+            "Private cloud",
+            "Hybrid cloud",
+            "Single cloud"
+        ],
+        "qtype": 0,
+        "answer": "D",
+        "solution": "",
+        "A": "Public cloud",
+        "B": "Private cloud",
+        "C": "Hybrid cloud",
+        "D": "Single cloud"
+    },
+    {
+        "id": "5G基础-347",
+        "question": "The essence of NFV technology is to emphasize the software and hardware (   ) capabilities of network functions, and to achieve the migration of network value from hardware to software.",
+        "choices": [
+            "forwarding",
+            "decoupling",
+            "assimilation",
+            "coordination"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "forwarding",
+        "B": "decoupling",
+        "C": "assimilation",
+        "D": "coordination"
+    },
+    {
+        "id": "5G基础-348",
+        "question": "Which of the following is not an advantage of virtual machines?",
+        "choices": [
+            "Isolation",
+            "Security",
+            "Independence",
+            "Encapsulation"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "Isolation",
+        "B": "Security",
+        "C": "Independence",
+        "D": "Encapsulation"
+    },
+    {
+        "id": "5G基础-349",
+        "question": "Which of the following is not a characteristic of SDN?",
+        "choices": [
+            "Control-Forwarding Separation",
+            "Network Virtualization",
+            "Programmable Interfaces",
+            "Slicing Capability"
+        ],
+        "qtype": 0,
+        "answer": "D",
+        "solution": "",
+        "A": "Control-Forwarding Separation",
+        "B": "Network Virtualization",
+        "C": "Programmable Interfaces",
+        "D": "Slicing Capability"
+    },
+    {
+        "id": "5G基础-350",
+        "question": "Which of the following is not a component of the logical view of a 5G network?",
+        "choices": [
+            "Access plane",
+            "Control plane",
+            "Management and orchestration plane",
+            "Forwarding plane"
+        ],
+        "qtype": 0,
+        "answer": "C",
+        "solution": "",
+        "A": "Access plane",
+        "B": "Control plane",
+        "C": "Management and orchestration plane",
+        "D": "Forwarding plane"
+    },
+    {
+        "id": "5G基础-351",
+        "question": "What is the interface between AMF and gNB in the basic architecture of 5G network?",
+        "choices": [
+            "NG-U",
+            "N11",
+            "N2",
+            "Xn"
+        ],
+        "qtype": 0,
+        "answer": "C",
+        "solution": "",
+        "A": "NG-U",
+        "B": "N11",
+        "C": "N2",
+        "D": "Xn"
+    },
+    {
+        "id": "5G基础-352",
+        "question": "The 5G core network adopts the SBI (service based interface) serial bus interface protocol based on a service-oriented architecture, and the transport layer uniformly adopts the ( ) protocol.",
+        "choices": [
+            "HTTP/2",
+            "SOAP",
+            "BICC",
+            "SFTP"
+        ],
+        "qtype": 0,
+        "answer": "A",
+        "solution": "",
+        "A": "HTTP/2",
+        "B": "SOAP",
+        "C": "BICC",
+        "D": "SFTP"
+    },
+    {
+        "id": "5G基础-353",
+        "question": "5G introduces a service-oriented architecture, which of the following is a service interface?",
+        "choices": [
+            "N1",
+            "N2",
+            "N6",
+            "Naf"
+        ],
+        "qtype": 0,
+        "answer": "D",
+        "solution": "",
+        "A": "N1",
+        "B": "N2",
+        "C": "N6",
+        "D": "Naf"
+    },
+    {
+        "id": "5G基础-354",
+        "question": "Which component does not belong to MANO?",
+        "choices": [
+            "OSS",
+            "NFVO",
+            "VIM",
+            "VNFM"
+        ],
+        "qtype": 0,
+        "answer": "A",
+        "solution": "",
+        "A": "OSS",
+        "B": "NFVO",
+        "C": "VIM",
+        "D": "VNFM"
+    },
+    {
+        "id": "5G基础-355",
+        "question": "In the 5G service-oriented network architecture, the access and mobility management functions are performed by ( ).",
+        "choices": [
+            "SMF",
+            "AMF",
+            "UPF",
+            "PCRF"
+        ],
+        "qtype": 0,
+        "answer": "A",
+        "solution": "",
+        "A": "SMF",
+        "B": "AMF",
+        "C": "UPF",
+        "D": "PCRF"
+    },
+    {
+        "id": "5G基础-356",
+        "question": "Which NF in the following has the highest decision-making power for QoS?",
+        "choices": [
+            "SMF",
+            "UDM",
+            "PCF",
+            "UPF"
+        ],
+        "qtype": 0,
+        "answer": "C",
+        "solution": "",
+        "A": "SMF",
+        "B": "UDM",
+        "C": "PCF",
+        "D": "UPF"
+    },
+    {
+        "id": "5G基础-409",
+        "question": "Which interface is between 4G and 5G base stations?",
+        "choices": [
+            "X2",
+            "Xn",
+            "S1",
+            "Ng"
+        ],
+        "qtype": 0,
+        "answer": "A",
+        "solution": "",
+        "A": "X2",
+        "B": "Xn",
+        "C": "S1",
+        "D": "Ng"
+    },
+    {
+        "id": "5G基础-410",
+        "question": "Which signal is mainly used for phase tracking and compensation in NR?",
+        "choices": [
+            "CRS-RS",
+            "PT-RS",
+            "DMRS",
+            "SRS"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "CRS-RS",
+        "B": "PT-RS",
+        "C": "DMRS",
+        "D": "SRS"
+    },
+    {
+        "id": "5G基础-411",
+        "question": "What is the maximum subcarrier bandwidth defined in the numerologies of 3GPP Rel15?",
+        "choices": [
+            "30kHz",
+            "60kHz",
+            "120kHz",
+            "240kHz"
+        ],
+        "qtype": 0,
+        "answer": "D",
+        "solution": "",
+        "A": "30kHz",
+        "B": "60kHz",
+        "C": "120kHz",
+        "D": "240kHz"
+    },
+    {
+        "id": "5G基础-412",
+        "question": "If there are no users in the current cell, which reference signals will gNB send?",
+        "choices": [
+            "PSS/SSS",
+            "CSI-RS",
+            "DM-RS",
+            "PT-RS"
+        ],
+        "qtype": 0,
+        "answer": "A",
+        "solution": "",
+        "A": "PSS/SSS",
+        "B": "CSI-RS",
+        "C": "DM-RS",
+        "D": "PT-RS"
+    },
+    {
+        "id": "5G基础-413",
+        "question": "Which of the following statements about NR physical layer processing is incorrect?",
+        "choices": [
+            "The maximum number of layers is 8 for 2 codewords.",
+            "Uplink also supports multi-layer data, with a maximum of 4 layers.",
+            "The number of antenna ports must be equal to the number of layers.",
+            "The number of antenna ports can be greater than the number of layers."
+        ],
+        "qtype": 0,
+        "answer": "C",
+        "solution": "",
+        "A": "The maximum number of layers is 8 for 2 codewords.",
+        "B": "Uplink also supports multi-layer data, with a maximum of 4 layers.",
+        "C": "The number of antenna ports must be equal to the number of layers.",
+        "D": "The number of antenna ports can be greater than the number of layers."
+    },
+    {
+        "id": "5G基础-414",
+        "question": "Which of the following is not a function of the RLC layer in NR?",
+        "choices": [
+            "Data caching",
+            "Data segmentation",
+            "ARQ",
+            "Data encryption"
+        ],
+        "qtype": 0,
+        "answer": "D",
+        "solution": "",
+        "A": "Data caching",
+        "B": "Data segmentation",
+        "C": "ARQ",
+        "D": "Data encryption"
+    },
+    {
+        "id": "5G基础-416",
+        "question": "What is the maximum bandwidth of the 5G FR1 frequency band?",
+        "choices": [
+            "20MHz",
+            "40MHz",
+            "80MHz",
+            "100MHz"
+        ],
+        "qtype": 0,
+        "answer": "D",
+        "solution": "",
+        "A": "20MHz",
+        "B": "40MHz",
+        "C": "80MHz",
+        "D": "100MHz"
+    },
+    {
+        "id": "5G基础-418",
+        "question": "Which statement about the bandwidth description of the NR system is incorrect?",
+        "choices": [
+            "Any frequency band under FR1 can support a bandwidth of 100MHz.",
+            "The maximum bandwidth under FR1 is 273RB.",
+            "Only subcarrier bandwidth of 120kHz under FR2 can support a cell bandwidth of 400MHz.",
+            "The maximum bandwidth under FR2 is 264RB."
+        ],
+        "qtype": 0,
+        "answer": "A",
+        "solution": "",
+        "A": "Any frequency band under FR1 can support a bandwidth of 100MHz.",
+        "B": "The maximum bandwidth under FR1 is 273RB.",
+        "C": "Only subcarrier bandwidth of 120kHz under FR2 can support a cell bandwidth of 400MHz.",
+        "D": "The maximum bandwidth under FR2 is 264RB."
+    },
+    {
+        "id": "5G基础-420",
+        "question": "Which of the following is not a function of the NR air interface MAC layer?",
+        "choices": [
+            "HARQ",
+            "Logical channel mapping and multiplexing",
+            "Scheduling",
+            "QoS management"
+        ],
+        "qtype": 0,
+        "answer": "D",
+        "solution": "",
+        "A": "HARQ",
+        "B": "Logical channel mapping and multiplexing",
+        "C": "Scheduling",
+        "D": "QoS management"
+    },
+    {
+        "id": "5G基础-421",
+        "question": "What is the maximum number of RBs that can be used with a 100MHz bandwidth on the BS side for SCS 30kHz?",
+        "choices": [
+            "50",
+            "100",
+            "272",
+            "273"
+        ],
+        "qtype": 0,
+        "answer": "D",
+        "solution": "",
+        "A": "50",
+        "B": "100",
+        "C": "272",
+        "D": "273"
+    },
+    {
+        "id": "5G基础-428",
+        "question": "What is the interface between two 5G base stations?",
+        "choices": [
+            "X2",
+            "Xn",
+            "NG",
+            "S1"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "X2",
+        "B": "Xn",
+        "C": "NG",
+        "D": "S1"
+    },
+    {
+        "id": "5G基础-430",
+        "question": "Which of the following is not a main application scenario of millimeter waves?",
+        "choices": [
+            "Capacity enhancement",
+            "Self-backhaul, always-on stations",
+            "Home broadband access",
+            "Wide coverage"
+        ],
+        "qtype": 0,
+        "answer": "D",
+        "solution": "",
+        "A": "Capacity enhancement",
+        "B": "Self-backhaul, always-on stations",
+        "C": "Home broadband access",
+        "D": "Wide coverage"
+    },
+    {
+        "id": "5G基础-432",
+        "question": "Which business needs to consider user interface design for sinking?",
+        "choices": [
+            "Meter reading IoT",
+            "Video surveillance network",
+            "Mobile TV network",
+            "Mobile Internet"
+        ],
+        "qtype": 0,
+        "answer": "C",
+        "solution": "",
+        "A": "Meter reading IoT",
+        "B": "Video surveillance network",
+        "C": "Mobile TV network",
+        "D": "Mobile Internet"
+    },
+    {
+        "id": "5G基础-433",
+        "question": "Which function in the system functional architecture of 5G belongs to the user plane function?",
+        "choices": [
+            "AUSF",
+            "AMF",
+            "SMF",
+            "UPF"
+        ],
+        "qtype": 0,
+        "answer": "D",
+        "solution": "",
+        "A": "AUSF",
+        "B": "AMF",
+        "C": "SMF",
+        "D": "UPF"
+    },
+    {
+        "id": "5G基础-434",
+        "question": "When designing slicing, which layer of the wireless network protocol is generally sliced to the DU (distributed unit) for implementation?",
+        "choices": [
+            "RRC layer",
+            "PDCP layer",
+            "RLC layer",
+            "MAC layer"
+        ],
+        "qtype": 0,
+        "answer": "D",
+        "solution": "",
+        "A": "RRC layer",
+        "B": "PDCP layer",
+        "C": "RLC layer",
+        "D": "MAC layer"
+    },
+    {
+        "id": "5G基础-437",
+        "question": "If designing slicing for meter reading IoT, which of the following functions can be considered for clipping?",
+        "choices": [
+            "Call detail record function",
+            "Mobility management function",
+            "Session management function",
+            "Device management"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "Call detail record function",
+        "B": "Mobility management function",
+        "C": "Session management function",
+        "D": "Device management"
+    },
+    {
+        "id": "5G基础-438",
+        "question": "How many connections can 5G support per square kilometer at least?",
+        "choices": [
+            "1000",
+            "10,000",
+            "100,000",
+            "1,000,000"
+        ],
+        "qtype": 0,
+        "answer": "D",
+        "solution": "",
+        "A": "1000",
+        "B": "10,000",
+        "C": "100,000",
+        "D": "1,000,000"
+    },
+    {
+        "id": "5G基础-439",
+        "question": "When will the protocol of Non-Standalone (NSA) be frozen?",
+        "choices": [
+            "End of 2017",
+            "Mid-2018",
+            "End of 2018",
+            "End of 2019"
+        ],
+        "qtype": 0,
+        "answer": "A",
+        "solution": "",
+        "A": "End of 2017",
+        "B": "Mid-2018",
+        "C": "End of 2018",
+        "D": "End of 2019"
+    },
+    {
+        "id": "5G基础-440",
+        "question": "What protocol layer has been added to the NR air interface protocol stack?",
+        "choices": [
+            "RRC",
+            "SDAP",
+            "PDCP",
+            "MAC"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "RRC",
+        "B": "SDAP",
+        "C": "PDCP",
+        "D": "MAC"
+    },
+    {
+        "id": "5G基础-441",
+        "question": "Which one of the following is the interface between gNBs in the 5G SA network architecture?",
+        "choices": [
+            "Xn",
+            "X2",
+            "Ng",
+            "S1"
+        ],
+        "qtype": 0,
+        "answer": "A",
+        "solution": "",
+        "A": "Xn",
+        "B": "X2",
+        "C": "Ng",
+        "D": "S1"
+    },
+    {
+        "id": "5G基础-442",
+        "question": "In the Option3X architecture, where is the data splitting anchor point located?",
+        "choices": [
+            "eNodeB",
+            "gNodeB",
+            "SGW",
+            "PGW"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "eNodeB",
+        "B": "gNodeB",
+        "C": "SGW",
+        "D": "PGW"
+    },
+    {
+        "id": "5G基础-444",
+        "question": "How many receiving antennas at least does a 5G high-frequency terminal need to support?",
+        "choices": [
+            "4",
+            "3",
+            "1",
+            "8"
+        ],
+        "qtype": 0,
+        "answer": "A",
+        "solution": "",
+        "A": "4",
+        "B": "3",
+        "C": "1",
+        "D": "8"
+    },
+    {
+        "id": "5G基础-448",
+        "question": "What is the maximum subcarrier bandwidth defined in the numerologies of 3GPP Rel15?",
+        "choices": [
+            "30kHz",
+            "60kHz",
+            "120kHz",
+            "240kHz"
+        ],
+        "qtype": 0,
+        "answer": "D",
+        "solution": "",
+        "A": "30kHz",
+        "B": "60kHz",
+        "C": "120kHz",
+        "D": "240kHz"
+    },
+    {
+        "id": "5G基础-451",
+        "question": "Which of the following belongs to NR service channels?",
+        "choices": [
+            "BCCH",
+            "PCH",
+            "RACH",
+            "DTCH"
+        ],
+        "qtype": 0,
+        "answer": "D",
+        "solution": "",
+        "A": "BCCH",
+        "B": "PCH",
+        "C": "RACH",
+        "D": "DTCH"
+    },
+    {
+        "id": "5G基础-458",
+        "question": "What is the value of Δfraster in kHz used to calculate the absolute frequency of a cell in the C-Band frequency band n77?",
+        "choices": [
+            "5",
+            "15",
+            "60",
+            "100"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "5",
+        "B": "15",
+        "C": "60",
+        "D": "100"
+    },
+    {
+        "id": "5G基础-461",
+        "question": "When planning the 5G C-band, what is the recommended minimum continuous spectrum bandwidth?",
+        "choices": [
+            "10M",
+            "20M",
+            "100M",
+            "400M"
+        ],
+        "qtype": 0,
+        "answer": "C",
+        "solution": "",
+        "A": "10M",
+        "B": "20M",
+        "C": "100M",
+        "D": "400M"
+    },
+    {
+        "id": "5G基础-462",
+        "question": "Which channel can have more than one antenna port?",
+        "choices": [
+            "PRACH",
+            "PDCCH",
+            "SRS",
+            "PUCCH"
+        ],
+        "qtype": 0,
+        "answer": "C",
+        "solution": "",
+        "A": "PRACH",
+        "B": "PDCCH",
+        "C": "SRS",
+        "D": "PUCCH"
+    },
+    {
+        "id": "5G基础-466",
+        "question": "What is the interface between SMF and UPF?",
+        "choices": [
+            "N1",
+            "N2",
+            "N3",
+            "N4"
+        ],
+        "qtype": 0,
+        "answer": "D",
+        "solution": "",
+        "A": "N1",
+        "B": "N2",
+        "C": "N3",
+        "D": "N4"
+    },
+    {
+        "id": "5G基础-467",
+        "question": "When the 5G UE is in MICO mode and there is downlink data coming to the data network, how does the 5G core network handle it?",
+        "choices": [
+            "AMF pages UE",
+            "SMF checks PCF policy",
+            "The network does not page UE and discards the data",
+            "AMF requests UE to re-register"
+        ],
+        "qtype": 0,
+        "answer": "C",
+        "solution": "",
+        "A": "AMF pages UE",
+        "B": "SMF checks PCF policy",
+        "C": "The network does not page UE and discards the data",
+        "D": "AMF requests UE to re-register"
+    },
+    {
+        "id": "5G基础-468",
+        "question": "Which identifier is assigned by AMF among the following?",
+        "choices": [
+            "GPSI",
+            "SUPI",
+            "5G-GUTI",
+            "SUCI"
+        ],
+        "qtype": 0,
+        "answer": "C",
+        "solution": "",
+        "A": "GPSI",
+        "B": "SUPI",
+        "C": "5G-GUTI",
+        "D": "SUCI"
+    },
+    {
+        "id": "5G基础-469",
+        "question": "Which function in the 5G core network is responsible for UE authentication?",
+        "choices": [
+            "AUSF",
+            "SMF",
+            "UPF",
+            "AMF"
+        ],
+        "qtype": 0,
+        "answer": "A",
+        "solution": "",
+        "A": "AUSF",
+        "B": "SMF",
+        "C": "UPF",
+        "D": "AMF"
+    },
+    {
+        "id": "5G基础-470",
+        "question": "What protocol is running on the control plane of the CUPS architecture with the introduction of new interfaces?",
+        "choices": [
+            "HTTP",
+            "PFCP",
+            "NG-AP",
+            "Diameter"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "HTTP",
+        "B": "PFCP",
+        "C": "NG-AP",
+        "D": "Diameter"
+    },
+    {
+        "id": "5G基础-471",
+        "question": "What protocol is mainly used for signaling of core network elements in 5G Core Network?",
+        "choices": [
+            "Diameter",
+            "MAP",
+            "HTTP2",
+            "GTP-C"
+        ],
+        "qtype": 0,
+        "answer": "C",
+        "solution": "",
+        "A": "Diameter",
+        "B": "MAP",
+        "C": "HTTP2",
+        "D": "GTP-C"
+    },
+    {
+        "id": "5G基础-472",
+        "question": "Which of the following is a QoS parameter for 5G?",
+        "choices": [
+            "QCI",
+            "GBR",
+            "MFBR",
+            "APN-AMBR"
+        ],
+        "qtype": 0,
+        "answer": "C",
+        "solution": "",
+        "A": "QCI",
+        "B": "GBR",
+        "C": "MFBR",
+        "D": "APN-AMBR"
+    },
+    {
+        "id": "5G基础-473",
+        "question": "In the 5G network, the 5G software functions are defined by fine-grained \"services\", which facilitate the customization and orchestration of the network according to business scenarios at what granularity?",
+        "choices": [
+            "Services",
+            "Business",
+            "Protocols",
+            "Interfaces"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "Services",
+        "B": "Business",
+        "C": "Protocols",
+        "D": "Interfaces"
+    },
+    {
+        "id": "5G基础-474",
+        "question": "Which of the following NFs is not used in the 5G user registration process?",
+        "choices": [
+            "AMF",
+            "SMF",
+            "UPF",
+            "AUSF"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "AMF",
+        "B": "SMF",
+        "C": "UPF",
+        "D": "AUSF"
+    },
+    {
+        "id": "5G基础-526",
+        "question": "In the eMBB scenario of the 5G network, the channel coding used for the service channel is ( )",
+        "choices": [
+            "LDPC code",
+            "Convolutional code",
+            "Polar code",
+            "Turbo code"
+        ],
+        "qtype": 0,
+        "answer": "A",
+        "solution": "",
+        "A": "LDPC code",
+        "B": "Convolutional code",
+        "C": "Polar code",
+        "D": "Turbo code"
+    },
+    {
+        "id": "5G基础-527",
+        "question": "Among the key performance indicators of 5G networks, the high-speed mobility can reach up to ( )/hour.",
+        "choices": [
+            "100KM",
+            "500KM",
+            "800KM",
+            "1000KM"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "100KM",
+        "B": "500KM",
+        "C": "800KM",
+        "D": "1000KM"
+    },
+    {
+        "id": "5G基础-528",
+        "question": "Which type of voice bearer does 5G Voice over New Radio (VONR) belong to?",
+        "choices": [
+            "Circuit Switched (CS) voice",
+            "IP Multimedia Subsystem (IMS) voice",
+            "Over-The-Top (OTT) voice",
+            "Circuit Switched Fall Back (CSFB) voice"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "Circuit Switched (CS) voice",
+        "B": "IP Multimedia Subsystem (IMS) voice",
+        "C": "Over-The-Top (OTT) voice",
+        "D": "Circuit Switched Fall Back (CSFB) voice"
+    },
+    {
+        "id": "5G基础-529",
+        "question": "In the NR time domain frame structure, how many symbols are included in one slot?",
+        "choices": [
+            "12",
+            "14",
+            "10",
+            "15"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "12",
+        "B": "14",
+        "C": "10",
+        "D": "15"
+    },
+    {
+        "id": "5G基础-530",
+        "question": "Which statement is correct regarding the two network deployment modes, SA and NSA?",
+        "choices": [
+            "SA (Standalone) and NSA (Non-Standalone) are two network deployment modes based on whether a new 5G core network is built or not.",
+            "To meet the rapid deployment needs of some operators, a new network architecture called NSA (Non-Standalone) has been introduced in the standard.",
+            "SA (Standalone) is a network architecture where 5G works attached to 4G base stations, and NAS signaling (such as registration, authentication, etc.) between the 5G wireless network and the core network is transmitted through 4G base stations. 5G cannot work independently.",
+            "NSA (Non-Standalone) and SA (Standalone) are two network deployment modes based on whether the signaling anchor needs to be anchored on a 4G base station."
+        ],
+        "qtype": 0,
+        "answer": "D",
+        "solution": "",
+        "A": "SA (Standalone) and NSA (Non-Standalone) are two network deployment modes based on whether a new 5G core network is built or not.",
+        "B": "To meet the rapid deployment needs of some operators, a new network architecture called NSA (Non-Standalone) has been introduced in the standard.",
+        "C": "SA (Standalone) is a network architecture where 5G works attached to 4G base stations, and NAS signaling (such as registration, authentication, etc.) between the 5G wireless network and the core network is transmitted through 4G base stations. 5G cannot work independently.",
+        "D": "NSA (Non-Standalone) and SA (Standalone) are two network deployment modes based on whether the signaling anchor needs to be anchored on a 4G base station."
+    },
+    {
+        "id": "5G基础-531",
+        "question": "Which business has the highest bandwidth requirement for 5G network?",
+        "choices": [
+            "VR",
+            "Connected cars",
+            "Live streaming",
+            "4k video"
+        ],
+        "qtype": 0,
+        "answer": "A",
+        "solution": "",
+        "A": "VR",
+        "B": "Connected cars",
+        "C": "Live streaming",
+        "D": "4k video"
+    },
+    {
+        "id": "5G基础-532",
+        "question": "What is the consensus of most operators on the Vo5G evolution path?",
+        "choices": [
+            "VoLTE->EPS-FB->VoNR, using VoLTE as the voice basic network",
+            "VoNR + 5G to 3G SRVCC, skipping VoLTE and using 5G NR as the voice coverage",
+            "CSFB->RAT-FB->VoNR",
+            "CSFB->EPS-FB->VoNR"
+        ],
+        "qtype": 0,
+        "answer": "A",
+        "solution": "",
+        "A": "VoLTE->EPS-FB->VoNR, using VoLTE as the voice basic network",
+        "B": "VoNR + 5G to 3G SRVCC, skipping VoLTE and using 5G NR as the voice coverage",
+        "C": "CSFB->RAT-FB->VoNR",
+        "D": "CSFB->EPS-FB->VoNR"
+    },
+    {
+        "id": "5G基础-533",
+        "question": "What is the length of a subframe time defined in NR?",
+        "choices": [
+            "0.5ms",
+            "1ms",
+            "5ms",
+            "10ms"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "0.5ms",
+        "B": "1ms",
+        "C": "5ms",
+        "D": "10ms"
+    },
+    {
+        "id": "5G基础-534",
+        "question": "What is the maximum number of RBs that can be used for a 100MHz bandwidth on the BS side for SCS30kHz?",
+        "choices": [
+            "50",
+            "100",
+            "272",
+            "273"
+        ],
+        "qtype": 0,
+        "answer": "D",
+        "solution": "",
+        "A": "50",
+        "B": "100",
+        "C": "272",
+        "D": "273"
+    },
+    {
+        "id": "5G基础-536",
+        "question": "What is the interface between two 5G base stations?",
+        "choices": [
+            "X2",
+            "Xn",
+            "NG",
+            "S1"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "X2",
+        "B": "Xn",
+        "C": "NG",
+        "D": "S1"
+    },
+    {
+        "id": "5G基础-538",
+        "question": "What is the maximum bandwidth supported by the Sub6G frequency band?",
+        "choices": [
+            "200MHz",
+            "100MHz",
+            "80MHz",
+            "60MHz"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "200MHz",
+        "B": "100MHz",
+        "C": "80MHz",
+        "D": "60MHz"
+    },
+    {
+        "id": "5G基础-539",
+        "question": "What is the highest channel bandwidth utilization rate of 5GNR?",
+        "choices": [
+            "0.9828",
+            "0.9",
+            "0.9246",
+            "0.9686"
+        ],
+        "qtype": 0,
+        "answer": "A",
+        "solution": "",
+        "A": "0.9828",
+        "B": "0.9",
+        "C": "0.9246",
+        "D": "0.9686"
+    },
+    {
+        "id": "5G基础-540",
+        "question": "Which technology is advantageous in supporting the massive connection of NR?",
+        "choices": [
+            "Massive MIMO",
+            "Orthogonal frequency-division multiple access",
+            "Non-orthogonal frequency-division multiple access",
+            "High-order modulation"
+        ],
+        "qtype": 0,
+        "answer": "C",
+        "solution": "",
+        "A": "Massive MIMO",
+        "B": "Orthogonal frequency-division multiple access",
+        "C": "Non-orthogonal frequency-division multiple access",
+        "D": "High-order modulation"
+    },
+    {
+        "id": "5G基础-541",
+        "question": "Which of the following is not a challenge faced in the 5G era?",
+        "choices": [
+            "MBB data traffic\nAvalanche-like growth",
+            "Mobile IoT requires support for switching function",
+            "Autonomous vehicles require ultra-low latency",
+            "Number of connected devices\nEnormous growth"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "MBB data traffic\nAvalanche-like growth",
+        "B": "Mobile IoT requires support for switching function",
+        "C": "Autonomous vehicles require ultra-low latency",
+        "D": "Number of connected devices\nEnormous growth"
+    },
+    {
+        "id": "5G基础-542",
+        "question": "Which of the following business scenarios is least sensitive to network end-to-end latency?",
+        "choices": [
+            "VR",
+            "Smart meter reading",
+            "Connected cars",
+            "Remote healthcare"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "VR",
+        "B": "Smart meter reading",
+        "C": "Connected cars",
+        "D": "Remote healthcare"
+    },
+    {
+        "id": "5G基础-560",
+        "question": "How many physical layer cell IDs are there in NR?",
+        "choices": [
+            "504",
+            "168",
+            "1008",
+            "336"
+        ],
+        "qtype": 0,
+        "answer": "C",
+        "solution": "",
+        "A": "504",
+        "B": "168",
+        "C": "1008",
+        "D": "336"
+    },
+    {
+        "id": "5G基础-561",
+        "question": "What is the maximum number of broadcast beams supported by the 5G 2.5ms dual cycle frame structure?",
+        "choices": [
+            "2",
+            "4",
+            "7",
+            "8"
+        ],
+        "qtype": 0,
+        "answer": "C",
+        "solution": "",
+        "A": "2",
+        "B": "4",
+        "C": "7",
+        "D": "8"
+    },
+    {
+        "id": "5G基础-562",
+        "question": "Not belonging to the deployment methods of 5G networks",
+        "choices": [
+            "option2",
+            "option3",
+            "option5",
+            "option8"
+        ],
+        "qtype": 0,
+        "answer": "D",
+        "solution": "",
+        "A": "option2",
+        "B": "option3",
+        "C": "option5",
+        "D": "option8"
+    },
+    {
+        "id": "5G基础-563",
+        "question": "How many PCI configurations can be set up for 5G?",
+        "choices": [
+            "504",
+            "512",
+            "1008",
+            "1024"
+        ],
+        "qtype": 0,
+        "answer": "C",
+        "solution": "",
+        "A": "504",
+        "B": "512",
+        "C": "1008",
+        "D": "1024"
+    },
+    {
+        "id": "5G基础-564",
+        "question": "In NR, an RB (Resource Block) consists of (    ) contiguous subcarriers in the frequency domain.",
+        "choices": [
+            "13",
+            "12",
+            "6",
+            "5"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "13",
+        "B": "12",
+        "C": "6",
+        "D": "5"
+    },
+    {
+        "id": "5G基础-565",
+        "question": "Which of the following is not a downlink physical channel?",
+        "choices": [
+            "PDSCH",
+            "PDCCH",
+            "PBCH",
+            "PRACH"
+        ],
+        "qtype": 0,
+        "answer": "D",
+        "solution": "",
+        "A": "PDSCH",
+        "B": "PDCCH",
+        "C": "PBCH",
+        "D": "PRACH"
+    },
+    {
+        "id": "5G基础-566",
+        "question": "The physical layer model of the broadcast channel transmission is characterized by a fixed predefined transmission format. BCH transmits one block every ( ) ms.",
+        "choices": [
+            "40",
+            "80",
+            "160",
+            "320"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "40",
+        "B": "80",
+        "C": "160",
+        "D": "320"
+    },
+    {
+        "id": "5G基础-567",
+        "question": "What is the maximum number of RBs supported with a 30kHz subcarrier spacing?",
+        "choices": [
+            "270",
+            "271",
+            "272",
+            "273"
+        ],
+        "qtype": 0,
+        "answer": "D",
+        "solution": "",
+        "A": "270",
+        "B": "271",
+        "C": "272",
+        "D": "273"
+    },
+    {
+        "id": "5G基础-568",
+        "question": "What is the length of PSS/SSS?",
+        "choices": [
+            "126",
+            "127",
+            "128",
+            "129"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "126",
+        "B": "127",
+        "C": "128",
+        "D": "129"
+    },
+    {
+        "id": "5G基础-569",
+        "question": "3GPP has finally determined the channel coding technology scheme for the 5G eMBB (Enhanced Mobile Broadband) scenario, in which (   ) code is used as the coding scheme for control channels;",
+        "choices": [
+            "LDPC",
+            "Polar",
+            "Convolutional code",
+            "Differential Multiplexing code"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "LDPC",
+        "B": "Polar",
+        "C": "Convolutional code",
+        "D": "Differential Multiplexing code"
+    },
+    {
+        "id": "5G基础-570",
+        "question": "The space used in the UE search space to place system messages is called (   ).",
+        "choices": [
+            "PSS",
+            "USS",
+            "CSS",
+            "SSS"
+        ],
+        "qtype": 0,
+        "answer": "C",
+        "solution": "",
+        "A": "PSS",
+        "B": "USS",
+        "C": "CSS",
+        "D": "SSS"
+    },
+    {
+        "id": "5G基础-571",
+        "question": "To effectively avoid inter-system co-frequency interference between LTE and NR, aligning the uplink and downlink slot switching points of LTE and NR, NR can be subjected to frame header offset ( ) to maintain synchronization.",
+        "choices": [
+            "1ms",
+            "21ms",
+            "2.51ms",
+            "31ms"
+        ],
+        "qtype": 0,
+        "answer": "D",
+        "solution": "",
+        "A": "1ms",
+        "B": "21ms",
+        "C": "2.51ms",
+        "D": "31ms"
+    },
+    {
+        "id": "5G基础-572",
+        "question": "Which statement is incorrect regarding the strategy and principles of 4G to 5G evolution?",
+        "choices": [
+            "5G network performance continues to improve, evolving towards LTE-A Pro.",
+            "Hotspot optimization and eMBB prioritization can help operators deploy Pre5G and 5G with targeted investments.",
+            "Network virtualization and cloud transformation support smooth evolution towards 5G deployment.",
+            "Expanding 4G network services to maximize network value driven by large video and IoT."
+        ],
+        "qtype": 0,
+        "answer": "A",
+        "solution": "",
+        "A": "5G network performance continues to improve, evolving towards LTE-A Pro.",
+        "B": "Hotspot optimization and eMBB prioritization can help operators deploy Pre5G and 5G with targeted investments.",
+        "C": "Network virtualization and cloud transformation support smooth evolution towards 5G deployment.",
+        "D": "Expanding 4G network services to maximize network value driven by large video and IoT."
+    },
+    {
+        "id": "5G基础-573",
+        "question": "Which options are not part of the NSA network?",
+        "choices": [
+            "option3",
+            "option2",
+            "option7",
+            "option4"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "option3",
+        "B": "option2",
+        "C": "option7",
+        "D": "option4"
+    },
+    {
+        "id": "5G基础-574",
+        "question": "Regarding the incorrect statements about 5G MIMO, which of the following is incorrect?",
+        "choices": [
+            "Large-scale antenna arrays, beamforming, beam tracking",
+            "Supports more antennas, more streams, and more users",
+            "Lower SRS period, narrower SRS carrier bandwidth",
+            "mmWave achieves chip-level ultra-dense large-scale integrated antenna arrays"
+        ],
+        "qtype": 0,
+        "answer": "C",
+        "solution": "",
+        "A": "Large-scale antenna arrays, beamforming, beam tracking",
+        "B": "Supports more antennas, more streams, and more users",
+        "C": "Lower SRS period, narrower SRS carrier bandwidth",
+        "D": "mmWave achieves chip-level ultra-dense large-scale integrated antenna arrays"
+    },
+    {
+        "id": "5G基础-575",
+        "question": "What is the maximum air interface latency requirement for 5G?",
+        "choices": [
+            "5ms",
+            "10ms",
+            "1ms",
+            "100ms"
+        ],
+        "qtype": 0,
+        "answer": "C",
+        "solution": "",
+        "A": "5ms",
+        "B": "10ms",
+        "C": "1ms",
+        "D": "100ms"
+    },
+    {
+        "id": "5G基础-576",
+        "question": "Which frequency band is used as the main frequency band for 5G?",
+        "choices": [
+            "C-band",
+            "P-band",
+            "L-band",
+            "S-band"
+        ],
+        "qtype": 0,
+        "answer": "A",
+        "solution": "",
+        "A": "C-band",
+        "B": "P-band",
+        "C": "L-band",
+        "D": "S-band"
+    },
+    {
+        "id": "5G基础-577",
+        "question": "Which of the following is not a key performance indicator of 5G?",
+        "choices": [
+            "Connecting up to 1000K per square kilometer",
+            "Air interface latency less than 5ms",
+            "Peak rate reaching 10Gbps",
+            "Supporting a moving speed of 500KM/h"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "Connecting up to 1000K per square kilometer",
+        "B": "Air interface latency less than 5ms",
+        "C": "Peak rate reaching 10Gbps",
+        "D": "Supporting a moving speed of 500KM/h"
+    },
+    {
+        "id": "5G基础-578",
+        "question": "What is the anchor point in option3X?",
+        "choices": [
+            "NR gNB",
+            "LTE eNB",
+            "eLTE eNB",
+            "None of the above"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "NR gNB",
+        "B": "LTE eNB",
+        "C": "eLTE eNB",
+        "D": "None of the above"
+    },
+    {
+        "id": "5G基础-579",
+        "question": "The interface between eLTE eNB and gNB is called ( ) interface.",
+        "choices": [
+            "X1",
+            "X2",
+            "Xn",
+            "Xx"
+        ],
+        "qtype": 0,
+        "answer": "C",
+        "solution": "",
+        "A": "X1",
+        "B": "X2",
+        "C": "Xn",
+        "D": "Xx"
+    },
+    {
+        "id": "5G核心网-1",
+        "question": "What is the most accurate description of 5G network slicing?",
+        "choices": [
+            "Thorough separation of user plane and control plane",
+            "Providing different physical network channels for various services",
+            "Multiple logical networks that are virtualized on a common hardware platform for different services",
+            "Corresponding guarantee mechanisms from the IP network layer to the 3GPP protocol layer for different services"
+        ],
+        "qtype": 0,
+        "answer": "C",
+        "solution": "",
+        "A": "Thorough separation of user plane and control plane",
+        "B": "Providing different physical network channels for various services",
+        "C": "Multiple logical networks that are virtualized on a common hardware platform for different services",
+        "D": "Corresponding guarantee mechanisms from the IP network layer to the 3GPP protocol layer for different services"
+    },
+    {
+        "id": "5G核心网-2",
+        "question": "Which 5G NSA networking option is based on EPC for the core network?",
+        "choices": [
+            "Option 2",
+            "Option 3",
+            "Option 5",
+            "Option 7"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "Option 2",
+        "B": "Option 3",
+        "C": "Option 5",
+        "D": "Option 7"
+    },
+    {
+        "id": "5G核心网-3",
+        "question": "Among the three types of 5G application scenarios defined by 3GPP, which one is most closely related to the Internet of Things?",
+        "choices": [
+            "NB-IOT",
+            "eMBB",
+            "URLLC",
+            "mMTC"
+        ],
+        "qtype": 0,
+        "answer": "D",
+        "solution": "",
+        "A": "NB-IOT",
+        "B": "eMBB",
+        "C": "URLLC",
+        "D": "mMTC"
+    },
+    {
+        "id": "5G核心网-4",
+        "question": "What is the correct statement about VoLTE in the deployment scenario of China Mobile's 5G NSA?",
+        "choices": [
+            "All VoLTE-related bearers are established on eNB.",
+            "SIP signaling corresponds to bearers established on eNB, and voice streams correspond to bearers established on gNB.",
+            "SIP signaling corresponds to bearers established on gNB, and voice streams correspond to bearers established on eNB.",
+            "All VoLTE-related bearers are established on gNB."
+        ],
+        "qtype": 0,
+        "answer": "A",
+        "solution": "",
+        "A": "All VoLTE-related bearers are established on eNB.",
+        "B": "SIP signaling corresponds to bearers established on eNB, and voice streams correspond to bearers established on gNB.",
+        "C": "SIP signaling corresponds to bearers established on gNB, and voice streams correspond to bearers established on eNB.",
+        "D": "All VoLTE-related bearers are established on gNB."
+    },
+    {
+        "id": "5G核心网-5",
+        "question": "Which network in 5GC has the following two functions: 1) supports service discovery; 2) maintains NF registration service information?",
+        "choices": [
+            "NSSF",
+            "NEF",
+            "NRF",
+            "UDM"
+        ],
+        "qtype": 0,
+        "answer": "C",
+        "solution": "",
+        "A": "NSSF",
+        "B": "NEF",
+        "C": "NRF",
+        "D": "UDM"
+    },
+    {
+        "id": "5G核心网-6",
+        "question": "What is the most relevant identifier for 5G network slicing?",
+        "choices": [
+            "5QI",
+            "GPSI",
+            "NSSAI",
+            "5G-GUTI"
+        ],
+        "qtype": 0,
+        "answer": "C",
+        "solution": "",
+        "A": "5QI",
+        "B": "GPSI",
+        "C": "NSSAI",
+        "D": "5G-GUTI"
+    },
+    {
+        "id": "5G核心网-7",
+        "question": "What is the China Mobile signaling detection system used to monitor network performance indicators through?",
+        "choices": [
+            "DPI probe data collection",
+            "Network management alarm data",
+            "Network management equipment performance data",
+            "All of the above"
+        ],
+        "qtype": 0,
+        "answer": "A",
+        "solution": "",
+        "A": "DPI probe data collection",
+        "B": "Network management alarm data",
+        "C": "Network management equipment performance data",
+        "D": "All of the above"
+    },
+    {
+        "id": "5G核心网-8",
+        "question": "Which message has the same name in the S1 interface of 4G and the N1/N2 interface of 5G?",
+        "choices": [
+            "Registration",
+            "PDU session establishment",
+            "Configuration update",
+            "UE Context Release"
+        ],
+        "qtype": 0,
+        "answer": "D",
+        "solution": "",
+        "A": "Registration",
+        "B": "PDU session establishment",
+        "C": "Configuration update",
+        "D": "UE Context Release"
+    },
+    {
+        "id": "5G核心网-9",
+        "question": "In what scenarios is mapping of NSSAI needed?",
+        "choices": [
+            "Inter-provincial roaming",
+            "International roaming",
+            "No roaming",
+            "All of the above"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "Inter-provincial roaming",
+        "B": "International roaming",
+        "C": "No roaming",
+        "D": "All of the above"
+    },
+    {
+        "id": "5G核心网-10",
+        "question": "Which 4G concept does not exist in 5G? (The names of the concepts do not need to be the same)",
+        "choices": [
+            "APN",
+            "EPS bear",
+            "UE AMBR",
+            "GBR"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "APN",
+        "B": "EPS bear",
+        "C": "UE AMBR",
+        "D": "GBR"
+    },
+    {
+        "id": "5G核心网-11",
+        "question": "What concept in 5G is similar to QCI in 4G?",
+        "choices": [
+            "QFI",
+            "5QI",
+            "QOS",
+            "EBI"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "QFI",
+        "B": "5QI",
+        "C": "QOS",
+        "D": "EBI"
+    },
+    {
+        "id": "5G核心网-12",
+        "question": "In the PDU Session establishment process initiated by UE, in which message is the GTP TEID on the NR side sent to the core network?",
+        "choices": [
+            "PDU session establishment request",
+            "PDU session establishment accept",
+            "InitialContextSetupRequest",
+            "InitialContextSetupResponse"
+        ],
+        "qtype": 0,
+        "answer": "D",
+        "solution": "",
+        "A": "PDU session establishment request",
+        "B": "PDU session establishment accept",
+        "C": "InitialContextSetupRequest",
+        "D": "InitialContextSetupResponse"
+    },
+    {
+        "id": "5G核心网-13",
+        "question": "What is the characteristic signaling process on the S1-mme interface in the NSA scenario?",
+        "choices": [
+            "Path Switch",
+            "e-RAB Setup",
+            "Iu release",
+            "e-RAB Modification"
+        ],
+        "qtype": 0,
+        "answer": "D",
+        "solution": "",
+        "A": "Path Switch",
+        "B": "e-RAB Setup",
+        "C": "Iu release",
+        "D": "e-RAB Modification"
+    },
+    {
+        "id": "5G核心网-14",
+        "question": "During the VoNR call setup process, to which network element does the SBC send the AAR message to trigger the establishment of a dedicated bearer?",
+        "choices": [
+            "SMF",
+            "AMF",
+            "UPF",
+            "PCF"
+        ],
+        "qtype": 0,
+        "answer": "D",
+        "solution": "",
+        "A": "SMF",
+        "B": "AMF",
+        "C": "UPF",
+        "D": "PCF"
+    },
+    {
+        "id": "5G核心网-15",
+        "question": "The interface name between SBC and PCF is",
+        "choices": [
+            "Gx",
+            "Rx",
+            "Mw",
+            "N26"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "Gx",
+        "B": "Rx",
+        "C": "Mw",
+        "D": "N26"
+    },
+    {
+        "id": "5G核心网-16",
+        "question": "Which network element notifies the creation of a voice-specific QoS Flow in PCF?",
+        "choices": [
+            "SMF",
+            "AMF",
+            "UPF",
+            "sbc"
+        ],
+        "qtype": 0,
+        "answer": "A",
+        "solution": "",
+        "A": "SMF",
+        "B": "AMF",
+        "C": "UPF",
+        "D": "sbc"
+    },
+    {
+        "id": "5G核心网-17",
+        "question": "From the perspective of logical function and role, which network element in the EPC domain is SMF equivalent to?",
+        "choices": [
+            "MME",
+            "HSS",
+            "PGW-C",
+            "SGW"
+        ],
+        "qtype": 0,
+        "answer": "C",
+        "solution": "",
+        "A": "MME",
+        "B": "HSS",
+        "C": "PGW-C",
+        "D": "SGW"
+    },
+    {
+        "id": "5G核心网-18",
+        "question": "From the perspective of logical function and role, which network element in the EPC domain is equivalent to AMF?",
+        "choices": [
+            "MME",
+            "HSS",
+            "PGW-C",
+            "SGW"
+        ],
+        "qtype": 0,
+        "answer": "A",
+        "solution": "",
+        "A": "MME",
+        "B": "HSS",
+        "C": "PGW-C",
+        "D": "SGW"
+    },
+    {
+        "id": "5G核心网-19",
+        "question": "What message does P-CSCF reply with to indicate that UE should initiate an emergency call using CS fallback emergency call procedure?",
+        "choices": [
+            "INVITE",
+            "183",
+            "380",
+            "UPDATE"
+        ],
+        "qtype": 0,
+        "answer": "C",
+        "solution": "",
+        "A": "INVITE",
+        "B": "183",
+        "C": "380",
+        "D": "UPDATE"
+    },
+    {
+        "id": "5G核心网-20",
+        "question": "What is the hidden identifier for 5G signing:",
+        "choices": [
+            "SUPI",
+            "SUCI",
+            "PEI",
+            "GUTI"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "SUPI",
+        "B": "SUCI",
+        "C": "PEI",
+        "D": "GUTI"
+    },
+    {
+        "id": "5G核心网-21",
+        "question": "In the protocol stack of the service-oriented interface for 5G Core, the protocol used in the transport layer is:",
+        "choices": [
+            "IP",
+            "HTTP",
+            "TCP",
+            "UDP"
+        ],
+        "qtype": 0,
+        "answer": "C",
+        "solution": "",
+        "A": "IP",
+        "B": "HTTP",
+        "C": "TCP",
+        "D": "UDP"
+    },
+    {
+        "id": "5G核心网-22",
+        "question": "What is the corresponding network element in 5GC for the 4G EPC MME?",
+        "choices": [
+            "SMF",
+            "AMF",
+            "UDM",
+            "PCF"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "SMF",
+        "B": "AMF",
+        "C": "UDM",
+        "D": "PCF"
+    },
+    {
+        "id": "5G核心网-23",
+        "question": "What is the top-level protocol between 5G AN and AMF?",
+        "choices": [
+            "GTP-U",
+            "GTP-C",
+            "NG-AP.",
+            "S1AP"
+        ],
+        "qtype": 0,
+        "answer": "C",
+        "solution": "",
+        "A": "GTP-U",
+        "B": "GTP-C",
+        "C": "NG-AP.",
+        "D": "S1AP"
+    },
+    {
+        "id": "5G核心网-24",
+        "question": "What is the interface and protocol between SMF and UPF?",
+        "choices": [
+            "N2/NGAP",
+            "N3/GTP-U",
+            "N4-PFCP",
+            "N6-PFCP"
+        ],
+        "qtype": 0,
+        "answer": "C",
+        "solution": "",
+        "A": "N2/NGAP",
+        "B": "N3/GTP-U",
+        "C": "N4-PFCP",
+        "D": "N6-PFCP"
+    },
+    {
+        "id": "5G核心网-25",
+        "question": "What is the hidden identifier reported during 5G terminal registration?",
+        "choices": [
+            "5G-GUTI",
+            "5G-S-TMSI",
+            "SUPI",
+            "SUCI"
+        ],
+        "qtype": 0,
+        "answer": "D",
+        "solution": "",
+        "A": "5G-GUTI",
+        "B": "5G-S-TMSI",
+        "C": "SUPI",
+        "D": "SUCI"
+    },
+    {
+        "id": "5G核心网-26",
+        "question": "In 5G Session and Service Continuity (SSC) mode, which mode maintains the IP address and PDU session anchor point?",
+        "choices": [
+            "Mode 1",
+            "Mode 2",
+            "Mode 3",
+            "All of the above"
+        ],
+        "qtype": 0,
+        "answer": "A",
+        "solution": "",
+        "A": "Mode 1",
+        "B": "Mode 2",
+        "C": "Mode 3",
+        "D": "All of the above"
+    },
+    {
+        "id": "5G核心网-27",
+        "question": "Which network element in 5Gc is responsible for NF registration, management, and status detection?",
+        "choices": [
+            "UDM",
+            "NEF",
+            "NRF",
+            "AMF"
+        ],
+        "qtype": 0,
+        "answer": "C",
+        "solution": "",
+        "A": "UDM",
+        "B": "NEF",
+        "C": "NRF",
+        "D": "AMF"
+    },
+    {
+        "id": "5G核心网-28",
+        "question": "Which network element in 5Gc is responsible for network exposure function and located between the 5G core network and external third-party application function body?",
+        "choices": [
+            "NRF",
+            "NEF",
+            "DN",
+            "UPF"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "",
+        "A": "NRF",
+        "B": "NEF",
+        "C": "DN",
+        "D": "UPF"
+    }
+]

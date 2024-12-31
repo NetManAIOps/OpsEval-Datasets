@@ -1,0 +1,68 @@
+[
+    {
+        "id": "9781119862642-A0001",
+        "type": 0,
+        "question": "你正在配置iPhone上的邮件应用来使用一个Outlook.com电子邮件地址。为建立连接，你需要输入哪些配置信息？",
+        "choices": [
+            "邮箱地址和密码",
+            "邮箱地址，密码和服务器名称",
+            "邮箱地址，密码，服务器名称以及电子邮件协议",
+            "邮箱地址，密码，服务器名称或IP地址，以及电子邮件协议"
+        ],
+        "answer": "A",
+        "solution": "A: 电子邮件地址和密码 - 这部分是正确的。配置邮件应用程序时，您确实需要您的电子邮件地址和密码。但是，根据电子邮件帐户的类型和邮件服务器的具体配置，您可能还需要额外的信息。\n\nB: 电子邮件地址、密码和服务器名称 - 这也部分正确。除了您的电子邮件地址和密码之外，您可能还需要知道邮件服务器的名称。但是，您还可能需要知道邮件协议。\n\nC: 电子邮件地址、密码、服务器名称和邮件协议 - 这是正确的。配置邮件应用程序时，通常需要知道您的电子邮件地址、密码、邮件服务器的名称和邮件协议（例如，POP、IMAP或SMTP）。\n\nD: 电子邮件地址、密码、服务器名称或IP地址和邮件协议 - 这也是正确的。在某些情况下，您可能需要知道邮件服务器的IP地址，而不是或者除了服务器名称之外。但这较不常见，通常仅在某些公司或高级配置中才需要。",
+        "topic": [
+            "移动设备"
+        ],
+        "source": "9781119862642/c01.xhtml",
+        "original_solution": "When configuring a mobile email client to access a commercial email provider, you typically just need your username and password to establish connectivity. Examples include Google, Yahoo, `Outlook.com`, and iCloud",
+        "A": "邮箱地址和密码",
+        "B": "邮箱地址，密码和服务器名称",
+        "C": "邮箱地址，密码，服务器名称以及电子邮件协议",
+        "D": "邮箱地址，密码，服务器名称或IP地址，以及电子邮件协议"
+    },
+    {
+        "id": "9781119862642-A0002",
+        "type": 0,
+        "question": "哪种类型的智能手机显示屏具有更少的层次，提供更大的灵活性、更好的视角和出色的色彩，与其他技术相比？",
+        "choices": [
+            "IPS",
+            "OLED",
+            "LED",
+            "TN"
+        ],
+        "answer": "B",
+        "solution": "A: IPS（面内切换） - 与TN面板相比，这项技术提供更好的视角和色彩再现，但不一定具有更少的层次或更多的灵活性。\n\nB: OLED（有机发光二极管） - 由于每个像素都提供自己的照明，这项技术具有较少的层次，而其他技术则有透过各种层次照亮显示屏的背光。OLED显示屏可以具备柔性，并提供出色的色彩和视角。\n\nC: LED（发光二极管） - 这是一种使用屏幕背后的背光来照亮显示的LCD显示技术。它没有更少的层次或更多的灵活性。\n\nD: TN（扭曲向列） - 这是最古老的LCD技术类型，具有快速的响应时间，但色彩再现和视角差。它没有更少的层次或更多的灵活性。",
+        "topic": [
+            "移动设备"
+        ],
+        "source": "9781119862642/c01.xhtml",
+        "original_solution": "Many newer smartphones are boasting OLED displays for their light weight, flexibility, color depth, and wider viewing angle. IPS is a popular type of LCD (Liquid Crystal Display) that requires backlighting to display the image. TN was the LCD technology developed first. It uses less power and has a limited viewing angle, but it supports very fast refresh rates. LEDs can be used as the backlight for LCD systems. OLED displays don't need a backlight because their carbon-based material can emit light and color",
+        "A": "IPS",
+        "B": "OLED",
+        "C": "LED",
+        "D": "TN"
+    },
+    {
+        "id": "9781119862642-A0003",
+        "type": 0,
+        "question": "你正在购买一款移动设备，允许你使用多指手势与设备互动。这种设备最有可能使用哪种类型的触摸屏技术？",
+        "choices": [
+            "电容式",
+            "红外线",
+            "表面声波",
+            "电阻式"
+        ],
+        "answer": "A",
+        "solution": "A: 电容式 - 这是最有可能的答案。电容式触摸屏是设计用来对人类手指接触屏幕时产生的电荷做出响应的。这允许多点触控功能，例如用手指捏或拉伸图像来进行缩放。\n\nB: 红外线 - 红外线触摸屏使用屏幕边缘的一组X-Y红外LED和光电检测器对来检测LED光束图案的中断。这些LED光束在垂直和水平模式下交叉。这有助于传感器捕捉触摸的确切位置。尽管这种类型的触摸屏允许多点触控，但它不如电容式触摸屏常见。\n\nC: SAW（声表面波） - SAW技术使用超声波波浪通过触摸屏面板。当触摸面板时，一部分波浪被吸收。超声波波浪的这种变化会记录触摸事件的位置，并将此信息发送给控制器进行处理。SAW触摸屏技术可以用于多点触控，但不如电容式触摸屏常见。\n\nD: 电阻式 - 电阻式触摸屏由两个柔性层组成，之间有一个气隙，这些层上覆有电阻性材料。当在触摸屏表面施加压力时，这些层被压在一起，电压通过它们传递。然后将检测到的电压作为触摸事件。电阻式触摸屏通常不支持多点触控。",
+        "topic": [
+            "移动设备"
+        ],
+        "source": "9781119862642/c01.xhtml",
+        "original_solution": "Capacitive touchscreens are a little less accurate than resistive touchscreens but more responsive. They respond to changes in electrical current, and as such, the human fingertip works great as the facilitator of input. Resistive screens require a heavier touch and don't support multi-touch input. Infrared screens don't work with multi-touch gestures, but like resistive screens, they can be used with gloves on. Surface Acoustic Wave (SAW) is another type of touchscreen, but it is not popular",
+        "A": "电容式",
+        "B": "红外线",
+        "C": "表面声波",
+        "D": "电阻式"
+    }
+]

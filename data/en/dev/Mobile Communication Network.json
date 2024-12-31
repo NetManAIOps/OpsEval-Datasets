@@ -1,0 +1,50 @@
+[
+    {
+        "id": "zjyd运维能力-知识召回02",
+        "question": "When a system performance bottleneck appears, what should the operations personnel consider first?",
+        "A": "Increase server hardware resources",
+        "B": "Optimize program code",
+        "C": "Upgrade the operating system",
+        "D": "Redesign the system architecture",
+        "answer": "B",
+        "solution": "",
+        "choices": [
+            "Increase server hardware resources",
+            "Optimize program code",
+            "Upgrade the operating system",
+            "Redesign the system architecture"
+        ]
+    },
+    {
+        "id": "zjyd运维能力-知识召回03",
+        "question": "In maintenance work, which of the following is not a main purpose of 'monitoring and log analysis'?",
+        "A": "Real-time monitoring of system operational status",
+        "B": "Analyzing user behavior",
+        "C": "Predicting system failures",
+        "D": "Improving system security",
+        "answer": "B",
+        "solution": "",
+        "choices": [
+            "Real-time monitoring of system operational status",
+            "Analyzing user behavior",
+            "Predicting system failures",
+            "Improving system security"
+        ]
+    },
+    {
+        "id": "zjyd运维能力-知识召回04",
+        "question": "In the course of operations work, which of the following measures is most effective for improving system stability?",
+        "A": "Frequent software version updates",
+        "B": "Regular system backups",
+        "C": "Ignoring security vulnerabilities",
+        "D": "Arbitrarily changing server configurations",
+        "answer": "B",
+        "solution": "",
+        "choices": [
+            "Frequent software version updates",
+            "Regular system backups",
+            "Ignoring security vulnerabilities",
+            "Arbitrarily changing server configurations"
+        ]
+    }
+]

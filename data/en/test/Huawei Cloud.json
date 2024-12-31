@@ -1,0 +1,274 @@
+[
+    {
+        "question": "5G SA access requires new additions",
+        "choices": [
+            "SGW, PGW separate deployment",
+            "I-SMF, I-UPF",
+            "Special slice",
+            "Special configuration"
+        ],
+        "A": "SGW, PGW separate deployment",
+        "B": "I-SMF, I-UPF",
+        "C": "Special slice",
+        "D": "Special configuration",
+        "answer": "B",
+        "solution": "",
+        "id": "huaweicloud-3"
+    },
+    {
+        "question": "Which of the following statements about Fullmesh deployment is incorrect?",
+        "choices": [
+            "Fullmesh deployment requires configuration as U-plane allocation F-TEIDU",
+            "In 20.0 Fullmesh deployment, the main push U-plane allocates UEIP addresses",
+            "In Fullmesh deployment scenarios, the SMF and UPF support faultless backup relationships",
+            "Fullmesh deployment supports up to 32 SMFs and 256 interconnected UPFs"
+        ],
+        "A": "Fullmesh deployment requires configuration as U-plane allocation F-TEIDU",
+        "B": "In 20.0 Fullmesh deployment, the main push U-plane allocates UEIP addresses",
+        "C": "In Fullmesh deployment scenarios, the SMF and UPF support faultless backup relationships",
+        "D": "Fullmesh deployment supports up to 32 SMFs and 256 interconnected UPFs",
+        "answer": "C",
+        "solution": "",
+        "id": "huaweicloud-4"
+    },
+    {
+        "question": "During the PDU session establishment process, which parameter does the SMF query to find the AMF?",
+        "choices": [
+            "amfRegionId",
+            "amfSetId",
+            "nfInstanceId",
+            "nfservice"
+        ],
+        "answer": "C",
+        "solution": "",
+        "id": "huaweicloud-5",
+        "A": "amfRegionId",
+        "B": "amfSetId",
+        "C": "nfInstanceId",
+        "D": "nfservice"
+    },
+    {
+        "question": "In the initial registration scenario of 5G, which of the following information elements is not included in the InitialContextSetupRequest message sent by AMF to gNB?",
+        "choices": [
+            "GUAMI",
+            "AllowedNSSAI",
+            "SecurityKey",
+            "ConfiguredNSSAI"
+        ],
+        "answer": "D",
+        "solution": "",
+        "id": "huaweicloud-6",
+        "A": "GUAMI",
+        "B": "AllowedNSSAI",
+        "C": "SecurityKey",
+        "D": "ConfiguredNSSAI"
+    },
+    {
+        "question": "Which identifier is allocated by the AMF?",
+        "choices": [
+            "GPSI",
+            "SUPI",
+            "5G-GUTI",
+            "SUCI"
+        ],
+        "answer": "C",
+        "solution": "",
+        "id": "huaweicloud-7",
+        "A": "GPSI",
+        "B": "SUPI",
+        "C": "5G-GUTI",
+        "D": "SUCI"
+    },
+    {
+        "question": "In the NSA scenario, what is the signaling flow feature on the S1-mme interface?",
+        "choices": [
+            "PathSwitch",
+            "e-RABSetup",
+            "Iurelease",
+            "e-RABModification"
+        ],
+        "answer": "D",
+        "solution": "",
+        "id": "huaweicloud-8",
+        "A": "PathSwitch",
+        "B": "e-RABSetup",
+        "C": "Iurelease",
+        "D": "e-RABModification"
+    },
+    {
+        "question": "5G NSA single-mode terminal, from 5G SA network to full 5G SA network (does not support NSA), what service can be enjoyed?",
+        "choices": [
+            "5G NSA",
+            "5G SA",
+            "4G",
+            "4G or 5G NSA"
+        ],
+        "answer": "C",
+        "solution": "",
+        "id": "huaweicloud-9",
+        "A": "5G NSA",
+        "B": "5G SA",
+        "C": "4G",
+        "D": "4G or 5G NSA"
+    },
+    {
+        "question": "The interface between SMF and UPF is?",
+        "choices": [
+            "N1",
+            "N2",
+            "N3",
+            "N4"
+        ],
+        "answer": "D",
+        "solution": "",
+        "id": "huaweicloud-10",
+        "A": "N1",
+        "B": "N2",
+        "C": "N3",
+        "D": "N4"
+    },
+    {
+        "question": "Which of the following disaster recovery technologies is unique to 5G?",
+        "choices": [
+            "POOL",
+            "NFSET disaster recovery",
+            "1+1 primary and backup",
+            "Cross-DC disaster recovery"
+        ],
+        "answer": "B",
+        "solution": "",
+        "id": "huaweicloud-11",
+        "A": "POOL",
+        "B": "NFSET disaster recovery",
+        "C": "1+1 primary and backup",
+        "D": "Cross-DC disaster recovery"
+    },
+    {
+        "question": "What is the gateway used in 5G for interworking with non-3GPP?",
+        "choices": [
+            "TWAG",
+            "ePDG",
+            "N3IWF",
+            "AP/AC"
+        ],
+        "answer": "C",
+        "solution": "",
+        "id": "huaweicloud-12",
+        "A": "TWAG",
+        "B": "ePDG",
+        "C": "N3IWF",
+        "D": "AP/AC"
+    },
+    {
+        "question": "During the registration process, which NF does the AMF query for slice authentication information?",
+        "choices": [
+            "PCF",
+            "UDM",
+            "NSSF",
+            "NRF"
+        ],
+        "answer": "B",
+        "solution": "",
+        "id": "huaweicloud-13",
+        "A": "PCF",
+        "B": "UDM",
+        "C": "NSSF",
+        "D": "NRF"
+    },
+    {
+        "question": "The interface between 4G/5G MME and AMF is?",
+        "choices": [
+            "N24",
+            "N25",
+            "N26",
+            "N27"
+        ],
+        "answer": "C",
+        "solution": "",
+        "id": "huaweicloud-14",
+        "A": "N24",
+        "B": "N25",
+        "C": "N26",
+        "D": "N27"
+    },
+    {
+        "question": "The following scenarios are applicable to non-competitive random access:",
+        "choices": [
+            "Initial UE access",
+            "UE re-establishment",
+            "UE has uplink data transmission, but uplink synchronization is lost",
+            "Handover"
+        ],
+        "answer": "D",
+        "solution": "",
+        "id": "huaweicloud-15",
+        "A": "Initial UE access",
+        "B": "UE re-establishment",
+        "C": "UE has uplink data transmission, but uplink synchronization is lost",
+        "D": "Handover"
+    },
+    {
+        "question": "5G-QOS model not involved",
+        "choices": [
+            "5QI",
+            "QCI",
+            "ARP",
+            "QOSFlow"
+        ],
+        "answer": "B",
+        "solution": "",
+        "id": "huaweicloud-16",
+        "A": "5QI",
+        "B": "QCI",
+        "C": "ARP",
+        "D": "QOSFlow"
+    },
+    {
+        "question": "As a response to the 5G paging, the UE should initiate the servicerequest process. What should be the servicetype value at this time?",
+        "choices": [
+            "signaling",
+            "data",
+            "emergency",
+            "mobileterminatedservices"
+        ],
+        "answer": "D",
+        "solution": "",
+        "id": "huaweicloud-17",
+        "A": "signaling",
+        "B": "data",
+        "C": "emergency",
+        "D": "mobileterminatedservices"
+    },
+    {
+        "question": "Based on what information does AMF determine whether the paging message includes the paging priority indication",
+        "choices": [
+            "PCF transmitted ARP value",
+            "SMF transmitted ARP value",
+            "PCF transmitted 5QI parameter",
+            "SMF transmitted 5QI parameter"
+        ],
+        "answer": "B",
+        "solution": "",
+        "id": "huaweicloud-18",
+        "A": "PCF transmitted ARP value",
+        "B": "SMF transmitted ARP value",
+        "C": "PCF transmitted 5QI parameter",
+        "D": "SMF transmitted 5QI parameter"
+    },
+    {
+        "question": "Which information element in the following RegistrationRequest is used to determine whether there is a pending session for the UE?",
+        "choices": [
+            "Follow-onrequest",
+            "PDUsessionstatus",
+            "AllowedPDUsessionstatus",
+            "Uplinkdatastatus"
+        ],
+        "answer": "D",
+        "solution": "",
+        "id": "huaweicloud-19",
+        "A": "Follow-onrequest",
+        "B": "PDUsessionstatus",
+        "C": "AllowedPDUsessionstatus",
+        "D": "Uplinkdatastatus"
+    }
+]

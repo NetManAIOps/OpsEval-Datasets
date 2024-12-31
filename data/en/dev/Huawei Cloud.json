@@ -1,0 +1,50 @@
+[
+    {
+        "question": "In 5GS, which core network node is used for authentication selection?",
+        "choices": [
+            "AMF",
+            "SMF",
+            "UDM",
+            "AUSF"
+        ],
+        "answer": "C",
+        "solution": "",
+        "id": "huaweicloud-0",
+        "A": "AMF",
+        "B": "SMF",
+        "C": "UDM",
+        "D": "AUSF"
+    },
+    {
+        "question": "SMF selects UPF through TAI (), SMF selects UPF through DNN ().",
+        "choices": [
+            "Data service;N3",
+            "N3;Data service",
+            "N9;Data service",
+            "N9;N3"
+        ],
+        "A": "Data service;N3",
+        "B": "N3;Data service",
+        "C": "N9;Data service",
+        "D": "N9;N3",
+        "answer": "B",
+        "solution": "",
+        "id": "huaweicloud-1"
+    },
+    {
+        "question": "UDM does not support the following functions and features",
+        "choices": [
+            "Generate AKA authentication key",
+            "Lawful interception",
+            "SMS service support",
+            "Support 3GPP access and non-3GPP access authentication"
+        ],
+        "answer": "D",
+        "solution": "",
+        "id": "huaweicloud-2",
+        "A": "Generate AKA authentication key",
+        "B": "Lawful interception",
+        "C": "SMS service support",
+        "D": "Support 3GPP access and non-3GPP access authentication"
+    }
+]

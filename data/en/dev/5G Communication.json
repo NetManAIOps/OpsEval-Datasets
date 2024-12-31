@@ -1,0 +1,53 @@
+[
+    {
+        "id": "5G基础-1",
+        "question": "Which of the following options does not belong to the three major application scenarios of 5G?",
+        "choices": [
+            "eMBB",
+            "eMTC",
+            "uRLLC",
+            "mMTC"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "A. eMBB (Enhanced Mobile Broadband): This is a major application scenario of 5G, mainly used to provide high-speed, large-flow mobile broadband services, such as high-definition video, VR/AR, etc.\n\nB. eMTC (Enhanced Machine Type Communication): This is not one of the three major application scenarios of 5G. It is a technology of 4G LTE network, mainly used for low-power, low-cost, low-data-rate communication of IoT devices.\n\nC. uRLLC (Ultra-Reliable Low-Latency Communication): This is a major application scenario of 5G, mainly used for applications that require ultra-high reliability and ultra-low latency, such as autonomous driving, remote surgery, etc.\n\nD. mMTC (Massive Machine Type Communication): This is a major application scenario of 5G, mainly used for large-scale IoT device communication, such as smart homes, smart cities, etc.",
+        "A": "eMBB",
+        "B": "eMTC",
+        "C": "uRLLC",
+        "D": "mMTC"
+    },
+    {
+        "id": "5G基础-3",
+        "question": "Which dual connectivity mode allows 5G data to be transmitted through both 4G and 5G air interfaces?",
+        "choices": [
+            "Option3",
+            "Option3A",
+            "Option3S",
+            "Option3X"
+        ],
+        "qtype": 0,
+        "answer": "D",
+        "solution": "A: Option3: In Option3 mode, the 4G network serves as the main network and the 5G network serves as the auxiliary network. However, data can only be delivered through the 4G network, not the 5G network.\n\nB: Option3A: In Option3A mode, the 4G network serves as the main network and the 5G network serves as the auxiliary network. However, data can only be delivered through the 4G network, not the 5G network.\n\nC: Option3S: In Option3S mode, both the 4G network and the 5G network can serve as the main network. However, data can only be delivered through one of the networks, not both simultaneously.\n\nD: Option3X: In Option3X mode, the 4G network serves as the main network and the 5G network serves as the auxiliary network. In this mode, data can be delivered simultaneously through both the 4G and 5G air interfaces.",
+        "A": "Option3",
+        "B": "Option3A",
+        "C": "Option3S",
+        "D": "Option3X"
+    },
+    {
+        "id": "5G基础-9",
+        "question": "The additional frequency shift caused by the Doppler effect is called the Doppler frequency shift. If the mobile station moves in the direction away from the base station, the Doppler frequency shift will cause the received frequency of the mobile station to:",
+        "choices": [
+            "Increase",
+            "Decrease",
+            "Remain unchanged",
+            "All of the above are possible"
+        ],
+        "qtype": 0,
+        "answer": "B",
+        "solution": "A: Too large: This is incorrect. When the mobile station moves in the direction away from the base station, due to the Doppler effect, the frequency received by the mobile station will actually decrease, not increase.\n\nB: Too small: This is correct. When the mobile station moves in the direction away from the base station, due to the Doppler effect, the frequency received by the mobile station will decrease. This is because the movement of the mobile station leads to an increase in the signal wavelength, and the frequency is the reciprocal of the speed and wavelength, so the frequency will decrease.\n\nC: Unchanged: This is incorrect. The Doppler effect will cause the frequency received by the mobile station to change, whether moving towards the base station or away from it, both will cause changes in the received frequency.\n\nD: All of the above are possible: This is incorrect. In this case, only option B is correct.",
+        "A": "Increase",
+        "B": "Decrease",
+        "C": "Remain unchanged",
+        "D": "All of the above are possible"
+    }
+]

@@ -87,6 +87,7 @@ Here is a brief overview of the dataset structure:
 | Oracle Database | 395 |
 | 5G Communication | 349 |
 | Log Analysis | 310 | 
+| Mobile Communication Network | |
 
 <!-- ## Usage
 
